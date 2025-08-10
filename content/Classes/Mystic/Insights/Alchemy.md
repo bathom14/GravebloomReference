@@ -1,1 +1,0 @@
-Whenever your dPsi changes size, you may gain temporary hit points equal to the new dPsiMax. 

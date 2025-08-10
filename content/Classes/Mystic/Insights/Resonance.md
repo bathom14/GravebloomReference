@@ -1,6 +1,0 @@
-You have learned to resonate your psionic energies, allowing you to capture a reflection of your own powers and magnify your abilities. You can add an additional Psionic Reverberation die (dΩ) to each of your dΨ rolls.  Your dΩ is always a d4, and its value is added to the value of your roll from your dΨ. However, your dΩ does not cause growth or shrink for either itself or your dΨ when rolling a 1 or  dΩₘₐₓ.
-
-At the cost of 1 Pneuma, you may choose to Synchronize your dΩ after rolling your dΨₘₐₓ. If you choose to do so, the value of your dΩ is counted for determining dΨ growth or shrink triggers. This can serve to cause a shrink or growth to occur when it otherwise would not, or allow for a growth or shrink to counteract another source of shrink or growth.
-
-When your dΨ is exhausted, your dΩ becomes a Psionic Echo die (dΕ), which is also a d4. As long as your dΕ is active, your dΨ is not considered exhausted for any ability that is disabled during exhaustion, and whenever an ability calls for your dΨ to be rolled, you may roll your Psionic Echo die. If your dΕ rolls its maximum value, it is depleted and your dΨ is now considered exhausted. Conversely, if your dΕ rolls a 1, your dΨ is recovered at its d4 size, and your Psionic Echo die becomes your Psionic Reverberation die once again.
-
