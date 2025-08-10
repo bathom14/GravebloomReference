@@ -1,3 +1,4 @@
+import remarkBreaks from "remark-breaks"
 import remarkGfm from "remark-gfm"
 import smartypants from "remark-smartypants"
 import { QuartzTransformerPlugin } from "../types"
@@ -19,7 +20,9 @@ export const GitHubFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>> =
   return {
     name: "GitHubFlavoredMarkdown",
     markdownPlugins() {
-      return opts.enableSmartyPants ? [remarkGfm, smartypants] : [remarkGfm]
+      return opts.enableSmartyPants
+  ? [remarkGfm, remarkBreaks, smartypants]
+  : [remarkGfm, remarkBreaks]
     },
     htmlPlugins() {
       if (opts.linkHeadings) {
