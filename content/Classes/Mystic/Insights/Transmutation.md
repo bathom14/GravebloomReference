@@ -1,0 +1,1 @@
+As an action, you can replenish Pneuma equal to your current λ dΨ, and then shrink your dΨ. This shrink cannot be prevented by any means, and the Pneuma gained cannot bring you above your maximum Pneuma

@@ -1,0 +1,3 @@
+The year is 5677 of the 73rd aeon, and you find yourself on the distant settlement of Alzgabahd. Settled in the past year on the decree of the Crown of the Sands, the colony serves as the furthest extent of the Empire of the Three Kings
+
+Alzgabahd is situated on the shores of the continent designated as Kaarvan-Resh by the Three Crowns. Kaarvan-Resh, also known as Vaekulani to the native Lithic Elves, was discovered by Crown sailors a mere three years prior. First coming across the island of Vaelcarth, the sailors were surprised to find a thriving civilization of elven natives, organized into a singular monarchic nation. Calling themselves the (insert here), 
