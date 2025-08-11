@@ -1,11 +1,3 @@
-## **Toxicologist**
-
-**Skill Proficiencies:** Nature, Medicine  
-**Tool Proficiencies:** Poisoner’s Kit  
-**Languages:** One of your choice  
-**Equipment:** A poisoner’s kit, a small set of sample vials (empty), a rugged satchel containing assorted herbs and preserved venom sacs (worth 5 gp), a set of traveler’s clothes, and a belt pouch containing 10 gp
-# Origin Feat: [[Poisoner]]
-
 You can prepare and apply toxins with speed and precision, both in the field and during downtime.
 
 - When you make a damage roll, you can ignore resistance to poison damage.

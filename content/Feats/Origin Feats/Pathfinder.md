@@ -1,12 +1,3 @@
-**Skill Proficiencies:** Survival, Investigation  
-**Tool Proficiencies:** Cartographer’s Tools  
-**Languages:** One of your choice  
-**Equipment:** Cartographer’s tools, a partially completed map of an unexplored area, a set of traveler’s clothes, a brass compass, and a belt pouch containing 10 gp
-
----
-
-# Origin Feat: [[Pathfinder]]
-
 You are trained in the arts of navigation, surveying, and route planning, letting you move through and chart the world with ease.
 
 - **Unerring Direction:** You always know the cardinal directions while above ground, and you can accurately estimate the time until sunrise or sunset without a check.

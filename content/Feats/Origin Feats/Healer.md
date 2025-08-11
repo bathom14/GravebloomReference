@@ -1,10 +1,3 @@
-**Skill Proficiencies**: Medicine, Nature
-**Tool Proficiencies**: Herbalism Kit
-**Languages**: One of your choice
-**Equipment**: A healer's kit, a herbalism kit, a small knife or scalpel, a notebook and pencils, and a set of common clothes
-
-# Origin Feat: [[Healer]]
-
 You are an able physician, allowing you to mend wounds quickly and get your allies back in the fight. You gain the following benefits:
 
 - When you use a healer's kit to stabilize a dying creature, that creature also regains 1 hit point.

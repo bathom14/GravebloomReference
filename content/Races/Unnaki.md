@@ -1,26 +1,26 @@
 # Unnaki
 
 **Ability Score Increase.** Your Charisma score increases by 2, and your Constitution score increases by 1.
- 
+
 **Age.** Old
- 
+
 **Alignment.** Varied
 
 **Creature Type.** You are a Humanoid
- 
+
 **Size.** Unnaki stand between 7 ½ and 8 ½ feet tall and average around 300 pounds. Your size is Medium.
- 
+
 **Speed.** You have a walking speed of 30 feet.
 
-**Desert Acclimation.** :: You are naturally acclimated to high temperatures, granting you an automatic success on saving throws related to extreme heat.
+**Desert Acclimation.** You are naturally acclimated to high temperatures, granting you an automatic success on saving throws related to extreme heat.
 
 **Powerful Build.** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
 
-**Sheer Will.** Unnaki possess innate psychic fortitude, granting you advantage on saving throws you make to avoid or end the charmed and frightened conditions on yourself. You have resistance to psychic damage.
+**Sheer Will.** Unnaki possess innate pyschic fortitude, granting you advantage on saving throws you make to avoid or end the charmed and frightened conditions on yourself. You have resistance to psychic damage.
 
-**Languages.** :: You can speak, read, and write Unnakian and another language of your choice.
+**Languages.** You can speak, read, and write Unnakian and another language of your choice.
 
-**Unnaki Psionics.** :: Unnaki naturally harbor potent psionic powers within themselves. This power is represented by a Psionic Talent die, the starting size of which is d6.
+**Unnaki Psionics.** Unnaki naturally harbor potent psionic powers within themselves. This power is represented by a Psionic Talent die, the starting size of which is d6.
 
 ***Unnaki Psionics Options.*** You can use your Psionic Talent Die in the following ways
 

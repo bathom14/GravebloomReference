@@ -1,10 +1,3 @@
-**Skill Proficiencies:** History, Investigation  
-**Tool Proficiencies:** Calligrapher's supplies
-**Languages:** One of your choice  
-**Equipment:** A wooden case containing a map to a ruin or dungeon, a bullseye lantern, a miner's pick, a set of traveler's clothes, a shovel, a two-person tent, a trinket recovered from a dig site, and a pouch containing 25gp
-
-# Origin Feat: [[Dungeon Delver]]
-
 Alert to the hidden traps and secret doors found in many dungeons, you gain the following benefits:
 
 - You have advantage on Wisdom (Perception) and Intelligence (Investigation) checks made to detect the presence of secret doors.

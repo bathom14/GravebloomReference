@@ -1,10 +1,3 @@
-**Skill Proficiencies:** Insight, Religion  
-**Tool Proficiencies:** None  
-**Languages:** Two of your choice  
-**Equipment:** A holy symbol (a gift to you when you entered the priesthood), a prayer book or prayer wheel, 5 sticks of incense, vestments, a set of common clothes, and a pouch containing 15gp
-
-# Origin Feat: [[Divinely Favored]]
-
 A god chose you to carry a spark of their power.
 
 You learn one cantrip of your choice from the Cleric spell list and one 1st-level spell based on the alignment of your character, as specified in the Alignment Spells table below. You also learn the Augury spell.

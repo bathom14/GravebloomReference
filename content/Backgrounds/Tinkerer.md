@@ -1,7 +1,7 @@
 **Skill Proficiencies:** Arcana, Investigation
 **Tool Proficiencies:** Tinkers' tools
 **Equipment:** A set of artisan’s tools (one of your choice), a bottle of black ink, a quill, a puzzle-box containing the plans to your next creation, parchment, a set of common clothes, and a belt pouch containing 10 gp.
-# Background Feat: Artificer Adept
+# Background Feat: [[Artificer Adept]]
 
 You’ve learned some of an artificer’s inventiveness:
 

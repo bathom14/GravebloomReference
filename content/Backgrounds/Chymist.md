@@ -3,7 +3,7 @@
 **Language**: One of your choice
 **Equipment**: A set of alchemist’s supplies, one vial of acid, a set of common clothes, and a belt pouch containing four empty vials and 5 gp.
 
-# Background Feat: Alchemist
+# Origin Feat: [[Alchemist]]
 
 • You gain proficiency with alchemist’s supplies. If you are already proficient with them, you double your proficiency bonus to checks you make with them.
 

@@ -1,10 +1,3 @@
-**Skill Proficiencies:** Insight, Religion  
-**Tool Proficiencies:** None  
-**Languages:** Two of your choice  
-**Equipment:** A leather-bound diary, a bottle of ink, an ink pen, a set of traveler's clothes, one trinket of special significance, and a pouch containing 10gp
-
-# Origin Feat: [[Cultural Envoy]]
-
 You have studied the customs, gestures, and tonal nuances of countless cultures, enabling you to communicate across language barriers and read people more effectively. You gain the following benefits:
 
 - **Polyglot’s Ear:** You learn two additional languages of your choice.

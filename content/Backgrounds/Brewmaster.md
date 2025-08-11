@@ -3,7 +3,7 @@
 **Languages**: One of your choice
 **Equipment**: Brewer’s supplies, a sturdy tankard (can double as an improvised weapon), a leather shoulder-slung satchel containing three sealed bottles of your signature brew (or equivalent potent drink), a small pouch of herbs and additives for flavor or medicinal effect, a set of common clothes, and a belt pouch containing 10 gp.
 
-# Background Feat: [[Tavern Brawler]]
+# Origin Feat: [[Tavern Brawler]]
 
 Accustomed to brawling under the influence, you gain the following benefits:
 

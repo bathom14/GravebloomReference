@@ -1,10 +1,3 @@
-**Skill Proficiencies:** History, Arcana 
-**Tool Proficiencies:** Calligraphists' Tools
-**Languages:** One of your choice  
-**Equipment:** The scholar's robes of your cloister, a writing kit (small pouch with a quill, a bottle of ink, folded parchment, and a small penknife), a borrowed book on the subject of your current study, and a pouch containing 10gp
-
-# Origin Feat: [[Ritual Caster]]
-
 You have learned a number of spells that you can cast as rituals. These spells are written in a ritual book, which you must have in hand while casting one of them.
 
 When you choose this feat, you acquire a ritual book holding two 1st-level spells of your choice. Choose one of the following classes: bard, cleric, druid, sorcerer, warlock, or wizard. You must choose your spells from that class's spell list, and the spells you choose must have the ritual tag. The class you choose also must have the ritual tag. The class you choose also determines your spellcasting ability for these spells: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid; or Intelligence for wizard.
