@@ -1,10 +1,10 @@
 ---
-title: "Called Shots"
+title: Called Shots
 note_type: feat
 feat_category: "[[General Feat]]"
 feat_race_req: ""
 feat_level_req: ""
-feat_feat_req: ""
+feat_feat_req:
 ---
 Practice makes perfect, and with extensive practice you’ve mastered the art of hitting even smaller targets. Before making an attack with a ranged weapon with which you are proficient, you can choose to take a -5 penalty to the attack roll. If the attack hits, you successfully land a shot on a specific part of a creature. If applicable, the following locations can be hit, with corresponding effects The saving throw DC for these effects are equal to 8 + your proficiency bonus and whichever ability score modifier you used to make the attack roll
 

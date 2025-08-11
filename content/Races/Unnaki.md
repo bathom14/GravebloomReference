@@ -16,7 +16,7 @@
 
 **Powerful Build.** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
 
-**Sheer Will.** Unnaki possess innate pyschic fortitude, granting you advantage on saving throws you make to avoid or end the charmed and frightened conditions on yourself. You have resistance to psychic damage.
+**Sheer Will.** Unnaki possess innate psychic fortitude, granting you advantage on saving throws you make to avoid or end the charmed and frightened conditions on yourself. You have resistance to psychic damage.
 
 **Languages.** You can speak, read, and write Unnakian and another language of your choice.
 
