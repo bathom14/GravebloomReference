@@ -1,26 +1,26 @@
 ### The Monk
-| Level | Proficiency Bonus| Maneuver Dice| Prepared Maneuvers | Martial Arts| Ki Points|Ki Block Points | Unarmored Movement | Features   |
-|:---:|:----:|:------:|:---:|:------:|:------:|:-:|:--:|:-:|
-|  1st  |  +2  | 2d6 | 1 |1d4 |-|-|-| Unarmored Defense, Martial Arts |
-|  2nd  |  +2  | 2d6 |1 |1d4 |2|-|+10 ft.| Ki, Unarmored Movement, Dedicated Weapon |
-|  3rd  |  +2  | 2d6 |2 |1d4 |3|-|+10 ft.| Monastic Tradition, Deflect Missiles, Ki-Fueled Attack|
-|  4th  |  +2  |3d6 |2 |1d4 |4|-|+10 ft.| Ability Score Improvement, Slow Fall, Quickened Healing| 
-|  5th  |  +3  |3d6 |3 |2d4 |5|3|+10 ft.| Extra Attack, Ki Blocks, Focused Aim |
-|  6th  |  +3  | 3d8|3 |2d4 |6|3|+15 ft.| Ability Score Improvement, Ki-Empowered Strikes, Ki-Guided Parry, Monastic Tradition feature| 
-|  7th  |  +3  |3d8 |4 |2d4 |7|3|+15 ft.| 	Evasion, Stillness of Mind |
-|  8th  |  +3  |4d8 |4 |2d4 |8|3|+15 ft.| 	Ability Score Improvement |
-|  9th  |  +4  |4d8 |5 |3d4 |9|4|+15 ft.| Unarmored Movement Improvement |
-| 10th  |  +4  |4d8 |5 |3d4 |10|4|+20 ft.| 	Purity of Body |
-| 11th  |  +4  |4d10 |6 |3d4 |11|4|+20 ft.| Monastic Tradition feature |
-| 12th  |  +4  |5d10 | 6|3d4 |12|4|+20 ft.| 	Ability Score Improvement |
-| 13th  |  +5  |5d10 |7 |4d4 |13|5|+20 ft.|Tongue of the Sun and Moon |
-| 14th  |  +5  |5d10 |7 |4d4 |14|5|+25 ft.|Diamond Soul |
-| 15th  |  +5  |5d10 |8 |4d4 |15|5|+25 ft.|	Timeless Body |
-| 16th  |  +5  |5d12 |8 |4d4 |16|5|+25 ft.|	Ability Score Improvement|
-| 17th  |  +6  |6d12 |9 |5d4 |17|6|+25 ft.|Monastic Tradition feature |
-| 18th  |  +6  |6d12 |9 |5d4 |18|6|+30 ft.|	Empty Body|
-| 19th  |  +6  |6d12 |10 |5d4 |19|6|+30 ft.|	Ability Score Improvement|
-| 20th  |  +6  |6d12 |10 |5d4 |20|6|+30 ft.|Perfect Self|
+| Level | Proficiency Bonus | Maneuver Dice | Prepared Maneuvers | Martial Arts | Ki Points | Ki Block Points | Unarmored Movement |                                           Features                                           |
+| :---: | :---------------: | :-----------: | :----------------: | :----------: | :-------: | :-------------: | :----------------: | :------------------------------------------------------------------------------------------: |
+|  1st  |        +2         |      3d6      |         1          |     1d4      |     -     |        -        |         -          |                               Unarmored Defense, Martial Arts                                |
+|  2nd  |        +2         |      3d6      |         1          |     1d4      |     2     |        -        |      +10 ft.       |                           Ki, Unarmored Movement, Dedicated Weapon                           |
+|  3rd  |        +2         |      4d6      |         2          |     1d4      |     3     |        -        |      +10 ft.       |                    Monastic Tradition, Deflect Missiles, Ki-Fueled Attack                    |
+|  4th  |        +2         |      4d6      |         2          |     1d4      |     4     |        -        |      +10 ft.       |                   Ability Score Improvement, Slow Fall, Quickened Healing                    |
+|  5th  |        +3         |      5d6      |         3          |     2d4      |     5     |        3        |      +10 ft.       |                             Extra Attack, Ki Blocks, Focused Aim                             |
+|  6th  |        +3         |      5d8      |         3          |     2d4      |     6     |        3        |      +15 ft.       | Ability Score Improvement, Ki-Empowered Strikes, Ki-Guided Parry, Monastic Tradition feature |
+|  7th  |        +3         |      6d8      |         4          |     2d4      |     7     |        3        |      +15 ft.       |                                  Evasion, Stillness of Mind                                  |
+|  8th  |        +3         |      6d8      |         4          |     2d4      |     8     |        3        |      +15 ft.       |                                  Ability Score Improvement                                   |
+|  9th  |        +4         |      7d8      |         5          |     3d4      |     9     |        4        |      +15 ft.       |                                Unarmored Movement Improvement                                |
+| 10th  |        +4         |      7d8      |         5          |     3d4      |    10     |        4        |      +20 ft.       |                                        Purity of Body                                        |
+| 11th  |        +4         |     8d10      |         6          |     3d4      |    11     |        4        |      +20 ft.       |                                  Monastic Tradition feature                                  |
+| 12th  |        +4         |     8d10      |         6          |     3d4      |    12     |        4        |      +20 ft.       |                                  Ability Score Improvement                                   |
+| 13th  |        +5         |     9d10      |         7          |     4d4      |    13     |        5        |      +20 ft.       |                                  Tongue of the Sun and Moon                                  |
+| 14th  |        +5         |     9d10      |         7          |     4d4      |    14     |        5        |      +25 ft.       |                                         Diamond Soul                                         |
+| 15th  |        +5         |     10d10     |         8          |     4d4      |    15     |        5        |      +25 ft.       |                                        Timeless Body                                         |
+| 16th  |        +5         |     10d12     |         8          |     4d4      |    16     |        5        |      +25 ft.       |                                  Ability Score Improvement                                   |
+| 17th  |        +6         |     11d12     |         9          |     5d4      |    17     |        6        |      +25 ft.       |                                  Monastic Tradition feature                                  |
+| 18th  |        +6         |     11d12     |         9          |     5d4      |    18     |        6        |      +30 ft.       |                                          Empty Body                                          |
+| 19th  |        +6         |     12d12     |         10         |     5d4      |    19     |        6        |      +30 ft.       |                                  Ability Score Improvement                                   |
+| 20th  |        +6         |     12d12     |         10         |     5d4      |    20     |        6        |      +30 ft.       |                                         Perfect Self                                         |
 
 
 ### Class Features
@@ -132,6 +132,7 @@ If you reduce the damage to 0, you can catch the missile if it is small enough f
 
 If you reduce the damage to 0, you can expend 1 Focus Point to redirect some of the attack’s force. If you do so, choose a creature you can see within 5 feet of yourself if the attack was a melee attack or a creature you can see within 60 feet of yourself that isn’t behind Total Cover if the attack was a ranged attack. That creature must succeed on a Dexterity saving throw or take damage equal to two rolls of your Martial Arts die plus your Dexterity modifier. The damage is the same type dealt by the attack.)
 
+Martial Arts Die + Dex Modifier + Proficiency Bonus
 
 #### Ki-Fueled Attack
 

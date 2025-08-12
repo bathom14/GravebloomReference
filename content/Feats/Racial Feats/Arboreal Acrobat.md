@@ -1,10 +1,10 @@
 ---
-title: "Arboreal Acrobat"
+title: Arboreal Acrobat
 note_type: feat
 feat_category: "[[Racial Feat]]"
 feat_race_req: "[[Grung]]"
-feat_level_req: ""
-feat_feat_req: ""
+feat_level_req: 
+feat_feat_req:
 ---
 **Prerequisites:** [[Grung]]
 

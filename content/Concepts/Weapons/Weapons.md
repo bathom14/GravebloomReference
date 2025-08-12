@@ -1,70 +1,70 @@
 # Simple Weapons
 
-| _Simple Melee Weapons_ | Cost | Damage          | Weight | Properties                           |
-| :--------------------- | :--- | :-------------- | :----- | :----------------------------------- |
-| Club                   | 1 sp | 1d4 bludgeoning | 2 lb   | Light                                |
-| Dagger                 | 2 gp | 1d4 piercing    | 1 lb   | Finesse, light, thrown (range 20/60) |
-| Greatclub              | 2 sp | 1d8 bludgeoning | 10 lb  | Two-handed                           |
-| Handaxe                | 5 gp | 1d6 slashing    | 2 lb   | Light, thrown (range 20/60)          |
-| Javelin                | 5 sp | 1d6 piercing    | 2 lb   | Thrown (range 30/120)                |
-| Light hammer           | 2 gp | 1d4 bludgeoning | 2 lb   | Light, thrown (range 20/60)          |
-| Mace                   | 5 gp | 1d6 bludgeoning | 4 lb   | -                                    |
-| Quarterstaff           | 2 sp | 1d6 bludgeoning | 4 lb   | Versatile (1d8)                      |
-| Sickle                 | 1 gp | 1d4 slashing    | 2 lb   | Light                                |
-| Spear                  | 1 gp | 1d6 piercing    | 3 lb   | Thrown, versatile (1d8)              |
-| Unarmed strike         | -    | 1 bludgeoning   | -      | -                                    |
+| _Simple Melee Weapons_ | Cost | Damage          | Weight | Properties                           | Mastery |
+| :--------------------- | :--- | :-------------- | :----- | :----------------------------------- | ------- |
+| Club                   | 1 sp | 1d4 bludgeoning | 2 lb   | Light                                | Slow    |
+| Dagger                 | 2 gp | 1d4 piercing    | 1 lb   | Finesse, light, thrown (range 20/60) | Nick    |
+| Greatclub              | 2 sp | 1d8 bludgeoning | 10 lb  | Two-handed                           | Push    |
+| Handaxe                | 5 gp | 1d6 slashing    | 2 lb   | Light, thrown (range 20/60)          | Vex     |
+| Javelin                | 5 sp | 1d6 piercing    | 2 lb   | Thrown (range 30/120)                | Slow    |
+| Light hammer           | 2 gp | 1d4 bludgeoning | 2 lb   | Light, thrown (range 20/60)          | Nick    |
+| Mace                   | 5 gp | 1d6 bludgeoning | 4 lb   | -                                    | Sap     |
+| Quarterstaff           | 2 sp | 1d6 bludgeoning | 4 lb   | Versatile (1d8)                      | Topple  |
+| Sickle                 | 1 gp | 1d4 slashing    | 2 lb   | Light                                | Nick    |
+| Spear                  | 1 gp | 1d6 piercing    | 3 lb   | Thrown, versatile (1d8)              | Sap     |
+| Unarmed strike         | -    | 1 bludgeoning   | -      | -                                    |         |
 
-| _Simple Ranged Weapons_ | Cost  | Damage          | Weight | Properties                                     |
-| :---------------------- | :---- | :-------------- | :----- | :--------------------------------------------- |
-| Crossbow, light         | 25 gp | 1d8 piercing    | 5 lb   | Ammunition (range 80/320), loading, two-handed |
-| Dart                    | 5 cp  | 1d4 piercing    | 1/4 lb | Finesse, thrown (range 20/60)                  |
-| Shortbow                | 25 gp | 1d6 piercing    | 2 lb   | Ammunition (range 80/320), two-handed          |
-| Sling                   | 1 sp  | 1d4 bludgeoning | -      | Ammunition (range 30/120)                      |
+| _Simple Ranged Weapons_ | Cost  | Damage          | Weight | Properties                                     | Mastery |
+| :---------------------- | :---- | :-------------- | :----- | :--------------------------------------------- | ------- |
+| Crossbow, light         | 25 gp | 1d8 piercing    | 5 lb   | Ammunition (range 80/320), loading, two-handed | Vex     |
+| Dart                    | 5 cp  | 1d4 piercing    | 1/4 lb | Finesse, thrown (range 20/60)                  | Slow    |
+| Shortbow                | 25 gp | 1d6 piercing    | 2 lb   | Ammunition (range 80/320), two-handed          | Vex     |
+| Sling                   | 1 sp  | 1d4 bludgeoning | -      | Ammunition (range 30/120)                      | Slow    |
 
 # Martial Weapons
 
-| _Martial Melee Weapons_ | Cost  | Damage          | Weight | Properties                      |
-| :---------------------- | :---- | :-------------- | :----- | :------------------------------ |
-| Battleaxe               | 10 gp | 1d8 slashing    | 4 lb   | Versatile (1d10)                |
-| Flail                   | 10 gp | 1d8 bludgeoning | 2 lb   | -                               |
-| Glaive                  | 20 gp | 1d10 slashing   | 6 lb   | Heavy, reach, two-handed        |
-| Greataxe                | 30 gp | 1d12 slashing   | 7 lb   | Heavy, two-handed               |
-| Greatsword              | 50 gp | 2d6 slashing    | 6 lb   | Heavy, two-handed               |
-| Halberd                 | 20 gp | 1d10 slashing   | 6 lb   | Heavy, reach, two-handed        |
-| Lance                   | 10 gp | 1d12 piercing   | 6 lb   | Reach, special                  |
-| Longsword               | 15 gp | 1d8 slashing    | 3 lb   | Versatile (1d10)                |
-| Maul                    | 10 gp | 2d6 bludgeoning | 10 lb  | Heavy, two-handed               |
-| Morningstar             | 15 gp | 1d8 piercing    | 4 lb   | -                               |
-| Pike                    | 5 gp  | 1d10 piercing   | 18 lb  | Heavy, reach, two-handed        |
-| Rapier                  | 25 gp | 1d8 piercing    | 2 lb   | Finesse                         |
-| Scimitar                | 25 gp | 1d6 slashing    | 3 lb   | Finesse, light                  |
-| Shortsword              | 10 gp | 1d6 piercing    | 2 lb   | Finesse, light                  |
-| Trident                 | 5 gp  | 1d6 piercing    | 4 lb   | Thrown (20/60), versatile (1d8) |
-| War pick                | 5 gp  | 1d8 piercing    | 2 lb   | -                               |
-| Warhammer               | 15 gp | 1d8 bludgeoning | 2 lb   | Versatile (1d8)                 |
-| Whip                    | 2 gp  | 1d4 slashing    | 3 lb   | Finesse, reach                  |
+| _Martial Melee Weapons_ | Cost  | Damage          | Weight | Properties                      | Mastery |
+| :---------------------- | :---- | :-------------- | :----- | :------------------------------ | ------- |
+| Battleaxe               | 10 gp | 1d8 slashing    | 4 lb   | Versatile (1d10)                | Topple  |
+| Flail                   | 10 gp | 1d8 bludgeoning | 2 lb   | -                               | Sap     |
+| Glaive                  | 20 gp | 1d10 slashing   | 6 lb   | Heavy, reach, two-handed        | Graze   |
+| Greataxe                | 30 gp | 1d12 slashing   | 7 lb   | Heavy, two-handed               | Cleave  |
+| Greatsword              | 50 gp | 2d6 slashing    | 6 lb   | Heavy, two-handed               | Graze   |
+| Halberd                 | 20 gp | 1d10 slashing   | 6 lb   | Heavy, reach, two-handed        | Cleave  |
+| Lance                   | 10 gp | 1d12 piercing   | 6 lb   | Reach, special                  | Topple  |
+| Longsword               | 15 gp | 1d8 slashing    | 3 lb   | Versatile (1d10)                | Sap     |
+| Maul                    | 10 gp | 2d6 bludgeoning | 10 lb  | Heavy, two-handed               | Topple  |
+| Morningstar             | 15 gp | 1d8 piercing    | 4 lb   | -                               | Sap     |
+| Pike                    | 5 gp  | 1d10 piercing   | 18 lb  | Heavy, reach, two-handed        | Push    |
+| Rapier                  | 25 gp | 1d8 piercing    | 2 lb   | Finesse                         | Vex     |
+| Scimitar                | 25 gp | 1d6 slashing    | 3 lb   | Finesse, light                  | Nick    |
+| Shortsword              | 10 gp | 1d6 piercing    | 2 lb   | Finesse, light                  | Vex     |
+| Trident                 | 5 gp  | 1d6 piercing    | 4 lb   | Thrown (20/60), versatile (1d8) | Topple  |
+| War pick                | 5 gp  | 1d8 piercing    | 2 lb   | -                               | Push    |
+| Warhammer               | 15 gp | 1d8 bludgeoning | 2 lb   | Versatile (1d8)                 | Sap     |
+| Whip                    | 2 gp  | 1d4 slashing    | 3 lb   | Finesse, reach                  | Slow    |
 
-| _Martial Ranged Weapons_ | Cost  | Damage        | Weight | Properties                                             |
-| :----------------------- | :---- | :------------ | :----- | :----------------------------------------------------- |
-| Blowgun                  | 10 gp | 1 piercing    | 1 lb   | Ammunition (range 25/100), loading                     |
-| Crossbow, hand           | 75 gp | 1d6 piercing  | 3 lb   | Ammunition (range 30/120), light, loading              |
-| Crossbow, heavy          | 50 gp | 1d10 piercing | 18 lb  | Ammunition (range 100/400), heavy, loading, two-handed |
-| Longbow                  | 50 gp | 1d8 piercing  | 2 lb   | Ammunition (range 150/600), heavy, two-handed          |
-| Net                      | 1 gp  | -             | 3 lb   | Special, thrown (range 5/15)                           |
+| _Martial Ranged Weapons_ | Cost  | Damage        | Weight | Properties                                             | Mastery |
+| :----------------------- | :---- | :------------ | :----- | :----------------------------------------------------- | ------- |
+| Blowgun                  | 10 gp | 1 piercing    | 1 lb   | Ammunition (range 25/100), loading                     | Vex     |
+| Crossbow, hand           | 75 gp | 1d6 piercing  | 3 lb   | Ammunition (range 30/120), light, loading              | Vex     |
+| Crossbow, heavy          | 50 gp | 1d10 piercing | 18 lb  | Ammunition (range 100/400), heavy, loading, two-handed | Push    |
+| Longbow                  | 50 gp | 1d8 piercing  | 2 lb   | Ammunition (range 150/600), heavy, two-handed          | Slow    |
+| Net                      | 1 gp  | -             | 3 lb   | Special, thrown (range 5/15)                           | Vex     |
 # Firearms
 
 #### Firearm Class
-|       Class              |    Level   |    Damage   | Weight Mod. | Cost Mod.| Properties |
-|:-------------------:|:----------:|:------------|:-:|:-:|:-:|
-| **Pistol** | Any |1d10 piercing | 0.5x | 1x | One-Handed |
-| **Rifle** | Any |2d6 piercing | 1x  | 1x |Two-Handed |
-| **Blunderbuss** | Any |2d8 piercing | 3x | 1x | Two-Handed, Range Mod. 0.75, shot/shell ammunition |
-| **Firelance** | Any |2d6 piercing + 2d6 fire | 1x | 1x | Two-Handed, Attack becomes a 15-foot cone. Creatures in the range make a DC 14 Dex save for half damage. May not have a barrel. Must be matchlock or flintlock. Lanceshot ammunition. |
-| **Hand-Cannon** | 1st |2d12 bludgeoning | 6x | 1x | Heavy, must be matchlock or flintlock(Dwarf), no long range, hand-cannonball ammunition |
-| **Organ Gun** | 4th(Dwarf) | 2*(n)d12 bludgeoning  | 6.25*(n)x | 1.25*(n)x | Heavy, Artillery. Must be matchlock or flintlock. Hand-cannonball ammunition. When you choose to construct an organ gun, select a number of cannons, which can be between 2 and 24. For each cannon, the weight mod and cost mod are increased, treating the number of cannons as (n). The damage is also increased per cannon. Each cannon within an organ gun must be loaded individually, however they are all aimed and fired with a single action. If the organ gun has 4 or fewer cannons, it is considered Medium size. If the organ gun has more that 4 cannons, it is considered Large size. Regardless of size, the organ gun requires 1 action per cannon to load, and 1 action to move, aim, and fire. It cannot have a stock, and other attatchments may be limited.
-| **Cannon** | 4th | 4d12, 8d12, or 16d12 bludgeoning | 72x,432x,2592x(Dwarf) | 12x,72x,432x(Dwarf) |Heavy, Artillery. Must be matchlock, flintlock or bolt-action. Cannonball or bombshell (if bolt-action) ammunition. Can be Medium (10x/5x), Large(100x/50x), or Huge (1000x/500x), and the overall weight capacity and range is determined by the size. Requires an action (or bonus action if Medium, 2 actions if Huge) to move, load, aim, and fire. Requires 1 day, 1 week, and 1 month to construct for each size respectively. It cannot have a stock, and other attatchments may be limited. |
-| **Mortar** | 6th | 2d12, 4d12, or 8d12 bludgeoning  | 36x,216x,1296x(Dwarf) | 12x,72x,432x(Dwarf) |Heavy, Artillery. Must be matchlock, flintlock or bolt-action. Bombshell ammunition. Can be Medium (10x/5x), Large(100x/50x), or Huge (1000x/500x), and the overall weight capacity and range is determined by the size. It has no long range, but may fire indirectly at targets within range. Requires an action (or bonus action if Medium, 2 actions if Huge) to move, load, aim, and fire. Requires 1 day, 1 week, and 1 month to construct for each size respectively. It cannot have a stock, and other attatchments may be limited. |
-| **Crank Gun** | 12th(Dwarf) |1d10 piercing | 6x  | 1.5x |Heavy, Special, must be cylinder-action, belt ammunition |
+|      Class      |    Level    | Damage                           |      Weight Mod.      |      Cost Mod.      |                                                                                                                                                                                                                                                                                                                                                                                    Properties                                                                                                                                                                                                                                                                                                                                                                                     |
+| :-------------: | :---------: | :------------------------------- | :-------------------: | :-----------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|   **Pistol**    |     Any     | 1d10 piercing                    |         0.5x          |         1x          |                                                                                                                                                                                                                                                                                                                                                                                    One-Handed                                                                                                                                                                                                                                                                                                                                                                                     |
+|    **Rifle**    |     Any     | 2d6 piercing                     |          1x           |         1x          |                                                                                                                                                                                                                                                                                                                                                                                    Two-Handed                                                                                                                                                                                                                                                                                                                                                                                     |
+| **Blunderbuss** |     Any     | 2d8 piercing                     |          3x           |         1x          |                                                                                                                                                                                                                                                                                                                                                                Two-Handed, Range Mod. 0.75, shot/shell ammunition                                                                                                                                                                                                                                                                                                                                                                 |
+|  **Firelance**  |     Any     | 2d6 piercing + 2d6 fire          |          1x           |         1x          |                                                                                                                                                                                                                                                                                               Two-Handed, Attack becomes a 15-foot cone. Creatures in the range make a DC 14 Dex save for half damage. May not have a barrel. Must be matchlock or flintlock. Lanceshot ammunition.                                                                                                                                                                                                                                                                                               |
+| **Hand-Cannon** |     1st     | 2d12 bludgeoning                 |          6x           |         1x          |                                                                                                                                                                                                                                                                                                                                              Heavy, must be matchlock or flintlock(Dwarf), no long range, hand-cannonball ammunition                                                                                                                                                                                                                                                                                                                                              |
+|  **Organ Gun**  | 4th(Dwarf)  | 2*(n)d12 bludgeoning             |       6.25*(n)x       |      1.25*(n)x      | Heavy, Artillery. Must be matchlock or flintlock. Hand-cannonball ammunition. When you choose to construct an organ gun, select a number of cannons, which can be between 2 and 24. For each cannon, the weight mod and cost mod are increased, treating the number of cannons as (n). The damage is also increased per cannon. Each cannon within an organ gun must be loaded individually, however they are all aimed and fired with a single action. If the organ gun has 4 or fewer cannons, it is considered Medium size. If the organ gun has more that 4 cannons, it is considered Large size. Regardless of size, the organ gun requires 1 action per cannon to load, and 1 action to move, aim, and fire. It cannot have a stock, and other attatchments may be limited. |
+|   **Cannon**    |     4th     | 4d12, 8d12, or 16d12 bludgeoning | 72x,432x,2592x(Dwarf) | 12x,72x,432x(Dwarf) |                                                                                                                                        Heavy, Artillery. Must be matchlock, flintlock or bolt-action. Cannonball or bombshell (if bolt-action) ammunition. Can be Medium (10x/5x), Large(100x/50x), or Huge (1000x/500x), and the overall weight capacity and range is determined by the size. Requires an action (or bonus action if Medium, 2 actions if Huge) to move, load, aim, and fire. Requires 1 day, 1 week, and 1 month to construct for each size respectively. It cannot have a stock, and other attatchments may be limited.                                                                                                                                        |
+|   **Mortar**    |     6th     | 2d12, 4d12, or 8d12 bludgeoning  | 36x,216x,1296x(Dwarf) | 12x,72x,432x(Dwarf) |                                                                                                                    Heavy, Artillery. Must be matchlock, flintlock or bolt-action. Bombshell ammunition. Can be Medium (10x/5x), Large(100x/50x), or Huge (1000x/500x), and the overall weight capacity and range is determined by the size. It has no long range, but may fire indirectly at targets within range. Requires an action (or bonus action if Medium, 2 actions if Huge) to move, load, aim, and fire. Requires 1 day, 1 week, and 1 month to construct for each size respectively. It cannot have a stock, and other attatchments may be limited.                                                                                                                    |
+|  **Crank Gun**  | 12th(Dwarf) | 1d10 piercing                    |          6x           |        1.5x         |                                                                                                                                                                                                                                                                                                                                                             Heavy, Special, must be cylinder-action, belt ammunition                                                                                                                                                                                                                                                                                                                                                              |
 
 
 
