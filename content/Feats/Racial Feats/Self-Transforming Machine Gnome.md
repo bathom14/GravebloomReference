@@ -15,9 +15,6 @@ You have taken your creation into your own hands. You recieve the following bene
 * **Upgrade Module.** You recieve this upgrade module, and by using your Tinker's tools you may spend 8 hours to install it and recieve it's benefits. 
 
 * **Modular Build.** You may take this feat any number of times, selecting an upgrade each time. Upgrades can be repeated up to 4 times.
-
-{{classTable,frame,decoration,wide
-
 ### Autognome Upgrade Modules
 
 |       Module              |    Level   |    Effect   |
@@ -37,11 +34,6 @@ You have taken your creation into your own hands. You recieve the following bene
 | **Adaptive Processor** | Any | **+ 1 Intelligence.** You gain proficiency in Investigation. You gain an additional set of uses for your Built for Success trait. |
 | **Druidcore** | Any | **+ 1 Intelligence.** You gain proficiency in Nature. You learn a cantrip of your choice from the Druid spell list. In addition, choose a 1st-level spell from the druid spell list. You learn that spell and can cast it through your Druidcore. When you do, you can regain a spent hit die. Once you cast this spell through your Druidcore, you cannot do so again until you complete a short or long rest. Intelligence is your spellcasting modifier for these spells. |
 
-}}
-
-{{classTable,frame,decoration,wide
-
-### Autognome Upgrade Modules
 
 |       Module              |    Level   |    Effect   |
 |:-------------------:|:----------:|:------------|
