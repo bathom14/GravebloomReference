@@ -40,8 +40,6 @@ As a monk, you gain the following class features.
 **Saving Throws:**  Strength, Dexterity
 **Skills:**  Choose two from Acrobatics, Athletics, History, Insight, Religion, and Stealth
 
-\column
-
 #### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
@@ -50,7 +48,7 @@ You start with the following equipment, in addition to the equipment granted by 
 * (a) a dungeoneer's pack or (b) an explorer's pack
 * 10 darts
 
-### Martial Maneuvers
+### Level 1: Martial Maneuvers
 
 As a Martial Class, the Monk has access to special battlefield maneuvers which are activated at the expense of maneuver dice.
 
@@ -62,11 +60,11 @@ As a Martial Class, the Monk has access to special battlefield maneuvers which a
 
 **Maneuver save DC** = 8 + your proficiency bonus + your Dexterity modifier
 
-#### Unarmored Defense
+### Level 1: Unarmored Defense
 
 Beginning at 1st level, while you are wearing no armor and not wielding a shield, your AC equals 10 + your Dexterity modifier + your Wisdom modifier.
 
-#### Martial Arts
+### Level 1: Martial Arts
 
 At 1st level, your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are shortswords and any simple melee weapons that don't have the two-handed or heavy property.
 
@@ -78,7 +76,7 @@ You gain the following benefits while you are unarmed or wielding only monk weap
 
 Certain monasteries use specialized forms of the monk weapons. For example, you might use a club that is two lengths of wood connected by a short chain (called a nunchaku) or a sickle with a shorter, straighter blade (called a kama). Whatever name you use for a monk weapon, you can use the game statistics provided for the weapon on the Weapons page.
 
-#### Ki
+#### Level 2: Ki
 
 Starting at 2nd level, your training allows you to harness the mystic energy of ki. Your access to this energy is represented by a number of ki points. Your monk level determines the number of points you have, as shown in the Ki Points column of the Monk table.
 
@@ -91,18 +89,18 @@ Some of your ki features require your target to make a saving throw to resist th
 
 **Ki save DC** = 8 + your proficiency bonus + your Wisdom modifier
 
-* **Flurry of Blows.** Immediately after you take the Attack action on your turn, you can spend 1 ki point to make two unarmed strikes as a bonus action.
-* **Patient Defense.** You can spend 1 ki point to take the Dodge action as a bonus action on your turn.
+* **Flurry of Blows.** You can expend 1 Ki Point to make two Unarmed Strikes as a Bonus Action.
+* **Patient Defense.** You can take the Disengage action as a Bonus Action. Alternatively, you can expend 1 Ki Point to take both the Disengage and the Dodge actions as a Bonus Action.
 * **Step of the Wind.** You can take the Disengage or Dash action as a bonus action on your turn, and your jump distance is doubled for the turn. This does not consume a ki point, but you must have at least 1 ki point available to use it.
 (*_**Step of the Wind.**_ You can take the Dash action as a Bonus Action. Alternatively, you can expend 1 Focus Point to take both the Disengage and Dash actions as a Bonus Action, and your jump distance is doubled for the turn.*) - Monk 2024
 
-#### Unarmored Movement
+### Level 2: Unarmored Movement
 
 Starting at 2nd level, your speed increases by 10 feet while you are not wearing armor or wielding a shield. This bonus increases when you reach certain monk levels, as shown in the Monk table.
 
 At 9th level, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the move.
 
-#### Dedicated Weapon
+### Level 2: Dedicated Weapon
 
 Also at 2nd level, you train yourself to use a variety of weapons as monk weapons, not just simple melee weapons and shortswords. Whenever you finish a short or long rest, you can touch one weapon, focus your ki on it, and then count that weapon as a monk weapon until you use this feature again.
 
@@ -112,7 +110,7 @@ The chosen weapon must meet these criteria:
 * You must be proficient with it.
 * It must lack the heavy and special properties.
 
-#### Monastic Tradition
+### Level 3: Monastic Tradition
 
 When you reach 3rd level, you commit yourself to a monastic tradition. Your tradition grants you features at 3rd level and again at 6th, 11th, and 17th level.
 
@@ -121,41 +119,36 @@ When you reach 3rd level, you commit yourself to a monastic tradition. Your trad
 
 If you want to do a different subclass lmk and i'll buff it if it needs a buff.
 
-#### Deflect Missles
+### Level 3: Deflect Attacks
 
-Starting at 3rd level, you can use your reaction to deflect or catch the missile when you are hit by a ranged weapon attack. When you do so, the damage you take from the attack is reduced by 1d10 + your Dexterity modifier + your monk level.
+When an attack roll hits you and its damage includes Bludgeoning, Piercing, or Slashing damage, you can take a Reaction to reduce the attack’s total damage against you. The reduction equals your Martial Arts die plus your Dexterity modifier and Monk level.
 
-If you reduce the damage to 0, you can catch the missile if it is small enough for you to hold in one hand and you have at least one hand free. If you catch a missile in this way, you can spend 1 ki point to make a ranged attack with a range of 20/60 using the weapon or piece of ammunition you just caught, as part of the same reaction. 
-* You make this attack with proficiency, regardless of your weapon proficiencies, and the missile counts as a monk weapon for the attack.
-
-(When an attack roll hits you and its damage includes Bludgeoning, Piercing, or Slashing damage, you can take a Reaction to reduce the attack’s total damage against you. The reduction equals 1d10 plus your Dexterity modifier and Monk level.
+***Deflect Attack*** = Martial Arts Die  + Proficiency Bonus + your Dex Modifie
 
 If you reduce the damage to 0, you can expend 1 Focus Point to redirect some of the attack’s force. If you do so, choose a creature you can see within 5 feet of yourself if the attack was a melee attack or a creature you can see within 60 feet of yourself that isn’t behind Total Cover if the attack was a ranged attack. That creature must succeed on a Dexterity saving throw or take damage equal to two rolls of your Martial Arts die plus your Dexterity modifier. The damage is the same type dealt by the attack.)
 
-Martial Arts Die + Dex Modifier + Proficiency Bonus
 
-#### Ki-Fueled Attack
+### Level 3: Ki-Fueled Attack (necessary?)
 
 Also at 3rd level, if you spend 1 ki point or more as part of your action on your turn, you can make one attack with an unarmed strike or a monk weapon as a bonus action before the end of the turn.
 
-#### Ability Score Improvement
+### Level 4: Ability Score Improvement
 
 When you reach 4th level, and again at 6th, 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
-#### Slow Fall
+### Level 4: Slow Fall
 
 Beginning at 4th level, you can use your reaction when you fall to reduce any falling damage you take by an amount equal to five times your monk level.
 
-#### Quickened Healing
+### Level 4: Quickened Healing (necessary?)
 
 Also at 4th level, as an action, you can spend 1 ki point and roll your current Martial Arts die. You regain a number of hit points equal to the number rolled plus your proficiency bonus.
 
-#### Extra Attack
+### Level 5: Extra Attack
 
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 
-
-#### Ki Blocks
+### Level 5: Ki Blocks (adjustments?)
 
 Starting at 5th level, you learn to identify the ki of your opponents, allowing you to interfere with the flow of ki in an opponent's body. 
 
@@ -171,47 +164,45 @@ When you hit another creature with a melee weapon attack with an unarmed attack 
 
 If you have expended all Ki Block points, you may expend 2 Ki points to deliver a Ki Block as if you had used a Ki Block point.
 
-#### Focused Aim
+### Level 5: Focused Aim (necessary?)
 
 Also at 5th level, when you miss with an attack roll, you can spend 1 to 3 ki points to increase your attack roll by 2 for each of these ki points you spend, potentially turning the miss into a hit.
 
-#### Ki-Empowered Strikes
+### Level 6: Ki-Empowered Strikes
 
-Starting at 6th level, your unarmed strikes count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
+Whenever you deal damage with your Unarmed Strike, it can deal your choice of Force damage or its normal damage type.
 
-(Whenever you deal damage with your Unarmed Strike, it can deal your choice of Force damage or its normal damage type.)
-
-#### Ki-Guided Parry
+### Level 6: Ki-Guided Parry (necessary?)
 
 At 6th level you gain the ability to parry, expending 1 Ki point and your reaction to add your proficiency bonus to your AC against one single melee attack aimed at you.
 
-#### Evasion
+### Level 7: Evasion
 
-At 7th level, your instinctive agility lets you dodge out of the way of certain area effects, such as a blue dragon's lightning breath or a fireball spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail. You don't benefit from this feature if you are incapacitated.
+When you’re subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail.
 
-In addition, your Unarmored Defense trait now provides AC equal to 12 + your Dexterity modifier + your Wisdom modifier.
+You don’t benefit from this feature if you have the Incapacitated condition.
 
-#### Stillness of Mind
+### Level 7: Stillness of Mind (necessary? wording?)
 
 Starting at 7th level, you can use your action to end one effect on yourself that is causing you to be charmed or frightened. If you start your turn under the charmed or frightened condition, you can choose to end one of those conditons, if you do so, you may not take your action on your turn. Your bonus action may still be used.
 
-( Level 9: Acrobatic Movement
+### Level 9: Acrobatic Movement
 
-While you aren’t wearing armor or wielding a Shield, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the movement. )
+While you aren’t wearing armor or wielding a Shield, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the movement.
 
-#### Purity of Body
+### Level 10: Purity of Body (necessary? wording?)
 
 At 10th level, your mastery of the ki flowing through you makes you immune to disease and poison.
 
-#### Tongue of the Sun and Moon
+### Level 13: Tongue of the Sun and Moon (necessary? wording?)
 
 Starting at 13th level, you learn to touch the ki of other minds so that you understand all spoken languages. Moreover, any creature that can understand a language can understand what you say.
 
-(Level 13: Deflect Energy
+### Level 13: Deflect Energy
 
-You can now use your Deflect Attacks feature against attacks that deal any damage type, not just Bludgeoning, Piercing, or Slashing.)
+You can now use your Deflect Attacks feature against attacks that deal any damage type, not just Bludgeoning, Piercing, or Slashing.
 
-#### Diamond Soul
+### Level 14: Diamond Soul
 
 Beginning at 14th level, your mastery of ki grants you proficiency in all saving throws.
 

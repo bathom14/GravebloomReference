@@ -9,26 +9,26 @@ You must have a [[Dexterity]] or [[Strength]] score of 13 or higher in order to 
 
 | Level | Proficiency Bonus | Features                                                    | Maneuver Dice | Prepared Maneuvers | Second Wind | Weapon Mastery |
 | ----- | ----------------- | ----------------------------------------------------------- | :-----------: | :----------------: | ----------- | -------------- |
-| 1st   | +2                | Martial Maneuvers, Fighting Style, Second Wind              |      2d6      |         1          | 2           | 3              |
-| 2nd   | +2                | Action Surge (x1)                                           |      2d6      |         1          | 2           | 3              |
-| 3rd   | +2                | Martial Archetype                                           |      2d6      |         2          | 2           | 3              |
-| 4th   | +2                | Ability Score Improvement, _Martial Versatility (Optional)_ |      2d6      |         2          | 3           | 4              |
-| 5th   | +3                | Extra Attack (x1)                                           |      3d6      |         3          | 3           | 4              |
-| 6th   | +3                | Ability Score Improvement, _Martial Versatility (Optional)_ |      3d8      |         3          | 3           | 4              |
-| 7th   | +3                | Martial Archetype feature                                   |      3d8      |         4          | 3           | 4              |
-| 8th   | +3                | Ability Score Improvement, _Martial Versatility (Optional)_ |      3d8      |         4          | 3           | 4              |
-| 9th   | +4                | Indomitable (x1)                                            |      4d8      |         5          | 3           | 4              |
-| 10th  | +4                | Martial Archetype feature                                   |      4d8      |         5          | 4           | 5              |
-| 11th  | +4                | Extra Attack (x2)                                           |     4d10      |         6          | 4           | 5              |
-| 12th  | +4                | Ability Score Improvement, _Martial Versatility (Optional)_ |     4d10      |         6          | 4           | 5              |
-| 13th  | +5                | Indomitable (x2)                                            |     5d10      |         7          | 4           | 5              |
-| 14th  | +5                | Ability Score Improvement, _Martial Versatility (Optional)_ |     5d10      |         7          | 4           | 5              |
-| 15th  | +5                | Martial Archetype feature                                   |     5d10      |         8          | 4           | 5              |
-| 16th  | +5                | Ability Score Improvement, _Martial Versatility (Optional)_ |     5d12      |         8          | 4           | 6              |
-| 17th  | +6                | Action Surge (x2), Indomitable (x3)                         |     6d12      |         9          | 4           | 6              |
-| 18th  | +6                | Martial Archetype feature                                   |     6d12      |         9          | 4           | 6              |
-| 19th  | +6                | Ability Score Improvement, _Martial Versatility (Optional)_ |     6d12      |         10         | 4           | 6              |
-| 20th  | +6                | Extra Attack (x3)                                           |     6d12      |         10         | 4           | 6              |
+| 1st   | +2                | Martial Maneuvers, Fighting Style, Second Wind              |      3d6      |         1          | 2           | 3              |
+| 2nd   | +2                | Action Surge (x1)                                           |      3d6      |         1          | 2           | 3              |
+| 3rd   | +2                | Martial Archetype                                           |      4d6      |         2          | 2           | 3              |
+| 4th   | +2                | Ability Score Improvement, _Martial Versatility (Optional)_ |      4d6      |         2          | 3           | 4              |
+| 5th   | +3                | Extra Attack (x1)                                           |      5d6      |         3          | 3           | 4              |
+| 6th   | +3                | Ability Score Improvement, _Martial Versatility (Optional)_ |      5d8      |         3          | 3           | 4              |
+| 7th   | +3                | Martial Archetype feature                                   |      6d8      |         4          | 3           | 4              |
+| 8th   | +3                | Ability Score Improvement, _Martial Versatility (Optional)_ |      6d8      |         4          | 3           | 4              |
+| 9th   | +4                | Indomitable (x1)                                            |      7d8      |         5          | 3           | 4              |
+| 10th  | +4                | Martial Archetype feature                                   |      7d8      |         5          | 4           | 5              |
+| 11th  | +4                | Extra Attack (x2)                                           |     8d10      |         6          | 4           | 5              |
+| 12th  | +4                | Ability Score Improvement, _Martial Versatility (Optional)_ |     8d10      |         6          | 4           | 5              |
+| 13th  | +5                | Indomitable (x2)                                            |     9d10      |         7          | 4           | 5              |
+| 14th  | +5                | Ability Score Improvement, _Martial Versatility (Optional)_ |     9d10      |         7          | 4           | 5              |
+| 15th  | +5                | Martial Archetype feature                                   |     10d10     |         8          | 4           | 5              |
+| 16th  | +5                | Ability Score Improvement, _Martial Versatility (Optional)_ |     10d12     |         8          | 4           | 6              |
+| 17th  | +6                | Action Surge (x2), Indomitable (x3)                         |     11d12     |         9          | 4           | 6              |
+| 18th  | +6                | Martial Archetype feature                                   |     11d12     |         9          | 4           | 6              |
+| 19th  | +6                | Ability Score Improvement, _Martial Versatility (Optional)_ |     12d12     |         10         | 4           | 6              |
+| 20th  | +6                | Extra Attack (x3)                                           |     12d12     |         10         | 4           | 6              |
 ## Class Features
 
 ### Hit Points
@@ -61,9 +61,9 @@ You start with the following equipment, in addition to the equipment granted by 
 
 As a Martial Class, the Fighter has access to special battlefield maneuvers which are activated at the expense of maneuver dice.
 
-**Maneuvers.**  You learn one Maneuver available to you from the [Martial Maneuver List](https://homebrewery.naturalcrit.com/share/-cfBHWD0T61T). As you progress levels you gain access to a higher number of prepared maneuvers, and can select them from the list in the same way. Some maneuvers are only available at higher levels or may have other prerequisites. Whenever you complete a long rest, you may change your prepared Maneuvers.
+**Maneuvers.** You learn one Maneuver available to you from the [Martial Maneuver List](https://homebrewery.naturalcrit.com/share/-cfBHWD0T61T). As you progress levels you gain access to a higher number of prepared maneuvers, and can select them from the list in the same way. Some maneuvers are only available at higher levels or may have other prerequisites. Whenever you complete a long rest, you may change your prepared Maneuvers.
 
-**Maneuver Dice.**  You have a number of maneuver dice equal to your proficiency bonus, which are initially d6s. You regain all of your spent maneuver dice when you complete a short or long rest. You gain another maneuver die whenever your proficiency level increases, as shown on the Fighter progression table. The superiority die size increases to d8 at level 6, d10 and level 11, and d12 at level 16. Using a maneuver expends a maneuver dice.
+**Maneuver Dice.** You have a number of maneuver dice available to you, which are initially three d6s. You regain all of your spent maneuver dice when you complete a short or long rest. You gain another maneuver die as you progress in levels, as shown on the Fighter progression table. The superiority die size increases to d8 at level 6, d10 and level 11, and d12 at level 16. Using a maneuver expends a maneuver dice.
 
 **Saving Throws.**  Some of your maneuvers require your target to make a saving throw to resist the maneuver's effects. The saving throw DC is calculated as follows:
 
