@@ -57,7 +57,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
 * (a) a dungeoneer's pack or (b) an explorer's pack
 
-### Martial Maneuvers
+### Level 1: Martial Maneuvers
 
 As a Martial Class, the Fighter has access to special battlefield maneuvers which are activated at the expense of maneuver dice.
 
@@ -69,7 +69,7 @@ As a Martial Class, the Fighter has access to special battlefield maneuvers whic
 
 **Maneuver save DC** = 8 + your proficiency bonus + your Dexterity modifier
 
-### Fighting Style
+### Level 1: Fighting Style
 
 You adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take a Fighting Style option more than once, even if you later get to choose again. Whenever you gain a Fighter level, you can replace the feat you chose with a different Fighting Style feat.
 
@@ -89,7 +89,7 @@ You adopt a particular style of fighting as your specialty. Choose one of the fo
 
 * **Superior Technique (TCE).** You learn one maneuver of your choice from among those available to the [[Battle Master]] archetype. If a maneuver you use requires your target to make a saving throw to resist the maneuver's effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice.)
 
-### Second Wind
+### Level 1: Second Wind
 
 You have a limited well of physical and mental stamina that you can draw on. As a Bonus Action, you can use it to regain Hit Points equal to 1d10 plus your Fighter level.
 
@@ -97,24 +97,24 @@ You can use this feature twice. You regain one expended use when you finish a Sh
 
 When you reach certain Fighter levels, you gain more uses of this feature, as shown in the Second Wind column of the Fighter Features table.
 
-### Weapon Mastery
+### Level 1: Weapon Mastery
 
 Your training with weapons allows you to use the mastery properties of three kinds of Simple or Martial weapons of your choice. Whenever you finish a Long Rest, you can practice weapon drills and change one of those weapon choices.
 
 When you reach certain Fighter levels, you gain the ability to use the mastery properties of more kinds of weapons, as shown in the Weapon Mastery column of the Fighter Features table.
 
 *will be adjusted for stacking masteries on 1 weapon*
-### Action Surge
+### Level 2: Action Surge
 
 Starting at 2nd level, you can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action.
 
 Once you use this feature, you must finish a short or long rest before you can use it again. Starting at 17th level, you can use it twice before a rest, but only once on the same turn.
 
-### Tactical Mind
+### Level 2: Tactical Mind
 
 You have a mind for tactics on and off the battlefield. When you fail an ability check, you can expend a use of your Second Wind to push yourself toward success. Rather than regaining Hit Points, you roll 1d10 and add the number rolled to the ability check, potentially turning it into a success. If the check still fails, this use of Second Wind isn’t expended.
 
-### Martial Archetype
+### Level 3: Martial Archetype
 
 At 3rd level, you choose an archetype that you strive to emulate in your combat styles and techniques. The archetype you choose grants you features at 3rd level and again at 7th, 10th, 15th, and 18th level.
 
@@ -129,31 +129,40 @@ At 3rd level, you choose an archetype that you strive to emulate in your combat 
 * [[Rune Knight]]  
 * [[Samurai]]
 
-### Ability Score Improvement
+### Level 4: Ability Score Improvement
 
 When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
-### Extra Attack
+### Level 5: Extra Attack
 
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 
 The number of attacks increases to three when you reach 11th level in this class and to four when you reach 20th level in this class.
 
-### Tactical Shift
+### Level 5: Tactical Shift
 
 Beginning at 5th level, whenever you activate your Second Wind with a Bonus Action, you can move up to half your Speed without provoking Opportunity Attacks.
 
-### Indomitable
+### Level 5: Signature Weapon
+
+You have developed a deep mastery with a single weapon. When you reach the 5th level, you may choose one weapon in your possession to designate as your Signature Weapon. Your Signature Weapon has +1 to Attack rolls, and once per turn you may utilize two Weapon Mastery effects on a single attack.
+
+### Level 9: Indomitable
 
 Beginning at 9th level, you can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can't use this feature again until you finish a long rest.
 
 You can use this feature twice between long rests starting at 13th level and three times between long rests starting at 17th level.
 
-### Tactical Master
+### Level 9: Signature Technique
 
-Beginning at 9th level, when you attack with a weapon whose mastery property you can use, you can replace that property with the Push, Sap, or Slow property for that attack.
+Beginning at 9th level, you may make a special Signature Move using your Signature weapon. When you receive this feature, select a Signature Technique that your Signature Weapon qualifies for. Once per short rest, you may use this Signature Technique, and you regain your use of this feature on a short rest.
 
-### Studied Attacks
+Signature Techniques are special Maneuvers which utilize a d20 instead of your normal Maneuver die. At 11th level, you may roll an additional d20 for your Signature Technique die, and keep the highest result. This increases to two additional d20 at 17th level.
+
+### Level 13: Studied Attacks
 
 Beginning at 13th level, you study your opponents and learn from each attack you make. If you make an attack roll against a creature and miss, you have Advantage on your next attack roll against that creature before the end of your next turn.
 
+### Level 19: Epic Boon
+
+You gain an Epic Boon feat (see "Feats") or another feat of your choice for which you qualify. Boon of Combat Prowess is recommended.

@@ -2,28 +2,28 @@
 
 _You must have a Strength score of 13 or higher in order to multiclass in or out of this class._
 
-| Level         | Proficiency Bonus | Features                                        | Rages     | Rage Damage |
-| ------------- | ----------------- | ----------------------------------------------- | --------- | ----------- |
-| 1st           | +2                | Rage, Unarmored Defense                         | 2         | +2          |
-| 2nd           | +2                | Reckless Attack, Danger Sense                   | 2         | +2          |
-| 3rd           | +2                | Primal Path, _Primal Knowledge (Optional)_      | 3         | +2          |
-| 4th           | +2                | Ability Score Improvement                       | 3         | +2          |
-| 5th           | +3                | Extra Attack, Fast Movement                     | 3         | +2          |
-| 6th           | +3                | Path feature                                    | 4         | +2          |
-| 7th           | +3                | Feral Instinct, _Instinctive Pounce (Optional)_ | 4         | +2          |
-| 8th           | +3                | Ability Score Improvement                       | 4         | +2          |
-| 9th           | +4                | Brutal Critical (1 die)                         | 4         | +3          |
-| 10th          | +4                | Path feature, _Primal Knowledge (Optional)_     | 4         | +3          |
-| 11th          | +4                | Relentless Rage                                 | 4         | +3          |
-| 12th          | +4                | Ability Score Improvement                       | 5         | +3          |
-| 13th          | +5                | Brutal Critical (2 dice)                        | 5         | +3          |
-| 14th          | +5                | Path feature                                    | 5         | +3          |
-| 15th          | +5                | Persistent Rage                                 | 5         | +3          |
-| 16th          | +5                | Ability Score Improvement                       | 5         | +4          |
-| 17th          | +6                | Brutal Critical (3 dice)                        | 6         | +4          |
-| 18th          | +6                | Indomitable Might                               | 6         | +4          |
-| 19th          | +6                | Ability Score Improvement                       | 6         | +4          |
-| 20th          | +6                | Primal Champion                                 | Unlimited | +4          |
+| Level | Proficiency Bonus | Features                                        | Rages     | Rage Damage | Maneuver Die | Prepared Maneuvers |
+| ----- | ----------------- | ----------------------------------------------- | --------- | ----------- | ------------ | ------------------ |
+| 1st   | +2                | Rage, Unarmored Defense                         | 2         | +2          | 3d6          | 1                  |
+| 2nd   | +2                | Reckless Attack, Danger Sense                   | 2         | +2          | 3d6          | 1                  |
+| 3rd   | +2                | Primal Path, _Primal Knowledge (Optional)_      | 3         | +2          | 4d6          | 2                  |
+| 4th   | +2                | Ability Score Improvement                       | 3         | +2          | 4d6          | 2                  |
+| 5th   | +3                | Extra Attack, Fast Movement                     | 3         | +2          | 5d6          | 3                  |
+| 6th   | +3                | Path feature                                    | 4         | +2          | 5d8          | 3                  |
+| 7th   | +3                | Feral Instinct, _Instinctive Pounce (Optional)_ | 4         | +2          | 6d8          | 4                  |
+| 8th   | +3                | Ability Score Improvement                       | 4         | +2          | 6d8          | 4                  |
+| 9th   | +4                | Brutal Critical (1 die)                         | 4         | +3          | 7d8          | 5                  |
+| 10th  | +4                | Path feature, _Primal Knowledge (Optional)_     | 4         | +3          | 7d8          | 5                  |
+| 11th  | +4                | Relentless Rage                                 | 4         | +3          | 8d10         | 6                  |
+| 12th  | +4                | Ability Score Improvement                       | 5         | +3          | 8d10         | 6                  |
+| 13th  | +5                | Brutal Critical (2 dice)                        | 5         | +3          | 9d10         | 7                  |
+| 14th  | +5                | Path feature                                    | 5         | +3          | 9d10         | 7                  |
+| 15th  | +5                | Persistent Rage                                 | 5         | +3          | 10d10        | 8                  |
+| 16th  | +5                | Ability Score Improvement                       | 5         | +4          | 10d12        | 8                  |
+| 17th  | +6                | Brutal Critical (3 dice)                        | 6         | +4          | 11d12        | 9                  |
+| 18th  | +6                | Indomitable Might                               | 6         | +4          | 11d12        | 9                  |
+| 19th  | +6                | Ability Score Improvement                       | 6         | +4          | 12d12        | 10                 |
+| 20th  | +6                | Primal Champion                                 | Unlimited | +4          | 12d12        | 10                 |
 
 # Class Features
 
