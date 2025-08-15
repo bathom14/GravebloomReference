@@ -143,6 +143,8 @@ The number of attacks increases to three when you reach 11th level in this class
 
 Beginning at 5th level, whenever you activate your Second Wind with a Bonus Action, you can move up to half your Speed without provoking Opportunity Attacks.
 
+In addition, you also recover 1 Maneuver Die, up to your current maximum, whenever you activate your Second Wind.
+
 ### Level 5: Signature Weapon
 
 You have developed a deep mastery with a single weapon. When you reach the 5th level, you may choose one weapon in your possession to designate as your Signature Weapon. Your Signature Weapon has +1 to Attack rolls, and once per turn you may utilize two Weapon Mastery effects on a single attack.
@@ -159,6 +161,9 @@ Beginning at 9th level, you may make a special Signature Move using your Signatu
 
 Signature Techniques are special Maneuvers which utilize a d20 instead of your normal Maneuver die. At 11th level, you may roll an additional d20 for your Signature Technique die, and keep the highest result. This increases to two additional d20 at 17th level.
 
+### Level 11: Improved Recovery
+
+Beginning at the 11th level, whenever you activate your Second Wind, you now regain two Maneuver Die instead of one.
 ### Level 13: Studied Attacks
 
 Beginning at 13th level, you study your opponents and learn from each attack you make. If you make an attack roll against a creature and miss, you have Advantage on your next attack roll against that creature before the end of your next turn.

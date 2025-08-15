@@ -99,6 +99,7 @@ Some of your ki features require your target to make a saving throw to resist th
 ### Level 2: Energetic Mastery
 
 The first time you expend a Ki point on each one of your turns, you gain Temporary HP points equal to your proficiency bonus.
+
 ### Level 2: Unarmored Movement
 
 Starting at 2nd level, your speed increases by 10 feet while you are not wearing armor or wielding a shield. This bonus increases when you reach certain monk levels, as shown in the Monk table.
@@ -128,31 +129,27 @@ When you reach 4th level, and again at 6th, 8th, 12th, 16th, and 19th level, you
 
 Beginning at 4th level, you can use your reaction when you fall to reduce any falling damage you take by an amount equal to five times your monk level.
 
-### Level 4: Quickened Healing (necessary?)
+### Level 4: Quickened Healing
 
-Also at 4th level, as an action, you can spend 1 ki point and roll your current Martial Arts die. You regain a number of hit points equal to the number rolled plus your proficiency bonus.
+Also at 4th level, as an action, you can spend 1 Ki point and roll your current Martial Arts die. You regain a number of hit points equal to the number rolled plus your proficiency bonus.
 
 ### Level 5: Extra Attack
 
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 
-### Level 5: Ki Blocks (adjustments?)
+### Level 5: Ki Block
 
 Starting at 5th level, you learn to identify the ki of your opponents, allowing you to interfere with the flow of ki in an opponent's body. 
 
-You gain a number of Ki Block points equal to your proficiency bonus. Your maximum number of Ki Block points increases as your proficiency bonus does, as shown on the Monk progression table. You recover all spent Ki Block points when you complete a short or long rest.
+One per turn, when you hit another creature with a melee weapon attack with an unarmed attack or your monk weapon, you can spend 1 Ki to attempt a Ki Block. There are three different types of Ki Blocks you may attempt.
 
-When you hit another creature with a melee weapon attack with an unarmed attack or your monk weapon, you can spend 1 Ki Block point to attempt a Ki Block. There are three different types of Ki Blocks you may attempt.
+* **Upper Ki Block.** The target must succeed on a Dexterity saving throw or be stunned until the end of your next turn.
 
-* **Upper Ki Block.** The target must succeed on a Wisdom saving throw or be stunned until the end of your next turn.
-
-* **Middle Ki Block.** The target must succeed on a Dexterity saving throw or be stunned until the end of your next turn.
+* **Middle Ki Block.** The target must succeed on a Strength saving throw or be stunned until the end of your next turn.
 
 * **Lower Ki Block.** The target must succeed on a Constitution saving throw or be stunned until the end of your next turn.
 
-If you have expended all Ki Block points, you may expend 2 Ki points to deliver a Ki Block as if you had used a Ki Block point.
-
-### Level 5: Focused Aim (necessary?)
+### Level 5: Focused Aim
 
 Also at 5th level, when you miss with an attack roll, you can spend 1 to 3 ki points to increase your attack roll by 2 for each of these ki points you spend, potentially turning the miss into a hit.
 

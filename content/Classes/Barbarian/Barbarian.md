@@ -2,28 +2,29 @@
 
 _You must have a Strength score of 13 or higher in order to multiclass in or out of this class._
 
-| Level | Proficiency Bonus | Features                                        | Rages     | Rage Damage | Maneuver Die | Prepared Maneuvers |
-| ----- | ----------------- | ----------------------------------------------- | --------- | ----------- | ------------ | ------------------ |
-| 1st   | +2                | Rage, Unarmored Defense                         | 2         | +2          | 3d6          | 1                  |
-| 2nd   | +2                | Reckless Attack, Danger Sense                   | 2         | +2          | 3d6          | 1                  |
-| 3rd   | +2                | Primal Path, _Primal Knowledge (Optional)_      | 3         | +2          | 4d6          | 2                  |
-| 4th   | +2                | Ability Score Improvement                       | 3         | +2          | 4d6          | 2                  |
-| 5th   | +3                | Extra Attack, Fast Movement                     | 3         | +2          | 5d6          | 3                  |
-| 6th   | +3                | Path feature                                    | 4         | +2          | 5d8          | 3                  |
-| 7th   | +3                | Feral Instinct, _Instinctive Pounce (Optional)_ | 4         | +2          | 6d8          | 4                  |
-| 8th   | +3                | Ability Score Improvement                       | 4         | +2          | 6d8          | 4                  |
-| 9th   | +4                | Brutal Critical (1 die)                         | 4         | +3          | 7d8          | 5                  |
-| 10th  | +4                | Path feature, _Primal Knowledge (Optional)_     | 4         | +3          | 7d8          | 5                  |
-| 11th  | +4                | Relentless Rage                                 | 4         | +3          | 8d10         | 6                  |
-| 12th  | +4                | Ability Score Improvement                       | 5         | +3          | 8d10         | 6                  |
-| 13th  | +5                | Brutal Critical (2 dice)                        | 5         | +3          | 9d10         | 7                  |
-| 14th  | +5                | Path feature                                    | 5         | +3          | 9d10         | 7                  |
-| 15th  | +5                | Persistent Rage                                 | 5         | +3          | 10d10        | 8                  |
-| 16th  | +5                | Ability Score Improvement                       | 5         | +4          | 10d12        | 8                  |
-| 17th  | +6                | Brutal Critical (3 dice)                        | 6         | +4          | 11d12        | 9                  |
-| 18th  | +6                | Indomitable Might                               | 6         | +4          | 11d12        | 9                  |
-| 19th  | +6                | Ability Score Improvement                       | 6         | +4          | 12d12        | 10                 |
-| 20th  | +6                | Primal Champion                                 | Unlimited | +4          | 12d12        | 10                 |
+| Level | Proficiency Bonus | Features                                                   | Rages     | Rage Damage | Maneuver Die | Prepared Maneuvers |
+| ----- | ----------------- | ---------------------------------------------------------- | --------- | ----------- | ------------ | ------------------ |
+| 1st   | +2                | Rage, Unarmored Defense, Weapon Mastery, Martial Maneuvers | 2         | 1d4         | 2d6          | 1                  |
+| 2nd   | +2                | Reckless Attack, Danger Sense                              | 2         | 1d4         | 2d6          | 1                  |
+| 3rd   | +2                | Primal Path, Primal Knowledge                              | 3         | 1d4         | 2d6          | 2                  |
+| 4th   | +2                | Ability Score Improvement                                  | 3         | 1d4         | 2d6          | 2                  |
+| 5th   | +3                | Extra Attack, Feral Instinct                               | 3         | 1d6         | 3d6          | 3                  |
+| 6th   | +3                | Path feature                                               | 4         | 1d6         | 3d8          | 3                  |
+| 7th   | +3                | Primal Rage                                                | 4         | 1d6         | 3d8          | 4                  |
+| 8th   | +3                | Ability Score Improvement                                  | 4         | 1d6         | 3d8          | 4                  |
+| 9th   | +4                | Rage-Guided Critical (19–20)                               | 4         | 1d8         | 4d8          | 5                  |
+| 10th  | +4                | Path feature, Primal Knowledge                             | 4         | 1d8         | 4d8          | 5                  |
+| 11th  | +4                | Brutal Maneuver, Unyielding Fury                           | 4         | 1d10        | 4d10         | 6                  |
+| 12th  | +4                | Ability Score Improvement                                  | 5         | 1d10        | 4d10         | 6                  |
+| 13th  | +5                | Rage-Guided Critical (18–20)                               | 5         | 1d10        | 5d10         | 7                  |
+| 14th  | +5                | Path feature                                               | 5         | 1d10        | 5d10         | 7                  |
+| 15th  | +5                | Persistent Rage                                            | 5         | 1d10        | 5d10         | 8                  |
+| 16th  | +5                | Ability Score Improvement                                  | 5         | 1d12        | 5d12         | 8                  |
+| 17th  | +6                | Rage-Guided Critical (17–20)                               | 6         | 1d12        | 6d12         | 9                  |
+| 18th  | +6                | Indomitable Might                                          | 6         | 1d12        | 6d12         | 9                  |
+| 19th  | +6                | Epic Boon                                                  | 6         | 1d12        | 6d12         | 10                 |
+| 20th  | +6                | Primal Champion                                            | Unlimited | 1d12        | 6d12         | 10                 |
+
 
 # Class Features
 
@@ -56,7 +57,7 @@ You start with the following equipment, in addition to the equipment granted by 
 You fight with an unchecked primal ferocity in battle. Starting at 1st level, if you are not wearing heavy armor, you can use a bonus action on your turn to enter a Rage. While your Rage lasts, you gain the benefits and drawbacks listed below:
 
 - You have advantage on Strength saving throws and any ability checks that use your Strength or Constitution.
-- Whenever you hit with a weapon attack that uses your Strength, you deal bonus damage equal to a roll of your current Maneuver die size (this does not expend a die).
+- Whenever you hit with a weapon attack that uses your Strength, you deal bonus damage equal to 1d4. This bonus damage increases at later levels, as shown on the Barbarian class table.
 - You resist all bludgeoning, piercing, and slashing damage.
 - You cannot cast spells or concentrate on spells or effects.
 
@@ -89,7 +90,7 @@ As a Martial Class, the Barbarian has access to special battlefield maneuvers wh
 
 ### Level 2: Danger Sense
 
-You gain an uncanny sense of when things aren’t as they should be, giving you an edge when you dodge perils. You have Advantage on Dexterity saving throws unless you have the Incapacitated condition.
+You gain an uncanny sense of when things aren’t as they should be, giving you an edge when you dodge perils. You have Advantage on Dexterity saving throws unless you have the Blinded, Deafened, or Incapacitated condition.
 
 ### Level 2: Reckless Attack
 
@@ -117,7 +118,7 @@ At 3rd level, you choose a path that shapes the nature of your rage. Your choice
 
 ### Level 3: Primal Knowledge
 
-You gain proficiency in another skill of your choice from the skill list available to Barbarians at level 1.
+You gain proficiency in another skill of your choice from the skill list available to Barbarians at level 1. At level 10 you may gain proficiency in one additional skill from the list.
 
 In addition, while your Rage is active, you can channel primal power when you attempt certain tasks; whenever you make an ability check using one of the following skills, you can make it as a Strength check even if it normally uses a different ability: Acrobatics, Intimidation, Perception, Stealth, or Survival. When you use this ability, your Strength represents primal power coursing through you, honing your agility, bearing, and senses.
 
@@ -127,28 +128,20 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 
 ### Level 5: Extra Attack
 
-Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
-
-### Level 5: Fast Movement
-
-Starting at 5th level, your speed increases by 10 feet while you aren't wearing heavy armor.
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn. Moreover, if you use your action to Dash or Disengage while Raging, you can make one weapon attack as a bonus action.
 
 ### Level 5: Feral Instinct
 
 The fury within your blood alerts you to dangers. Starting at 5th level, you have advantage on initiative rolls, and whenever you roll initiative, you can choose to Rage.
 
 Moreover, if you are surprised when you roll initiative, you can act normally during the first round of combat so long as you Rage as part of rolling initiative.
-### Level 7: Instinctive Pounce 
+
+Additionally, your movement speed increases by 10 feet while you aren't wearing heavy armor.
+### Level 7: Primal Rage 
 
 At 7th level, as part of the bonus action you take to enter your rage, you can move up to half your speed.
 
-### Level 9: Brutal Strike
-
-If you use Reckless Attack, you can forgo any Advantage on one Strength-based attack roll of your choice on your turn. The chosen attack roll mustn’t have Disadvantage. If the chosen attack roll hits, the target takes an extra 1d10 damage of the same type dealt by the weapon or Unarmed Strike, and you can cause one Brutal Strike effect of your choice. You have the following effect options.
-
-_**Forceful Blow.**_ The target is pushed 15 feet straight away from you. You can then move up to half your Speed straight toward the target without provoking Opportunity Attacks.
-
-_**Hamstring Blow.**_ The target’s Speed is reduced by 15 feet until the start of your next turn. A target can be affected by only one Hamstring Blow at a time—the most recent one.
+Moreover, your Rage always lasts for its maximum duration unless you become Unconscious or you choose to end it.
 
 ### Level 9: Rage-Guided Critical
 
@@ -156,10 +149,10 @@ Primal fury increases the power of your strikes while raging. Beginning at 9th l
 
 At certain levels, your critical hit range while raging increases again: 13th level a roll of 18-20 is a critical hit, and at 17th level a roll of 17-20 is a critical hit.
 
-### Level 11: Intuitive Maneuver
+### Level 11: Brutal Maneuver
 
 You ruthlessly exploit even the smallest weaknesses. Starting at 11th level, each time you score a critical hit with a weapon attack while Raging, you can use a Maneuver you know as part of that attack without expending an Exploit Die.
-### Level 11: Relentless Rage
+### Level 11: Unyielding Fury
 
 Starting at 11th level, your rage can keep you fighting despite grievous wounds. If you drop to 0 hit points while you're raging and don't die outright, you can make a DC 10 Constitution saving throw. If you succeed, your Hit Points instead change to a number equal to twice your Barbarian level.
 
@@ -167,23 +160,11 @@ Each time you use this feature after the first, the DC increases by 5. When you 
 
 Also, if you make an Intelligence, Wisdom, or Charisma saving throw while you are Raging, you gain a bonus to your roll equal to your Constitution modifier (minimum of +1).
 
-### Level 13: Improved Brutal Strike
-
-You have honed new ways to attack furiously. The following effects are now among your Brutal Strike options.
-
-_**Staggering Blow.**_ The target has Disadvantage on the next saving throw it makes, and it can’t make Opportunity Attacks until the start of your next turn.
-
-_**Sundering Blow.**_ Before the start of your next turn, the next attack roll made by another creature against the target gains a +5 bonus to the roll. An attack roll can gain only one Sundering Blow bonus.
-
 ### Level 15: Persistent Rage
 
-Beginning at 15th level, your rage is so fierce that it ends early only if you fall unconscious or if you choose to end it.
+Beginning at 15th level, your rage is an eternal flame burning within you. The duration of your rage increases to 1 hour.
 
 In addition, when you roll Initiative, you can regain all expended uses of Rage. After you regain uses of Rage in this way, you can’t do so again until you finish a Long Rest.
-
-### Level 17: Improved Brutal Strike
-
-The extra damage of your Brutal Strike increases to 2d10. In addition, you can use two different Brutal Strike effects whenever you use your Brutal Strike feature.
 
 ### Level 18: Indomitable Might
 
