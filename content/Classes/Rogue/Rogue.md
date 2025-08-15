@@ -2,28 +2,28 @@
 
 _You must have a Dexterity score of 13 or higher in order to multiclass in or out of this class._
 
-| Level | Prof. Bonus       | Features                                                                                      | Sneak Attack | Maneuver Dice | Prepared Maneuvers |
-| ----- | ----------------- | --------------------------------------------------------------------------------------------- | ------------ | ------------- | ------------------ |
-| 1st   | +2                | **Expertise**, **Sneak Attack**, **Thieves’ Cant**, **Weapon Mastery**, **Martial Maneuvers** | 1d6          | 2d6           | 1                  |
-| 2nd   | +2                | **Cunning Action**                                                                            | 1d6          | 2d6           | 1                  |
-| 3rd   | +2                | **Roguish Archetype**, _Steady Aim (Optional)_                                                | 2d6          | 2d6           | 2                  |
-| 4th   | +2                | **Ability Score Improvement**                                                                 | 2d6          | 2d6           | 2                  |
-| 5th   | +3                | **Uncanny Dodge**, **Cunning Strike**                                                         | 3d6          | 3d6           | 3                  |
-| 6th   | +3                | **Expertise**                                                                                 | 3d6          | 3d8           | 3                  |
-| 7th   | +3                | **Evasion**                                                                                   | 4d6          | 3d8           | 4                  |
-| 8th   | +3                | **Ability Score Improvement**                                                                 | 4d6          | 3d8           | 4                  |
-| 9th   | +4                | **Roguish Archetype feature**                                                                 | 5d6          | 4d8           | 5                  |
-| 10th  | +4                | **Ability Score Improvement**                                                                 | 5d6          | 4d8           | 5                  |
-| 11th  | +4                | **Reliable Talent**, **Devious Strike**                                                       | 6d6          | 4d10          | 6                  |
-| 12th  | +4                | **Ability Score Improvement**                                                                 | 6d6          | 4d10          | 6                  |
-| 13th  | +5                | **Roguish Archetype feature**                                                                 | 7d6          | 5d10          | 7                  |
-| 14th  | +5                | **Blindsense**                                                                                | 7d6          | 5d10          | 7                  |
-| 15th  | +5                | **Slippery Mind**                                                                             | 8d6          | 5d10          | 8                  |
-| 16th  | +5                | **Ability Score Improvement**                                                                 | 8d6          | 5d12          | 8                  |
-| 17th  | +6                | **Roguish Archetype feature**                                                                 | 9d6          | 6d12          | 9                  |
-| 18th  | +6                | **Elusive**                                                                                   | 9d6          | 6d12          | 9                  |
-| 19th  | +6                | **Ability Score Improvement**                                                                 | 10d6         | 6d12          | 10                 |
-| 20th  | +6                | **Stroke of Luck**                                                                            | 10d6         | 6d12          | 10                 |
+| Level | Prof. Bonus | Features                                                                                      | Sneak Attack | Maneuver Dice | Prepared Maneuvers |
+| ----- | ----------- | --------------------------------------------------------------------------------------------- | ------------ | ------------- | ------------------ |
+| 1st   | +2          | **Expertise**, **Sneak Attack**, **Thieves’ Cant**, **Weapon Mastery**, **Martial Maneuvers** | 1d6          | 2d6           | 1                  |
+| 2nd   | +2          | **Cunning Action**                                                                            | 1d6          | 2d6           | 1                  |
+| 3rd   | +2          | **Roguish Archetype**                                                                         | 2d6          | 2d6           | 2                  |
+| 4th   | +2          | **Ability Score Improvement**                                                                 | 2d6          | 2d6           | 2                  |
+| 5th   | +3          | **Uncanny Dodge**, **Cunning Strike**                                                         | 3d6          | 3d6           | 3                  |
+| 6th   | +3          | **Expertise**                                                                                 | 3d6          | 3d8           | 3                  |
+| 7th   | +3          | **Evasion**                                                                                   | 4d6          | 3d8           | 4                  |
+| 8th   | +3          | **Ability Score Improvement**                                                                 | 4d6          | 3d8           | 4                  |
+| 9th   | +4          | **Roguish Archetype feature**                                                                 | 5d6          | 4d8           | 5                  |
+| 10th  | +4          | **Ability Score Improvement**                                                                 | 5d6          | 4d8           | 5                  |
+| 11th  | +4          | **Reliable Talent**, **Devious Strike**                                                       | 6d6          | 4d10          | 6                  |
+| 12th  | +4          | **Ability Score Improvement**                                                                 | 6d6          | 4d10          | 6                  |
+| 13th  | +5          | **Roguish Archetype feature**                                                                 | 7d6          | 5d10          | 7                  |
+| 14th  | +5          | **Blindsense**                                                                                | 7d6          | 5d10          | 7                  |
+| 15th  | +5          | **Slippery Mind**                                                                             | 8d6          | 5d10          | 8                  |
+| 16th  | +5          | **Ability Score Improvement**                                                                 | 8d6          | 5d12          | 8                  |
+| 17th  | +6          | **Roguish Archetype feature**                                                                 | 9d6          | 6d12          | 9                  |
+| 18th  | +6          | **Elusive**                                                                                   | 9d6          | 6d12          | 9                  |
+| 19th  | +6          | **Ability Score Improvement**                                                                 | 10d6         | 6d12          | 10                 |
+| 20th  | +6          | **Stroke of Luck**                                                                            | 10d6         | 6d12          | 10                 |
 # Class Features
 
 As a rogue, you gain the following class features.

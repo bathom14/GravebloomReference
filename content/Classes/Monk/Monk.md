@@ -1,4 +1,4 @@
-### The Monk
+
 | Level | Proficiency Bonus | Maneuver Dice | Prepared Maneuvers | Martial Arts | Ki Points | Unarmored Movement |                                           Features                                           |
 | :---: | :---------------: | :-----------: | :----------------: | :----------: | :-------: | :----------------: | :------------------------------------------------------------------------------------------: |
 |  1st  |        +2         |      2d6      |         1          |     1d4      |     -     |         -          |                               Unarmored Defense, Martial Arts                                |

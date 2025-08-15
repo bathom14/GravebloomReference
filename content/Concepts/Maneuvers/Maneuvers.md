@@ -22,30 +22,6 @@ Some classes and subclasses may have additional maneuvers available to them, ind
 ##### Martial Maneuver Die Progression
 | Level | Proficiency Bonus | Full Martial Maneuver Dice | Full Martial Prepared Maneuvers | Half Martial Maneuver Dice | Half Martial Prepared Maneuvers | Third Martial Manuever Dice | Third Martial Prepared Maneuvers |
 | :---: | :---------------: | :------------------------: | :-----------------------------: | :------------------------: | :-----------------------------: | :-------------------------: | :------------------------------: |
-|  1st  |        +2         |            3d6             |                1                |            2d4             |                1                |             1d4             |                1                 |
-|  2nd  |        +2         |            3d6             |                1                |            2d4             |                1                |             1d4             |                1                 |
-|  3rd  |        +2         |            4d6             |                2                |            2d6             |                1                |             2d4             |                1                 |
-|  4th  |        +2         |            4d6             |                2                |            2d6             |                1                |             2d4             |                1                 |
-|  5th  |        +3         |            5d6             |                3                |            3d6             |                2                |             2d4             |                1                 |
-|  6th  |        +3         |            5d8             |                3                |            3d6             |                2                |             2d6             |                2                 |
-|  7th  |        +3         |            6d8             |                4                |            3d6             |                2                |             2d6             |                2                 |
-|  8th  |        +3         |            6d8             |                4                |            3d8             |                2                |             2d6             |                2                 |
-|  9th  |        +4         |            7d8             |                5                |            4d8             |                3                |             3d6             |                2                 |
-| 10th  |        +4         |            7d8             |                5                |            4d8             |                3                |             3d6             |                2                 |
-| 11th  |        +4         |            8d10            |                6                |            4d8             |                3                |             3d8             |                2                 |
-| 12th  |        +4         |            8d10            |                6                |            4d8             |                3                |             3d8             |                2                 |
-| 13th  |        +5         |            9d10            |                7                |            5d10            |                4                |             3d8             |                2                 |
-| 14th  |        +5         |            9d10            |                7                |            5d10            |                4                |             3d8             |                3                 |
-| 15th  |        +5         |           10d10            |                8                |            5d10            |                4                |             3d8             |                3                 |
-| 16th  |        +5         |           10d12            |                8                |            5d10            |                4                |            4d10             |                3                 |
-| 17th  |        +6         |           11d12            |                9                |            6d10            |                5                |            4d10             |                3                 |
-| 18th  |        +6         |           11d12            |                9                |            6d10            |                5                |            4d10             |                3                 |
-| 19th  |        +6         |           12d12            |               10                |            6d12            |                5                |            4d10             |                3                 |
-| 20th  |        +6         |           12d12            |               10                |            6d12            |                5                |            4d10             |                3                 |
-
-##### Martial Maneuver Die Progression
-| Level | Proficiency Bonus | Full Martial Maneuver Dice | Full Martial Prepared Maneuvers | Half Martial Maneuver Dice | Half Martial Prepared Maneuvers | Third Martial Manuever Dice | Third Martial Prepared Maneuvers |
-| :---: | :---------------: | :------------------------: | :-----------------------------: | :------------------------: | :-----------------------------: | :-------------------------: | :------------------------------: |
 |  1st  |        +2         |            2d6             |                1                |            1d4             |                1                |             1d4             |                1                 |
 |  2nd  |        +2         |            2d6             |                1                |            1d4             |                1                |             1d4             |                1                 |
 |  3rd  |        +2         |            2d6             |                2                |            1d6             |                1                |             1d4             |                1                 |
