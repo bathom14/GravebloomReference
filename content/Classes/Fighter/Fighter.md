@@ -7,28 +7,29 @@ Fighters share an unparalleled mastery with weapons and armor, and a thorough kn
 
 You must have a [[Dexterity]] or [[Strength]] score of 13 or higher in order to multiclass in or out of this class.
 
-| Level | Proficiency Bonus | Features                                                    | Maneuver Dice | Prepared Maneuvers | Second Wind | Weapon Mastery |
-| ----- | ----------------- | ----------------------------------------------------------- | :-----------: | :----------------: | ----------- | -------------- |
-| 1st   | +2                | Martial Maneuvers, Fighting Style, Second Wind              |      2d6      |         1          | 2           | 3              |
-| 2nd   | +2                | Action Surge (x1)                                           |      2d6      |         1          | 2           | 3              |
-| 3rd   | +2                | Martial Archetype                                           |      2d6      |         2          | 2           | 3              |
-| 4th   | +2                | Ability Score Improvement, _Martial Versatility (Optional)_ |      2d6      |         2          | 3           | 4              |
-| 5th   | +3                | Extra Attack (x1)                                           |      3d6      |         3          | 3           | 4              |
-| 6th   | +3                | Ability Score Improvement, _Martial Versatility (Optional)_ |      3d8      |         3          | 3           | 4              |
-| 7th   | +3                | Martial Archetype feature                                   |      3d8      |         4          | 3           | 4              |
-| 8th   | +3                | Ability Score Improvement, _Martial Versatility (Optional)_ |      3d8      |         4          | 3           | 4              |
-| 9th   | +4                | Indomitable (x1)                                            |      4d8      |         5          | 3           | 4              |
-| 10th  | +4                | Martial Archetype feature                                   |      4d8      |         5          | 4           | 5              |
-| 11th  | +4                | Extra Attack (x2)                                           |     4d10      |         6          | 4           | 5              |
-| 12th  | +4                | Ability Score Improvement, _Martial Versatility (Optional)_ |     4d10      |         6          | 4           | 5              |
-| 13th  | +5                | Indomitable (x2)                                            |     5d10      |         7          | 4           | 5              |
-| 14th  | +5                | Ability Score Improvement, _Martial Versatility (Optional)_ |     5d10      |         7          | 4           | 5              |
-| 15th  | +5                | Martial Archetype feature                                   |     5d10      |         8          | 4           | 5              |
-| 16th  | +5                | Ability Score Improvement, _Martial Versatility (Optional)_ |     5d12      |         8          | 4           | 6              |
-| 17th  | +6                | Action Surge (x2), Indomitable (x3)                         |     6d12      |         9          | 4           | 6              |
-| 18th  | +6                | Martial Archetype feature                                   |     6d12      |         9          | 4           | 6              |
-| 19th  | +6                | Ability Score Improvement, _Martial Versatility (Optional)_ |     6d12      |         10         | 4           | 6              |
-| 20th  | +6                | Extra Attack (x3)                                           |     6d12      |         10         | 4           | 6              |
+| Level | Prof. | Features                                                                                                                 | Maneuver Dice | Prepared | Second Wind | Weapon Mastery |
+| ----- | ----- | ------------------------------------------------------------------------------------------------------------------------ | :-----------: | :------: | ----------- | -------------- |
+| 1     | +2    | **Martial Maneuvers**, **Fighting Style**, **Second Wind**, **Weapon Mastery**                                           |      2d6      |    2     | 2           | 3              |
+| 2     | +2    | **Action Surge (1)**, **Tactical Mind**                                                                                  |      2d6      |    2     | 2           | 3              |
+| 3     | +2    | **Martial Archetype**                                                                                                    |      2d6      |    3     | 2           | 3              |
+| 4     | +2    | **ASI** (_Martial Versatility_)                                                                                          |      2d6      |    3     | 3           | 4              |
+| 5     | +3    | **Extra Attack (2 attacks)**, **Tactical Shift** _(Second Wind also restores **+1** Maneuver Die)_, **Signature Weapon** |      3d6      |    4     | 3           | 4              |
+| 6     | +3    | **ASI** (_Martial Versatility_)                                                                                          |      3d8      |    4     | 3           | 4              |
+| 7     | +3    | **Archetype feature**                                                                                                    |      3d8      |    5     | 3           | 4              |
+| 8     | +3    | **ASI** (_Martial Versatility_)                                                                                          |      3d8      |    6     | 3           | 4              |
+| 9     | +4    | **Indomitable (1)**, **Signature Technique** _(1/SR, d20; see text)_                                                     |      4d8      |    6     | 3           | 4              |
+| 10    | +4    | **Archetype feature**                                                                                                    |      4d8      |    6     | 4           | 5              |
+| 11    | +4    | **Extra Attack (3 attacks)**, **Adaptive Tactician** _(Second Wind now restores **+2** Maneuver Dice)_                   |     4d10      |    7     | 4           | 5              |
+| 12    | +4    | **ASI** (_Martial Versatility_)                                                                                          |     4d10      |    7     | 4           | 5              |
+| 13    | +5    | **Indomitable (2)**, **Studied Attacks**                                                                                 |     5d10      |    8     | 4           | 5              |
+| 14    | +5    | **ASI** (_Martial Versatility_)                                                                                          |     5d10      |    8     | 4           | 5              |
+| 15    | +5    | **Archetype feature**                                                                                                    |     5d10      |    9     | 4           | 5              |
+| 16    | +5    | **ASI** (_Martial Versatility_)                                                                                          |     5d12      |    9     | 4           | 6              |
+| 17    | +6    | **Action Surge (2)** _(only once per turn)_, **Indomitable (3)**                                                         |     6d12      |    10    | 4           | 6              |
+| 18    | +6    | **Archetype feature**                                                                                                    |     6d12      |    10    | 4           | 6              |
+| 19    | +6    | **ASI** (_Martial Versatility_)                                                                                          |     6d12      |    11    | 4           | 6              |
+| 20    | +6    | **Extra Attack (4 attacks)**                                                                                             |     6d12      |    11    | 4           | 6              |
+
 ## Class Features
 
 ### Hit Points
@@ -67,27 +68,13 @@ As a Martial Class, the Fighter has access to special battlefield maneuvers whic
 
 **Saving Throws.**  Some of your maneuvers require your target to make a saving throw to resist the maneuver's effects. The saving throw DC is calculated as follows:
 
-**Maneuver save DC** = 8 + your proficiency bonus + your Dexterity modifier
+**Maneuver save DC** = 8 + your proficiency bonus + your Strength or Dexterity modifier
 
 ### Level 1: Fighting Style
 
-You adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take a Fighting Style option more than once, even if you later get to choose again. Whenever you gain a Fighter level, you can replace the feat you chose with a different Fighting Style feat.
+You gain a [[Fighting Style feat]] of your choice.
 
-* **Archery (PHB).** You gain a +2 bonus to attack rolls you make with ranged weapons.
-
-* **Blind Fighting (TCE).** You have blindsight with a range of 10 feet. Within that range, you can effectively see anything that isn't behind total cover, even if you're blinded or in darkness. Moreover, you can see an invisible creature within that range, unless the creature successfully hides from you.
-
-* **Defense (PHB).** While you are wearing armor, you gain a +1 bonus to AC.
-
-* **Dueling (PHB).** When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
-
-* **Great Weapon Fighting (PHB).** When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the two-handed or versatile property for you to gain this benefit.
-
-* **Interception (TCE).** When a creature you can see hits a target, other than you, within 5 feet of you with an attack, you can use your reaction to reduce the damage the target takes by 1d10 + your proficiency bonus (to a minimum of 0 damage). You must be wielding a shield or a simple or martial weapon to use this reaction.
-
-* **Protection (PHB).** When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
-
-* **Superior Technique (TCE).** You learn one maneuver of your choice from among those available to the [[Battle Master]] archetype. If a maneuver you use requires your target to make a saving throw to resist the maneuver's effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice.)
+Whenever you gain a Fighter level, you can replace the feat you chose with a different Fighting Style feat.
 
 ### Level 1: Second Wind
 
