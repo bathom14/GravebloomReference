@@ -40,7 +40,7 @@ As a sorcerer, you gain the following class features.
 **Armor:** None  
 **Weapons:** Daggers, darts, slings, quarterstaffs, light crossbows  
 **Tools:** None  
-**Sav****ing Throws:** Constitution, Charisma  
+**Saving Throws:** Constitution, Charisma  
 **Skills:** Choose two from Arcana, Deception, Insight, Intimidation, Persuasion, and Religion
 
 ##### Equipment
@@ -62,7 +62,7 @@ At 1st level, you know four cantrips of your choice from the [sorcerer spell li
 
 ##### Sorcery Points
 
-The Sorcerer table shows how many Sorcery Points, which can be used to create Spell Slots to cast  your sorcerer spells of 1st level and higher. As a free action when you cast a spell, you may expend a number of Sorcery Points corresponding to the Spell Slot you desire to cast, according to the table below.
+The Sorcerer table shows how many Sorcery Points, which can be used to create Spell Slots to cast  your sorcerer spells of 1st level and higher. When you cast a spell, you may immediately create and expend a spell slot for it by spending Sorcery Points corresponding to the Spell Slot you desire to cast, according to the table below. If, for any reason, this Spell Slot still exists at the end of your turn, it is immediately converted back into Sorcery Points at the same rate.
 
 | Spell Level | Point Cost | Minimum Spellcaster Level |
 | ----------- | ---------- | ------------------------- |
@@ -76,7 +76,9 @@ The Sorcerer table shows how many Sorcery Points, which can be used to create Sp
 | 8th         | 11         | 15th                      |
 | 9th         | 13         | 17th                      |
 
-You may only create Spell Slots up to a certain level, according to your Sorcerer level (or total Spellcaster levels). In addition, spell slots of 6th level or higher are particularly taxing to create, and you can only use your Sorcery points to create one slot of each level of 6th or higher.
+You may only create Spell Slots up to a certain level, according to your Sorcerer level (or total Spellcaster levels). 
+
+In addition, spell slots of 6th level or higher are particularly taxing to create, and you can only use your Sorcery points to create one slot of each level of 6th or higher. If you receive spell slots of 6th level or higher from another Spellcasting source, you may not create an additional slot of that size using Sorcery points.
 
 The created spell slot can be used to cast any spell of equivalent level or lower. Casting lower level spells with higher level spell slots may impart upcast benefits.
 
