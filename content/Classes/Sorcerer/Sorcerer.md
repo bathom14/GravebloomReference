@@ -58,7 +58,7 @@ An event in your past, or in the life of a parent or ancestor, left an indelible
 
 ##### Cantrips
 
-At 1st level, you know four cantrips of your choice from the [sorcerer spell list](http://dnd5e.wikidot.com/spells:sorcerer). You learn additional sorcerer cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Sorcerer table.
+At 1st level, you know four cantrips of your choice from the [sorcerer spell list](http://dnd5e.wikidot.com/spells:sorcerer). You learn additional sorcerer cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Sorcerer table. Whenever you gain a Sorcerer level, you can replace one of your cantrips from this feature with another Sorcerer cantrip of your choice.
 
 ##### Sorcery Points
 

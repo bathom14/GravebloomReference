@@ -175,7 +175,7 @@ While you aren’t wearing armor or wielding a Shield, you gain the ability to m
 
 Your Flurry of Blows, Patient Defense, and Step of the Wind gain the following benefits.
 
-_**Flurry of Blows.**_ You can expend 1 Focus Point to use Flurry of Blows and make three Unarmed Strikes with it instead of two.
+_**Flurry of Blows.**_ You can expend 1 Ki Point to use Flurry of Blows and make three Unarmed Strikes with it instead of two.
 
 _**Patient Defense.**_ When you expend a Focus Point to use Patient Defense, you gain a number of Temporary Hit Points equal to two rolls of your Martial Arts die.
 
