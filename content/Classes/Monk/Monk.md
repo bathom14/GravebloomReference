@@ -1,26 +1,26 @@
 ### The Monk
 | Level | Proficiency Bonus | Maneuver Dice | Prepared Maneuvers | Martial Arts | Ki Points | Unarmored Movement |                                           Features                                           |
 | :---: | :---------------: | :-----------: | :----------------: | :----------: | :-------: | :----------------: | :------------------------------------------------------------------------------------------: |
-|  1st  |        +2         |      3d6      |         1          |     1d4      |     -     |         -          |                               Unarmored Defense, Martial Arts                                |
-|  2nd  |        +2         |      3d6      |         1          |     1d4      |     2     |      +10 ft.       |                           Ki, Unarmored Movement, Dedicated Weapon                           |
-|  3rd  |        +2         |      4d6      |         2          |     1d4      |     3     |      +10 ft.       |                    Monastic Tradition, Deflect Missiles, Ki-Fueled Attack                    |
-|  4th  |        +2         |      4d6      |         2          |     1d4      |     4     |      +10 ft.       |                   Ability Score Improvement, Slow Fall, Quickened Healing                    |
-|  5th  |        +3         |      5d6      |         3          |     2d4      |     5     |      +10 ft.       |                             Extra Attack, Ki Blocks, Focused Aim                             |
-|  6th  |        +3         |      5d8      |         3          |     2d4      |     6     |      +15 ft.       | Ability Score Improvement, Ki-Empowered Strikes, Ki-Guided Parry, Monastic Tradition feature |
-|  7th  |        +3         |      6d8      |         4          |     2d4      |     7     |      +15 ft.       |                                  Evasion, Stillness of Mind                                  |
-|  8th  |        +3         |      6d8      |         4          |     2d4      |     8     |      +15 ft.       |                                  Ability Score Improvement                                   |
-|  9th  |        +4         |      7d8      |         5          |     3d4      |     9     |      +15 ft.       |                                Unarmored Movement Improvement                                |
-| 10th  |        +4         |      7d8      |         5          |     3d4      |    10     |      +20 ft.       |                                        Purity of Body                                        |
-| 11th  |        +4         |     8d10      |         6          |     3d4      |    11     |      +20 ft.       |                                  Monastic Tradition feature                                  |
-| 12th  |        +4         |     8d10      |         6          |     3d4      |    12     |      +20 ft.       |                                  Ability Score Improvement                                   |
-| 13th  |        +5         |     9d10      |         7          |     4d4      |    13     |      +20 ft.       |                                  Tongue of the Sun and Moon                                  |
-| 14th  |        +5         |     9d10      |         7          |     4d4      |    14     |      +25 ft.       |                                         Diamond Soul                                         |
-| 15th  |        +5         |     10d10     |         8          |     4d4      |    15     |      +25 ft.       |                                        Timeless Body                                         |
-| 16th  |        +5         |     10d12     |         8          |     4d4      |    16     |      +25 ft.       |                                  Ability Score Improvement                                   |
-| 17th  |        +6         |     11d12     |         9          |     5d4      |    17     |      +25 ft.       |                                  Monastic Tradition feature                                  |
-| 18th  |        +6         |     11d12     |         9          |     5d4      |    18     |      +30 ft.       |                                          Empty Body                                          |
-| 19th  |        +6         |     12d12     |         10         |     5d4      |    19     |      +30 ft.       |                                  Ability Score Improvement                                   |
-| 20th  |        +6         |     12d12     |         10         |     5d4      |    20     |      +30 ft.       |                                         Perfect Self                                         |
+|  1st  |        +2         |      2d6      |         1          |     1d4      |     -     |         -          |                               Unarmored Defense, Martial Arts                                |
+|  2nd  |        +2         |      2d6      |         1          |     1d4      |     2     |      +10 ft.       |                           Ki, Unarmored Movement, Dedicated Weapon                           |
+|  3rd  |        +2         |      2d6      |         2          |     1d4      |     3     |      +10 ft.       |                    Monastic Tradition, Deflect Missiles, Ki-Fueled Attack                    |
+|  4th  |        +2         |      2d6      |         2          |     1d4      |     4     |      +10 ft.       |                   Ability Score Improvement, Slow Fall, Quickened Healing                    |
+|  5th  |        +3         |      3d6      |         3          |     2d4      |     5     |      +10 ft.       |                             Extra Attack, Ki Blocks, Focused Aim                             |
+|  6th  |        +3         |      3d8      |         3          |     2d4      |     6     |      +15 ft.       | Ability Score Improvement, Ki-Empowered Strikes, Ki-Guided Parry, Monastic Tradition feature |
+|  7th  |        +3         |      3d8      |         4          |     2d4      |     7     |      +15 ft.       |                                  Evasion, Stillness of Mind                                  |
+|  8th  |        +3         |      3d8      |         4          |     2d4      |     8     |      +15 ft.       |                                  Ability Score Improvement                                   |
+|  9th  |        +4         |      4d8      |         5          |     3d4      |     9     |      +15 ft.       |                                Unarmored Movement Improvement                                |
+| 10th  |        +4         |      4d8      |         5          |     3d4      |    10     |      +20 ft.       |                                        Purity of Body                                        |
+| 11th  |        +4         |     4d10      |         6          |     3d4      |    11     |      +20 ft.       |                                  Monastic Tradition feature                                  |
+| 12th  |        +4         |     4d10      |         6          |     3d4      |    12     |      +20 ft.       |                                  Ability Score Improvement                                   |
+| 13th  |        +5         |     5d10      |         7          |     4d4      |    13     |      +20 ft.       |                                  Tongue of the Sun and Moon                                  |
+| 14th  |        +5         |     5d10      |         7          |     4d4      |    14     |      +25 ft.       |                                         Diamond Soul                                         |
+| 15th  |        +5         |     5d10      |         8          |     4d4      |    15     |      +25 ft.       |                                        Timeless Body                                         |
+| 16th  |        +5         |     5d12      |         8          |     4d4      |    16     |      +25 ft.       |                                  Ability Score Improvement                                   |
+| 17th  |        +6         |     6d12      |         9          |     5d4      |    17     |      +25 ft.       |                                  Monastic Tradition feature                                  |
+| 18th  |        +6         |     6d12      |         9          |     5d4      |    18     |      +30 ft.       |                                          Empty Body                                          |
+| 19th  |        +6         |     6d12      |         10         |     5d4      |    19     |      +30 ft.       |                                  Ability Score Improvement                                   |
+| 20th  |        +6         |     6d12      |         10         |     5d4      |    20     |      +30 ft.       |                                         Perfect Self                                         |
 
 
 ### Class Features

@@ -2,28 +2,28 @@
 
 _You must have a Dexterity score of 13 or higher in order to multiclass in or out of this class._
 
-| Level | Proficiency Bonus | Features                                   | Sneak Attack |
-| ----- | ----------------- | ------------------------------------------ | ------------ |
-| 1st   | +2                | Expertise, Sneak Attack, Thieves' Cant     | 1d6          |
-| 2nd   | +2                | Cunning Action                             | 1d6          |
-| 3rd   | +2                | Roguish Archetype, _Steady Aim (Optional)_ | 2d6          |
-| 4th   | +2                | Ability Score Improvement                  | 2d6          |
-| 5th   | +3                | Uncanny Dodge                              | 3d6          |
-| 6th   | +3                | Expertise                                  | 3d6          |
-| 7th   | +3                | Evasion                                    | 4d6          |
-| 8th   | +3                | Ability Score Improvement                  | 4d6          |
-| 9th   | +4                | Roguish Archetype feature                  | 5d6          |
-| 10th  | +4                | Ability Score Improvement                  | 5d6          |
-| 11th  | +4                | Reliable Talent                            | 6d6          |
-| 12th  | +4                | Ability Score Improvement                  | 6d6          |
-| 13th  | +5                | Roguish Archetype feature                  | 7d6          |
-| 14th  | +5                | Blindsense                                 | 7d6          |
-| 15th  | +5                | Slippery Mind                              | 8d6          |
-| 16th  | +5                | Ability Score Improvement                  | 8d6          |
-| 17th  | +6                | Roguish Archetype feature                  | 9d6          |
-| 18th  | +6                | Elusive                                    | 9d6          |
-| 19th  | +6                | Ability Score Improvement                  | 10d6         |
-| 20th  | +6                | Stroke of Luck                             | 10d6         |
+| Level | Proficiency Bonus | Features                                   | Sneak Attack | Maneuver Dice | Prepared Maneuvers |
+| ----- | ----------------- | ------------------------------------------ | ------------ | ------------- | ------------------ |
+| 1st   | +2                | Expertise, Sneak Attack, Thieves' Cant     | 1d6          | 2d6           | 1                  |
+| 2nd   | +2                | Cunning Action                             | 1d6          | 2d6           | 1                  |
+| 3rd   | +2                | Roguish Archetype, _Steady Aim (Optional)_ | 2d6          | 2d6           | 2                  |
+| 4th   | +2                | Ability Score Improvement                  | 2d6          | 2d6           | 2                  |
+| 5th   | +3                | Uncanny Dodge                              | 3d6          | 3d6           | 3                  |
+| 6th   | +3                | Expertise                                  | 3d6          | 3d8           | 3                  |
+| 7th   | +3                | Evasion                                    | 4d6          | 3d8           | 4                  |
+| 8th   | +3                | Ability Score Improvement                  | 4d6          | 3d8           | 4                  |
+| 9th   | +4                | Roguish Archetype feature                  | 5d6          | 4d8           | 5                  |
+| 10th  | +4                | Ability Score Improvement                  | 5d6          | 4d8           | 5                  |
+| 11th  | +4                | Reliable Talent                            | 6d6          | 4d10          | 6                  |
+| 12th  | +4                | Ability Score Improvement                  | 6d6          | 4d10          | 6                  |
+| 13th  | +5                | Roguish Archetype feature                  | 7d6          | 5d10          | 7                  |
+| 14th  | +5                | Blindsense                                 | 7d6          | 5d10          | 7                  |
+| 15th  | +5                | Slippery Mind                              | 8d6          | 5d10          | 8                  |
+| 16th  | +5                | Ability Score Improvement                  | 8d6          | 5d12          | 8                  |
+| 17th  | +6                | Roguish Archetype feature                  | 9d6          | 6d12          | 9                  |
+| 18th  | +6                | Elusive                                    | 9d6          | 6d12          | 9                  |
+| 19th  | +6                | Ability Score Improvement                  | 10d6         | 6d12          | 10                 |
+| 20th  | +6                | Stroke of Luck                             | 10d6         | 6d12          | 10                 |
 
 # Class Features
 
@@ -100,22 +100,17 @@ Starting at 2nd level, your quick thinking and agility allow you to move and act
 
 At 3rd level, you choose an archetype that you emulate in the exercise of your rogue abilities. Your archetype choice grants you features at 3rd level and then again at 9th, 13th, and 17th level.
 
-|Archetype|Source|
-|---|---|
-|[Arcane Trickster](http://dnd5e.wikidot.com/rogue:arcane-trickster)|Player's Handbook|
-|[Assassin](http://dnd5e.wikidot.com/rogue:assassin)|Player's Handbook|
-|[Inquisitive](http://dnd5e.wikidot.com/rogue:inquisitive)|Xanathar's Guide to Everything|
-|[Mastermind](http://dnd5e.wikidot.com/rogue:mastermind)|Xanathar's Guide to Everything|
-|[Phantom](http://dnd5e.wikidot.com/rogue:phantom)|Tasha's Cauldron of Everything|
-|[Scout](http://dnd5e.wikidot.com/rogue:scout)|Xanathar's Guide to Everything|
-|[Soulknife](http://dnd5e.wikidot.com/rogue:soulknife)|Tasha's Cauldron of Everything|
-|[Swashbuckler](http://dnd5e.wikidot.com/rogue:swashbuckler)|Xanathar's Guide to Everything|
-|[Thief](http://dnd5e.wikidot.com/rogue:thief)|Player's Handbook|
-|Archived Unearthed Arcana|   |
-|[Phantom](http://dnd5e.wikidot.com/rogue:phantom-ua)|[Unearthed Arcana 72 - Subclasses Revisited](https://media.wizards.com/2020/dnd/downloads/UA2020_SubclassesRevisited_0512.pdf)|
-|[Revived](http://dnd5e.wikidot.com/rogue:revived-ua)|[Unearthed Arcana 64 - Fighter, Ranger, Rogue](https://media.wizards.com/2019/dnd/downloads/UA-RuneSwarmRevived.pdf)|
-|[Soulknife (2019)](http://dnd5e.wikidot.com/rogue:soulknife-ua)|[Unearthed Arcana 66 - Fighter, Rogue, Wizard](https://media.wizards.com/2019/dnd/downloads/UA-PsychicSoulPsionics.pdf)|
-|[Soulknife (2020)](http://dnd5e.wikidot.com/rogue:soulknife-revisited-ua)|[Unearthed Arcana 71 - Psionic Options Revisited](https://media.wizards.com/2020/dnd/downloads/UA2020_PsionicOptions.pdf)|
+| Archetype                                                                 | Source                                                                                                                         |
+| ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| [Arcane Trickster](http://dnd5e.wikidot.com/rogue:arcane-trickster)       | Player's Handbook                                                                                                              |
+| [Assassin](http://dnd5e.wikidot.com/rogue:assassin)                       | Player's Handbook                                                                                                              |
+| [Inquisitive](http://dnd5e.wikidot.com/rogue:inquisitive)                 | Xanathar's Guide to Everything                                                                                                 |
+| [Mastermind](http://dnd5e.wikidot.com/rogue:mastermind)                   | Xanathar's Guide to Everything                                                                                                 |
+| [Phantom](http://dnd5e.wikidot.com/rogue:phantom)                         | Tasha's Cauldron of Everything                                                                                                 |
+| [Scout](http://dnd5e.wikidot.com/rogue:scout)                             | Xanathar's Guide to Everything                                                                                                 |
+| [Soulknife](http://dnd5e.wikidot.com/rogue:soulknife)                     | Tasha's Cauldron of Everything                                                                                                 |
+| [Swashbuckler](http://dnd5e.wikidot.com/rogue:swashbuckler)               | Xanathar's Guide to Everything                                                                                                 |
+| [Thief](http://dnd5e.wikidot.com/rogue:thief)                             | Player's Handbook                                                                                                              |
 
 ### Level 3: Steady Aim
 
@@ -127,20 +122,17 @@ When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, yo
 
 ### Level 5: Cunning Strike
 
-You have developed cunning ways to use your Sneak Attack. When you deal Sneak Attack damage, you can add one of the following Cunning Strike effects. Each effect has a die cost, which is the number of Sneak Attack damage dice you must forgo to add the effect. You remove the die before rolling, and the effect occurs immediately after the attack’s damage is dealt. For example, if you add the Poison effect, remove 1d6 from the Sneak Attack’s damage before rolling.
+You have developed cunning ways to use your Sneak Attack. When you deal Sneak Attack damage, you can choose to forgo some of the bonus damage to use a Maneuver without expending a Maneuver die, using the following rules
 
-If a Cunning Strike effect requires a saving throw, the DC equals 8 plus your Dexterity modifier and Proficiency Bonus.
-
-**Poison (Cost: 1d6)**. You add a toxin to your strike, forcing the target to make a Constitution saving throw. On a failed save, the target has the Poisoned condition for 1 minute. At the end of each of its turns, the Poisoned target repeats the save, ending the effect on itself on a success.
-
-To use this effect, you must have a Poisoner’s Kit on your person.
-
-**Trip (Cost: 1d6)**. If the target is Large or smaller, it must succeed on a Dexterity saving throw or have the Prone condition.
-
-**Withdraw (Cost: 1d6)**. Immediately after the attack, you move up to half your Speed without provoking Opportunity Attacks.
+- The Maneuver must be prepared.
+- The Maneuver must be one that is used as part of your attack.
+- You reduce your Sneak Attack bonus by a number of d6s equal to the Degree of the Maneuver.
+- If the Maneuver deals additional damage, it does not deal additional damage when used with this feature.
 ### Level 5: Uncanny Dodge
 
 Starting at 5th level, when an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.
+
+At 14th level, you can move up to half your speed without provoking opportunity attacks as part of this reaction.
 
 ### Level 7: Evasion
 
@@ -150,31 +142,27 @@ Beginning at 7th level, you can nimbly dodge out of the way of certain area effe
 
 You have refined your chosen skills until they approach perfection. Whenever you make an ability check that lets you add your proficiency bonus, you can treat a d20 roll of 9 or lower as a 10.
 
-### Level 11: Improved Cunning Strike
+### Level 11: Devious Strike
 
-You can use up to two Cunning Strike effects when you deal Sneak Attack damage, paying the die cost for each effect.
+Starting at the 11th level, when you use a Maneuver as part of an attack that includes Sneak Attack bonus damage, you can reduce the bonus damage by 2d6 to force your target to make any saving throws involved in the attack with disadvantage. You can use this feature and Cunning Strike as part of the same attack.
 
 ### Level 14: Blindsense
 
 Starting at 14th level, if you are able to hear, you are aware of the location of any hidden or invisible creature within 10 feet of you.
 
-### Level 14: Devious Strikes
-
-You've practiced new ways to use your Sneak Attack deviously. The following effects are now among your Cunning Strike options.
-
-**Daze (Cost: 2d6)**. The target must succeed on a Constitution saving throw, or on its next turn, it can do only one of the following: move or take an action or a Bonus Action.
-
-**Knock Out (Cost: 6d6)**. The target must succeed on a Constitution saving throw, or it has the Unconscious condition for 1 minute or until it takes any damage. The Unconscious target can repeat the save at the end of each of its turns, ending the effect on itself on a success.
-
-**Obscure (Cost: 3d6)**. The target must succeed on a Dexterity saving throw, or it has the Blinded condition until the end of its next turn.
+The radius of Blindsense increases again when you reach 17th level (20 feet) and 20th level (30 feet) in this class.
 
 ### Level 15: Slippery Mind
 
-By 15th level, you have acquired greater mental strength. You gain proficiency in Wisdom and Charisma saving throws.
+You’ve honed your will against intrusion.
+
+- You gain **proficiency** in **Wisdom** and **Charisma** saving throws.
+
+- **Resourceful Resilience.** **When you fail** an **Intelligence, Wisdom, or Charisma** saving throw, you can use your **reaction** to roll your **Maneuver die** and add the result to the save, potentially turning it into a success. You can use this feature a number of times equal to your **Proficiency Bonus**, and you regain all expended uses when you finish a **Long Rest**.
 
 ### Level 18: Elusive
 
-Beginning at 18th level, you are so evasive that attackers rarely gain the upper hand against you. No attack roll has advantage against you while you aren't incapacitated.\
+Beginning at 18th level, you are so evasive that attackers rarely gain the upper hand against you. No attack roll has advantage against you while you aren't incapacitated.
 
 ### Level 19: Epic Boon
 

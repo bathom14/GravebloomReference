@@ -9,26 +9,26 @@ You must have a [[Dexterity]] or [[Strength]] score of 13 or higher in order to 
 
 | Level | Proficiency Bonus | Features                                                    | Maneuver Dice | Prepared Maneuvers | Second Wind | Weapon Mastery |
 | ----- | ----------------- | ----------------------------------------------------------- | :-----------: | :----------------: | ----------- | -------------- |
-| 1st   | +2                | Martial Maneuvers, Fighting Style, Second Wind              |      3d6      |         1          | 2           | 3              |
-| 2nd   | +2                | Action Surge (x1)                                           |      3d6      |         1          | 2           | 3              |
-| 3rd   | +2                | Martial Archetype                                           |      4d6      |         2          | 2           | 3              |
-| 4th   | +2                | Ability Score Improvement, _Martial Versatility (Optional)_ |      4d6      |         2          | 3           | 4              |
-| 5th   | +3                | Extra Attack (x1)                                           |      5d6      |         3          | 3           | 4              |
-| 6th   | +3                | Ability Score Improvement, _Martial Versatility (Optional)_ |      5d8      |         3          | 3           | 4              |
-| 7th   | +3                | Martial Archetype feature                                   |      6d8      |         4          | 3           | 4              |
-| 8th   | +3                | Ability Score Improvement, _Martial Versatility (Optional)_ |      6d8      |         4          | 3           | 4              |
-| 9th   | +4                | Indomitable (x1)                                            |      7d8      |         5          | 3           | 4              |
-| 10th  | +4                | Martial Archetype feature                                   |      7d8      |         5          | 4           | 5              |
-| 11th  | +4                | Extra Attack (x2)                                           |     8d10      |         6          | 4           | 5              |
-| 12th  | +4                | Ability Score Improvement, _Martial Versatility (Optional)_ |     8d10      |         6          | 4           | 5              |
-| 13th  | +5                | Indomitable (x2)                                            |     9d10      |         7          | 4           | 5              |
-| 14th  | +5                | Ability Score Improvement, _Martial Versatility (Optional)_ |     9d10      |         7          | 4           | 5              |
-| 15th  | +5                | Martial Archetype feature                                   |     10d10     |         8          | 4           | 5              |
-| 16th  | +5                | Ability Score Improvement, _Martial Versatility (Optional)_ |     10d12     |         8          | 4           | 6              |
-| 17th  | +6                | Action Surge (x2), Indomitable (x3)                         |     11d12     |         9          | 4           | 6              |
-| 18th  | +6                | Martial Archetype feature                                   |     11d12     |         9          | 4           | 6              |
-| 19th  | +6                | Ability Score Improvement, _Martial Versatility (Optional)_ |     12d12     |         10         | 4           | 6              |
-| 20th  | +6                | Extra Attack (x3)                                           |     12d12     |         10         | 4           | 6              |
+| 1st   | +2                | Martial Maneuvers, Fighting Style, Second Wind              |      2d6      |         1          | 2           | 3              |
+| 2nd   | +2                | Action Surge (x1)                                           |      2d6      |         1          | 2           | 3              |
+| 3rd   | +2                | Martial Archetype                                           |      2d6      |         2          | 2           | 3              |
+| 4th   | +2                | Ability Score Improvement, _Martial Versatility (Optional)_ |      2d6      |         2          | 3           | 4              |
+| 5th   | +3                | Extra Attack (x1)                                           |      3d6      |         3          | 3           | 4              |
+| 6th   | +3                | Ability Score Improvement, _Martial Versatility (Optional)_ |      3d8      |         3          | 3           | 4              |
+| 7th   | +3                | Martial Archetype feature                                   |      3d8      |         4          | 3           | 4              |
+| 8th   | +3                | Ability Score Improvement, _Martial Versatility (Optional)_ |      3d8      |         4          | 3           | 4              |
+| 9th   | +4                | Indomitable (x1)                                            |      4d8      |         5          | 3           | 4              |
+| 10th  | +4                | Martial Archetype feature                                   |      4d8      |         5          | 4           | 5              |
+| 11th  | +4                | Extra Attack (x2)                                           |     4d10      |         6          | 4           | 5              |
+| 12th  | +4                | Ability Score Improvement, _Martial Versatility (Optional)_ |     4d10      |         6          | 4           | 5              |
+| 13th  | +5                | Indomitable (x2)                                            |     5d10      |         7          | 4           | 5              |
+| 14th  | +5                | Ability Score Improvement, _Martial Versatility (Optional)_ |     5d10      |         7          | 4           | 5              |
+| 15th  | +5                | Martial Archetype feature                                   |     5d10      |         8          | 4           | 5              |
+| 16th  | +5                | Ability Score Improvement, _Martial Versatility (Optional)_ |     5d12      |         8          | 4           | 6              |
+| 17th  | +6                | Action Surge (x2), Indomitable (x3)                         |     6d12      |         9          | 4           | 6              |
+| 18th  | +6                | Martial Archetype feature                                   |     6d12      |         9          | 4           | 6              |
+| 19th  | +6                | Ability Score Improvement, _Martial Versatility (Optional)_ |     6d12      |         10         | 4           | 6              |
+| 20th  | +6                | Extra Attack (x3)                                           |     6d12      |         10         | 4           | 6              |
 ## Class Features
 
 ### Hit Points
@@ -161,7 +161,7 @@ Beginning at 9th level, you may make a special Signature Move using your Signatu
 
 Signature Techniques are special Maneuvers which utilize a d20 instead of your normal Maneuver die. At 11th level, you may roll an additional d20 for your Signature Technique die, and keep the highest result. This increases to two additional d20 at 17th level.
 
-### Level 11: Improved Recovery
+### Level 11: Adaptive Tactician
 
 Beginning at the 11th level, whenever you activate your Second Wind, you now regain two Maneuver Die instead of one.
 ### Level 13: Studied Attacks

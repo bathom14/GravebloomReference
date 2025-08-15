@@ -106,20 +106,17 @@ You can use an arcane focus as a spellcasting focus for your sorcerer spells.
 
 Choose a sorcerous origin, which describes the source of your innate magical power. Your choice grants you features when you choose it at 1st level and again at 6th, 14th, and 18th level.
 
-| Origin                                                                                                             | Source                                                                                                                       |
-| ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- |
-| [Aberrant Mind](https://dnd5e.wikidot.com/sorcerer:aberrant-mind)                                                  | Tasha's Cauldron of Everything                                                                                               |
-| [Clockwork Soul](https://dnd5e.wikidot.com/sorcerer:clockwork-soul)                                                | Tasha's Cauldron of Everything                                                                                               |
-| [Draconic Bloodline](https://dnd5e.wikidot.com/sorcerer:draconic-bloodline)                                        | Player's Handbook                                                                                                            |
-| [Divine Soul](https://dnd5e.wikidot.com/sorcerer:divine-soul)                                                      | Xanathar's Guide to Everything                                                                                               |
-| [Lunar Sorcery](https://dnd5e.wikidot.com/sorcerer:lunar-sorcery)                                                  | Dragonlance: Shadow of the Dragon Queen                                                                                      |
-| [Shadow Magic](https://dnd5e.wikidot.com/sorcerer:shadow-magic)                                                    | Xanathar's Guide to Everything                                                                                               |
-| [Storm Sorcery](https://dnd5e.wikidot.com/sorcerer:storm-sorcery)                                                  | Sword Coast Adventurer's Guide  <br>Xanathar's Guide to Everything                                                           |
-| [Wild Magic](https://dnd5e.wikidot.com/sorcerer:wild-magic)                                                        | Player's Handbook                                                                                                            |
-| The following domains are designed for the Amonkhet Planeshift articles, and are not part of any official release. |                                                                                                                              |
-| [Pyromancy](https://dnd5e.wikidot.com/sorcerer:pyromancy)                                                          | [Plane Shift: Kaladesh](https://media.wizards.com/2017/downloads/magic/Plane-Shift_Kaladesh.pdf)                             |
-| Unearthed Arcana                                                                                                   |                                                                                                                              |
-| [Lunar Magic](https://dnd5e.wikidot.com/sorcerer:lunar-magic-ua)                                                   | [Unearthed Arcana 81 - Heroes of Krynn](https://media.wizards.com/2022/dnd/downloads/UA2022HeroesofKrynn.pdf)                |
+| Origin                                                                                                             | Source                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- |
+| [Aberrant Mind](https://dnd5e.wikidot.com/sorcerer:aberrant-mind)                                                  | Tasha's Cauldron of Everything                                                                                |
+| [Clockwork Soul](https://dnd5e.wikidot.com/sorcerer:clockwork-soul)                                                | Tasha's Cauldron of Everything                                                                                |
+| [Draconic Bloodline](https://dnd5e.wikidot.com/sorcerer:draconic-bloodline)                                        | Player's Handbook                                                                                             |
+| [Divine Soul](https://dnd5e.wikidot.com/sorcerer:divine-soul)                                                      | Xanathar's Guide to Everything                                                                                |
+| [Lunar Sorcery](https://dnd5e.wikidot.com/sorcerer:lunar-sorcery)                                                  | Dragonlance: Shadow of the Dragon Queen                                                                       |
+| [Shadow Magic](https://dnd5e.wikidot.com/sorcerer:shadow-magic)                                                    | Xanathar's Guide to Everything                                                                                |
+| [Storm Sorcery](https://dnd5e.wikidot.com/sorcerer:storm-sorcery)                                                  | Sword Coast Adventurer's Guide  <br>Xanathar's Guide to Everything                                            |
+| [Wild Magic](https://dnd5e.wikidot.com/sorcerer:wild-magic)                                                        | Player's Handbook                                                                                             |
+
 
 ### Level 2: Metamagic
 
