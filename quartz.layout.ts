@@ -38,7 +38,17 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+		// keep folders before files; then sort by slug/filename with natural (numeric) order
+	  sortFn: (a, b) => {
+		if (a.isFolder !== b.isFolder) return a.isFolder ? -1 : 1
+		const as =
+		  (a.data?.slug ?? (a as any).slug ?? a.displayName ?? "").toLowerCase()
+		const bs =
+		  (b.data?.slug ?? (b as any).slug ?? b.displayName ?? "").toLowerCase()
+		return as.localeCompare(bs, undefined, { numeric: true, sensitivity: "base" })
+	  },
+	}),
   ],
   right: [
     Component.Graph(),
