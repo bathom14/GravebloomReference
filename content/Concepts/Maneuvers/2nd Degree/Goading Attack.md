@@ -7,4 +7,8 @@ prerequisites: "[[Barbarian]], [[Fighter]], [[Monk]], [[Paladin]], [[Ranger]], [
 
 **Prerequisites:** [[Barbarian]], [[Fighter]], [[Monk]], [[Paladin]], [[Ranger]], [[Rogue]]
 
-When you hit a creature with a weapon attack, you can expend one superiority die to attempt to goad the target into attacking you. You add the superiority die to the attack's damage roll, and the target must make a Wisdom saving throw. On a failed save, the target has disadvantage on all attack rolls against targets other than you until the end of your next turn.
+
+When you hit a creature that can see or hear you with a weapon attack, you can expend one Maneuver Die to attempt to goad the target into attacking you. You add the superiority die to the attack's damage roll, and the target must make a Wisdom saving throw. On a failed save, the target has disadvantage on all attack rolls against targets other than you until the end of your next turn.
+
+_Prerequisites: Charisma of 11 or higher_  
+When you hit a creature within 15 feet that can see or hear you with a weapon attack, you can expend one Exploit Die to taunt it. Until the start of your next turn, it has disadvantage on all attacks against targets other than you. ?

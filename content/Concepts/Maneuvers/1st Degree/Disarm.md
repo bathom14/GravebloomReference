@@ -1,0 +1,1 @@
+When you hit a target with a weapon attack, you can expend a Maneuver Die and force it to make a Strength saving throw. On a failure, add your Maneuver Die to the damage roll and it drops one item of your choice to the ground in its space.

@@ -1,0 +1,1 @@
+When you hit a target with a weapon attack, you can expend one Maneuver Die and force it to make a Dexterity saving throw. On a failure, add your Maneuver Die to the damage roll, and the target's speed is halved until the start of your next turn.

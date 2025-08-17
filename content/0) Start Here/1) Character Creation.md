@@ -1,0 +1,3 @@
+- 1) Decide on a character sheet format
+	- I'll keep a personal copy of everyone's Character Sheet in Markdown format
+	- 

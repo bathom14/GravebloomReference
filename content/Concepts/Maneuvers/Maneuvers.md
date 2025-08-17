@@ -43,6 +43,28 @@ Some classes and subclasses may have additional maneuvers available to them, ind
 | 19th  |        +6         |            6d12            |               10                |            3d12            |                5                |            2d10             |                3                 |
 | 20th  |        +6         |            6d12            |               10                |            3d12            |                5                |            2d10             |                3                 |
 
+| Level | Proficiency Bonus | Full Martial Maneuver Dice | Full Martial Prepared Maneuvers | Half Martial Maneuver Dice | Half Martial Prepared Maneuvers | Third Martial Maneuver Dice | Third Martial Prepared Maneuvers |
+| :---: | :---------------: | :------------------------: | :-----------------------------: | :------------------------: | :-----------------------------: | :-------------------------: | :------------------------------: |
+|  1st  |        +2         |            2d4             |                2                |            1d4             |                2                |             1d4             |                2                 |
+|  2nd  |        +2         |            2d4             |                2                |            1d4             |                2                |             1d4             |                2                 |
+|  3rd  |        +2         |            2d6             |                3                |            1d4             |                2                |             1d4             |                2                 |
+|  4th  |        +2         |            2d6             |                3                |            1d4             |                2                |             1d4             |                2                 |
+|  5th  |        +3         |            3d6             |                4                |            2d6             |                3                |             1d4             |                2                 |
+|  6th  |        +3         |            3d8             |                4                |            2d6             |                3                |             1d4             |                2                 |
+|  7th  |        +3         |            3d8             |                5                |            2d6             |                3                |             1d6             |                2                 |
+|  8th  |        +3         |            3d8             |                5                |            2d8             |                3                |             1d6             |                2                 |
+|  9th  |        +4         |            4d8             |                6                |            2d8             |                4                |             2d6             |                3                 |
+| 10th  |        +4         |            4d10            |                6                |            2d8             |                4                |             2d6             |                3                 |
+| 11th  |        +4         |            4d10            |                7                |            2d8             |                4                |             2d8             |                3                 |
+| 12th  |        +4         |            4d10            |                7                |            2d8             |                4                |             2d8             |                3                 |
+| 13th  |        +5         |            5d10            |                8                |            3d10            |                5                |             2d8             |                3                 |
+| 14th  |        +5         |            5d10            |                8                |            3d10            |                5                |             2d8             |                3                 |
+| 15th  |        +5         |            5d12            |                9                |            3d10            |                5                |             2d8             |                3                 |
+| 16th  |        +5         |            5d12            |                9                |            3d10            |                5                |            2d10             |                4                 |
+| 17th  |        +6         |            6d12            |               10                |            3d10            |                6                |            2d10             |                4                 |
+| 18th  |        +6         |            6d12            |               10                |            3d12            |                6                |            2d10             |                4                 |
+| 19th  |        +6         |            6d12            |               11                |            3d12            |                6                |            2d10             |                4                 |
+| 20th  |        +6         |            6d12            |               11                |            3d12            |                6                |            2d10             |                4                 |
 ### First Degree
 #### Any Maneuver Die Size
 

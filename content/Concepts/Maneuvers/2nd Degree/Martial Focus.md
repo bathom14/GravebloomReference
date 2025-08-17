@@ -1,0 +1,1 @@
+As part of a weapon attack you can expend a Maneuver Die to gain advantage on your attack roll. You can use this Maneuver after you roll, but before you know if you hit or miss.
