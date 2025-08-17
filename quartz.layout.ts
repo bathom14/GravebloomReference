@@ -1,6 +1,17 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
+// shared Explorer options: folders first, then numeric-aware slug; no cached order
+const explorerOpts = {
+  useSavedState: false,
+  sortFn: (a: any, b: any) => {
+    if (a.isFolder !== b.isFolder) return a.isFolder ? -1 : 1
+    const as = (a.data?.slug ?? a.displayName ?? "").toLowerCase()
+    const bs = (b.data?.slug ?? b.displayName ?? "").toLowerCase()
+    return as.localeCompare(bs, undefined, { numeric: true, sensitivity: "base" })
+  },
+}
+
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
@@ -38,17 +49,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer({
-		// keep folders before files; then sort by slug/filename with natural (numeric) order
-	  sortFn: (a, b) => {
-		if (a.isFolder !== b.isFolder) return a.isFolder ? -1 : 1
-		const as =
-		  (a.data?.slug ?? (a as any).slug ?? a.displayName ?? "").toLowerCase()
-		const bs =
-		  (b.data?.slug ?? (b as any).slug ?? b.displayName ?? "").toLowerCase()
-		return as.localeCompare(bs, undefined, { numeric: true, sensitivity: "base" })
-	  },
-	}),
+    Component.Explorer(explorerOpts),
   ],
   right: [
     Component.Graph(),
@@ -72,7 +73,7 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer(explorerOpts),
   ],
   right: [],
 }
