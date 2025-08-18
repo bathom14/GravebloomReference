@@ -83,7 +83,7 @@ You start with the following equipment, in addition to the equipment granted by 
 - (a) a priest's pack or (b) an explorer's pack
 - A shield and a holy symbol
 
-### Spellcasting
+### Level 1: Spellcasting
 
 As a conduit for divine power, you can cast cleric spells.
 
@@ -119,7 +119,7 @@ You can cast a cleric spell as a ritual if that spell has the ritual tag and you
 
 You can use a holy symbol as a spellcasting focus for your cleric spells.
 
-### 1st Level: Divine Domain
+### Level 1: Divine Domain
 
 At 1st level, you choose a domain shaped by your choice of Deity and the gifts they grant you. Your choice grants you domain spells and other features when you choose it at 1st level. It also grants you additional ways to use Channel Divinity when you gain that feature at 2nd level, and additional benefits at 6th, 8th, and 17th levels.
 
@@ -162,7 +162,7 @@ _**Protector.**_ Trained for battle, you gain proficiency with Martial weapons 
 
 _**Thaumaturge.**_ You know one extra cantrip from the Cleric spell list. In addition, your mystical connection to the divine gives you a bonus to your Intelligence (Arcana or Religion) checks. The bonus equals your Wisdom modifier (minimum of +1).
 
-### Channel Divinity
+### Level 2: Channel Divinity
 
 At 2nd level, you gain the ability to channel divine energy directly from your deity, using that energy to fuel magical effects. You start with two such effects: Turn Undead and an effect determined by your domain. Some domains grant you additional effects as you advance in levels, as noted in the domain description.
 
@@ -174,7 +174,7 @@ Beginning at 6th level, you can use your Channel Divinity twice between rests, a
 
 ##### Channel Divinity: Divine Spark
 
-As a Magic action, you point your Holy Symbol at another creature you can see within 30 feet of yourself and focus divine energy at it. Roll 1d8 and add your Wisdom modifier. You either restore Hit Points to the creature equal to that total or force the creature to make a Constitution saving throw. On a failed save, the creature takes Necrotic or Radiant damage (your choice) equal to that total. On a successful save, the creature takes half as much damage (round down).
+As an action, you point your Holy Symbol at another creature you can see within 30 feet of yourself and focus divine energy at it. Roll 1d8 and add your Wisdom modifier. You either restore Hit Points to the creature equal to that total or force the creature to make a Constitution saving throw. On a failed save, the creature takes Necrotic or Radiant damage (your choice) equal to that total. On a successful save, the creature takes half as much damage (round down).
 
 You roll an additional d8 when you reach Cleric levels 7 (2d8), 13 (3d8), and 18 (4d8).
 

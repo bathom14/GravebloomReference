@@ -12,7 +12,7 @@ title: Character Creation
 	- **Standard Array.** You have ability scores of (15, 14, 13, 12, 10, 8) to distribute to abilities of your choice.
 	- **Roll for Stats.** Roll 4d6 and drop the lowest score, and add the remaining die to produce one ability score value. Repeat this six times, and then apply the six values produced to the ability scores of your choice. You may not have more than one result of 18; if you roll this value more than once, you must reroll one of the dice until the total value is less than 18.
 		- This must be done either with physical dice while I observe the rolls (in person or in discord), via a digital dice rolling system I can link you to, or I can roll for you and tell you the results.
-- Select a Background
+- Select a **Background**
 	- Select one of the [Backgrounds](/Backgrounds/)
 - **Select a Race**.
 	- Select one of the playable [Races](/Races/) for your character. 
@@ -20,8 +20,8 @@ title: Character Creation
 		- Additionally, each race has Feats which are only available to members of that race.
 - **Select a Class**
 	- Select one of the playable [Classes](/Classes/).
-	- The classes have been rebalanced to a high degree (especially Martial characters), so browsing the classes as listen here is recommended even if you have prior familiarity with D&D 5e.
+	- The classes have been rebalanced (especially Martial characters), so browsing the classes as listed here is recommended even if you have prior familiarity with D&D 5e.
 - **Select a Background**
 	- Select one of the available [Backgrounds](/Backgrounds/).
 - Select a Feat
-	- Select on of the [Feats](/Feats/) available for selection at level 1
+	- Select one of the [Feats](/Feats/) available for selection at Level 1
