@@ -58,13 +58,35 @@ You start with the following equipment, in addition to the equipment granted by 
 
 * (a) a dungeoneer's pack or (b) an explorer's pack
 
+### Level 1: Weapon Mastery
+
+Your training with weapons allows you to use the mastery properties of three kinds of Simple or Martial weapons of your choice. Whenever you finish a Long Rest, you can practice weapon drills and change one of those weapon choices.
+
+When you reach certain Fighter levels, you gain the ability to use the mastery properties of more kinds of weapons, as shown in the Weapon Mastery column of the Fighter Features table.
+
+*will be adjusted for stacking masteries on 1 weapon*
+
 ### Level 1: Martial Maneuvers
 
 As a Martial Class, the Fighter has access to special battlefield maneuvers which are activated at the expense of maneuver dice.
 
-**Maneuvers.** You learn one Maneuver available to you from the [Martial Maneuver List](https://homebrewery.naturalcrit.com/share/-cfBHWD0T61T). As you progress levels you gain access to a higher number of prepared maneuvers, and can select them from the list in the same way. Some maneuvers are only available at higher levels or may have other prerequisites. Whenever you complete a long rest, you may change your prepared Maneuvers.
+**Maneuvers.** You can prepare two [[Maneuvers]] available to you from the [Martial Maneuver List](https://homebrewery.naturalcrit.com/share/-cfBHWD0T61T). As you progress levels you gain access to a higher number of prepared Maneuvers, and can select them from the list in the same way. Some Maneuvers are only available at higher levels or may have other prerequisites. Whenever you complete a long rest, you may change your prepared Maneuvers.
 
 **Maneuver Dice.** You have a number of maneuver dice available to you, which are initially three d6s. You regain all of your spent maneuver dice when you complete a short or long rest. You gain another maneuver die as you progress in levels, as shown on the Fighter progression table. The superiority die size increases to d8 at level 6, d10 and level 11, and d12 at level 16. Using a maneuver expends a maneuver dice.
+
+**Maneuver Degree.** Each Maneuver falls within an assigned Degree, ranging from First Degree to Fifth Degree. The availability of Maneuvers for you to prepare is determined by the size of your Maneuver Die. The Degree of the Maneuver also dictates its allowed frequency of use, as outlined in the table below.
+
+| Maneuver Degree | Minimum Maneuver Die Size | Frequency of Use     |
+| --------------- | ------------------------- | -------------------- |
+| First Degree    | d4                        | Unlimited            |
+| Second Degree   | d6                        | Unlimited            |
+| Third Degree    | d8                        | Once Per Round       |
+| Fourth Degree   | d10                       | Twice Per Short Rest |
+| Fifth Degree    | d12                       | Once Per Short Rest  |
+
+**Saving Throws.**  Some of your Maneuvers require your target to make a saving throw to resist the maneuver's effects. The saving throw will use either your Strength or your Dexterity modifier, and once you have selected which ability score to use, it cannot be changed. You make this selection when you the Martial Maneuvers feature. The saving throw DC is calculated as follows:
+
+**Maneuver save DC** = 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice)
 
 **Saving Throws.**  Some of your maneuvers require your target to make a saving throw to resist the maneuver's effects. The saving throw DC is calculated as follows:
 
@@ -84,13 +106,7 @@ You can use this feature twice. You regain one expended use when you finish a Sh
 
 When you reach certain Fighter levels, you gain more uses of this feature, as shown in the Second Wind column of the Fighter Features table.
 
-### Level 1: Weapon Mastery
 
-Your training with weapons allows you to use the mastery properties of three kinds of Simple or Martial weapons of your choice. Whenever you finish a Long Rest, you can practice weapon drills and change one of those weapon choices.
-
-When you reach certain Fighter levels, you gain the ability to use the mastery properties of more kinds of weapons, as shown in the Weapon Mastery column of the Fighter Features table.
-
-*will be adjusted for stacking masteries on 1 weapon*
 ### Level 2: Action Surge
 
 Starting at 2nd level, you can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action.

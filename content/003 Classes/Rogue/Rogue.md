@@ -51,6 +51,33 @@ You start with the following equipment, in addition to the equipment granted by 
 - (a) a burglar's pack, (b) dungeoneer's pack, or (c) an explorer's pack
 - Leather armor, two daggers, and thieves' tools
 
+### Level 1: Weapon Mastery
+
+Your training with weapons allows you to use the mastery properties of two kinds of weapons of your choice with which you have proficiency, such as Daggers and Shortbows.
+
+Whenever you finish a Long Rest, you can change the kinds of weapons you chose. For example, you could switch to using the mastery properties of Scimitars and Shortswords.
+
+### Level 1: Martial Maneuvers
+
+As a Martial Class, the Rogue has access to special battlefield maneuvers which are activated at the expense of maneuver dice.
+
+**Maneuvers.** You learn one Maneuver available to you from the [Martial Maneuver List](https://homebrewery.naturalcrit.com/share/-cfBHWD0T61T). As you progress levels you gain access to a higher number of prepared maneuvers, and can select them from the list in the same way. Some maneuvers are only available at higher levels or may have other prerequisites. Whenever you complete a long rest, you may change your prepared Maneuvers.
+
+**Maneuver Dice.** You have a number of maneuver dice available to you, which are initially three d6s. You regain all of your spent maneuver dice when you complete a short or long rest. You gain another maneuver die as you progress in levels, as shown on the Rogue progression table. The superiority die size increases to d8 at level 6, d10 and level 11, and d12 at level 16. Using a maneuver expends a maneuver dice.
+
+**Maneuver Degree.** Each Maneuver falls within an assigned Degree, ranging from First Degree to Fifth Degree. The availability of Maneuvers for you to prepare is determined by the size of your Maneuver Die. The Degree of the Maneuver also dictates its allowed frequency of use, as outlined in the table below.
+
+| Maneuver Degree | Minimum Maneuver Die Size | Frequency of Use     |
+| --------------- | ------------------------- | -------------------- |
+| First Degree    | d4                        | Unlimited            |
+| Second Degree   | d6                        | Unlimited            |
+| Third Degree    | d8                        | Once Per Round       |
+| Fourth Degree   | d10                       | Twice Per Short Rest |
+| Fifth Degree    | d12                       | Once Per Short Rest  |
+
+**Saving Throws.**  Some of your Maneuvers require your target to make a saving throw to resist the maneuver's effects. The saving throw will use either your Strength or your Dexterity modifier, and once you have selected which ability score to use, it cannot be changed. You make this selection when you the Martial Maneuvers feature. The saving throw DC is calculated as follows:
+
+**Maneuver save DC** = 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice)
 ### Level 1: Expertise
 
 At 1st level, choose two of your skill proficiencies, or one of your skill proficiencies and your proficiency with thieves' tools. You gain Expertise in these proficiencies, meaning that your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.
@@ -72,24 +99,6 @@ During your rogue training you learned thieves' cant, a secret mix of dialect, j
 In addition, you understand a set of secret signs and symbols used to convey short, simple messages, such as whether an area is dangerous or the territory of a thieves' guild, whether loot is nearby, or whether the people in an area are easy marks or will provide a safe house for thieves on the run.
 
 Further, you learn one additional language of your choice.
-
-### Level 1: Weapon Mastery
-
-Your training with weapons allows you to use the mastery properties of two kinds of weapons of your choice with which you have proficiency, such as Daggers and Shortbows.
-
-Whenever you finish a Long Rest, you can change the kinds of weapons you chose. For example, you could switch to using the mastery properties of Scimitars and Shortswords.
-
-### Level 1: Martial Maneuvers
-
-As a Martial Class, the Fighter has access to special battlefield maneuvers which are activated at the expense of maneuver dice.
-
-**Maneuvers.** You learn one Maneuver available to you from the [Martial Maneuver List](https://homebrewery.naturalcrit.com/share/-cfBHWD0T61T). As you progress levels you gain access to a higher number of prepared maneuvers, and can select them from the list in the same way. Some maneuvers are only available at higher levels or may have other prerequisites. Whenever you complete a long rest, you may change your prepared Maneuvers.
-
-**Maneuver Dice.** You have a number of maneuver dice available to you, which are initially three d6s. You regain all of your spent maneuver dice when you complete a short or long rest. You gain another maneuver die as you progress in levels, as shown on the Fighter progression table. The superiority die size increases to d8 at level 6, d10 and level 11, and d12 at level 16. Using a maneuver expends a maneuver dice.
-
-**Saving Throws.**  Some of your maneuvers require your target to make a saving throw to resist the maneuver's effects. The saving throw DC is calculated as follows:
-
-**Maneuver save DC** = 8 + your proficiency bonus + your Dexterity modifier
 
 ### Level 2: Cunning Action
 
