@@ -32,9 +32,9 @@ _You must have a Wisdom score of 13 or higher in order to multiclass in or out o
 
 ## Spell Slots per Spell Level
 
-| Spell Slots per Spell Level |     |     |     |     |     |     |     |     |
-| --------------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
+
 | 1st                         | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+| --------------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2                           | -   | -   | -   | -   | -   | -   | -   | -   |
 | 3                           | -   | -   | -   | -   | -   | -   | -   | -   |
 | 4                           | 2   | -   | -   | -   | -   | -   | -   | -   |
@@ -123,34 +123,30 @@ You can use a holy symbol as a spellcasting focus for your cleric spells.
 
 At 1st level, you choose a domain shaped by your choice of Deity and the gifts they grant you. Your choice grants you domain spells and other features when you choose it at 1st level. It also grants you additional ways to use Channel Divinity when you gain that feature at 2nd level, and additional benefits at 6th, 8th, and 17th levels.
 
-|Domain|Source|
-|---|---|
-|[Arcana](http://dnd5e.wikidot.com/cleric:arcana)|Sword Coast Adventurer's Guide|
-|[Death](http://dnd5e.wikidot.com/cleric:death)|Dungeon Master's Guide|
-|[Forge](http://dnd5e.wikidot.com/cleric:forge)|Xanathar's Guide to Everything|
-|[Grave](http://dnd5e.wikidot.com/cleric:grave)|Xanathar's Guide to Everything|
-|[Knowledge](http://dnd5e.wikidot.com/cleric:knowledge)|Player's Handbook|
-|[Life](http://dnd5e.wikidot.com/cleric:life)|Player's Handbook|
-|[Light](http://dnd5e.wikidot.com/cleric:light)|Player's Handbook|
-|[Nature](http://dnd5e.wikidot.com/cleric:nature)|Player's Handbook|
-|[Order](http://dnd5e.wikidot.com/cleric:order)|Guildmaster's Guide to Ravnica  <br>Tasha's Cauldron of Everything|
-|[Peace](http://dnd5e.wikidot.com/cleric:peace)|Tasha's Cauldron of Everything|
-|[Tempest](http://dnd5e.wikidot.com/cleric:tempest)|Player's Handbook|
-|[Trickery](http://dnd5e.wikidot.com/cleric:trickery)|Player's Handbook|
-|[Twilight](http://dnd5e.wikidot.com/cleric:twilight)|Tasha's Cauldron of Everything|
-|[War](http://dnd5e.wikidot.com/cleric:war)|Player's Handbook|
-|The following domains are designed for the Amonkhet Planeshift articles, and are not part of any official release.|   |
-|[Solidarity](http://dnd5e.wikidot.com/cleric:solidarity)|[Amonkhet](https://media.wizards.com/2017/downloads/magic/plane-shift_amonkhet.pdf)|
-|[Strength](http://dnd5e.wikidot.com/cleric:strength)|[Amonkhet](https://media.wizards.com/2017/downloads/magic/plane-shift_amonkhet.pdf)|
-|[Ambition](http://dnd5e.wikidot.com/cleric:ambition)|[Amonkhet](https://media.wizards.com/2017/downloads/magic/plane-shift_amonkhet.pdf)|
-|[Zeal](http://dnd5e.wikidot.com/cleric:zeal)|[Amonkhet](https://media.wizards.com/2017/downloads/magic/plane-shift_amonkhet.pdf)|
-|Unearthed Arcana|   |
-|[Fate](http://dnd5e.wikidot.com/cleric:fate-ua)|[Unearthed Arcana 85 - Wonders of the Multiverse](https://media.wizards.com/2022/dnd/downloads/UA2022-WondersoftheMultiverse.pdf)|
-|Archived Unearthed Arcana|   |
-|[City](http://dnd5e.wikidot.com/cleric:city-ua)|[Unearthed Arcana 7 - Modern Magic](https://media.wizards.com/2015/downloads/dnd/UA_ModernMagic.pdf)|
-|[Protection](http://dnd5e.wikidot.com/cleric:protection-ua)|[Unearthed Arcana 22 - Cleric](https://media.wizards.com/2016/dnd/downloads/UA_Cleric.pdf)|
-|[Twilight](http://dnd5e.wikidot.com/cleric:twilight-ua)|[Unearthed Arcana 63 - Cleric, Druid, Wizard](https://media.wizards.com/2019/dnd/downloads/UA-TwilightFireNames.pdf)|
-|[Unity](http://dnd5e.wikidot.com/cleric:unity-ua)|[Unearthed Arcana 68 - Subclasses, Part 2](https://media.wizards.com/2020/dnd/downloads/UA2020_02_06_Subclasses2.pdf)|
+| Domain                                                                                                             | Source                                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
+| [Arcana](http://dnd5e.wikidot.com/cleric:arcana)                                                                   | Sword Coast Adventurer's Guide                                                                                                    |
+| [Death](http://dnd5e.wikidot.com/cleric:death)                                                                     | Dungeon Master's Guide                                                                                                            |
+| [Forge](http://dnd5e.wikidot.com/cleric:forge)                                                                     | Xanathar's Guide to Everything                                                                                                    |
+| [Grave](http://dnd5e.wikidot.com/cleric:grave)                                                                     | Xanathar's Guide to Everything                                                                                                    |
+| [Knowledge](http://dnd5e.wikidot.com/cleric:knowledge)                                                             | Player's Handbook                                                                                                                 |
+| [Life](http://dnd5e.wikidot.com/cleric:life)                                                                       | Player's Handbook                                                                                                                 |
+| [Light](http://dnd5e.wikidot.com/cleric:light)                                                                     | Player's Handbook                                                                                                                 |
+| [Nature](http://dnd5e.wikidot.com/cleric:nature)                                                                   | Player's Handbook                                                                                                                 |
+| [Order](http://dnd5e.wikidot.com/cleric:order)                                                                     | Guildmaster's Guide to Ravnica  <br>Tasha's Cauldron of Everything                                                                |
+| [Peace](http://dnd5e.wikidot.com/cleric:peace)                                                                     | Tasha's Cauldron of Everything                                                                                                    |
+| [Tempest](http://dnd5e.wikidot.com/cleric:tempest)                                                                 | Player's Handbook                                                                                                                 |
+| [Trickery](http://dnd5e.wikidot.com/cleric:trickery)                                                               | Player's Handbook                                                                                                                 |
+| [Twilight](http://dnd5e.wikidot.com/cleric:twilight)                                                               | Tasha's Cauldron of Everything                                                                                                    |
+| [War](http://dnd5e.wikidot.com/cleric:war)                                                                         | Player's Handbook                                                                                                                 |
+| The following domains are designed for the Amonkhet Planeshift articles, and are not part of any official release. |                                                                                                                                   |
+| [Solidarity](http://dnd5e.wikidot.com/cleric:solidarity)                                                           | [Amonkhet](https://media.wizards.com/2017/downloads/magic/plane-shift_amonkhet.pdf)                                               |
+| [Strength](http://dnd5e.wikidot.com/cleric:strength)                                                               | [Amonkhet](https://media.wizards.com/2017/downloads/magic/plane-shift_amonkhet.pdf)                                               |
+| [Ambition](http://dnd5e.wikidot.com/cleric:ambition)                                                               | [Amonkhet](https://media.wizards.com/2017/downloads/magic/plane-shift_amonkhet.pdf)                                               |
+| [Zeal](http://dnd5e.wikidot.com/cleric:zeal)                                                                       | [Amonkhet](https://media.wizards.com/2017/downloads/magic/plane-shift_amonkhet.pdf)                                               |
+| Unearthed Arcana                                                                                                   |                                                                                                                                   |
+| [Fate](http://dnd5e.wikidot.com/cleric:fate-ua)                                                                    | [Unearthed Arcana 85 - Wonders of the Multiverse](https://media.wizards.com/2022/dnd/downloads/UA2022-WondersoftheMultiverse.pdf) |
+
 
 ##### Domain Spells
 

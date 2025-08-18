@@ -1,3 +1,7 @@
+---
+title: Character Creation
+---
+
 1) **Decide on Personal Character Sheet System.**
 	- I'll keep a personal copy of everyone's Character Sheet in Markdown format.
 		- In the process of figuring out more concrete details here.
@@ -17,5 +21,7 @@
 - **Select a Class**
 	- Select one of the playable [Classes](/Classes/).
 	- The classes have been rebalanced to a high degree (especially Martial characters), so browsing the classes as listen here is recommended even if you have prior familiarity with D&D 5e.
-- Select a Background
+- **Select a Background**
 	- Select one of the available [Backgrounds](/Backgrounds/).
+- Select a Feat
+	- Select on of the [Feats](/Feats/) available for selection at level 1
