@@ -20,28 +20,6 @@ All maneuvers require you to expend a maneuver die to perform them. If they indi
 Some classes and subclasses may have additional maneuvers available to them, indicated in their class or subclass documentation.
 
 ##### Martial Maneuver Die Progression
-| Level | Proficiency Bonus | Full Martial Maneuver Dice | Full Martial Prepared Maneuvers | Half Martial Maneuver Dice | Half Martial Prepared Maneuvers | Third Martial Manuever Dice | Third Martial Prepared Maneuvers |
-| :---: | :---------------: | :------------------------: | :-----------------------------: | :------------------------: | :-----------------------------: | :-------------------------: | :------------------------------: |
-|  1st  |        +2         |            2d6             |                1                |            1d4             |                1                |             1d4             |                1                 |
-|  2nd  |        +2         |            2d6             |                1                |            1d4             |                1                |             1d4             |                1                 |
-|  3rd  |        +2         |            2d6             |                2                |            1d6             |                1                |             1d4             |                1                 |
-|  4th  |        +2         |            2d6             |                2                |            1d6             |                1                |             1d4             |                1                 |
-|  5th  |        +3         |            3d6             |                3                |            2d6             |                2                |             1d4             |                1                 |
-|  6th  |        +3         |            3d8             |                3                |            2d6             |                2                |             1d6             |                2                 |
-|  7th  |        +3         |            3d8             |                4                |            2d6             |                2                |             1d6             |                2                 |
-|  8th  |        +3         |            3d8             |                4                |            2d8             |                2                |             1d6             |                2                 |
-|  9th  |        +4         |            4d8             |                5                |            2d8             |                3                |             2d6             |                2                 |
-| 10th  |        +4         |            4d8             |                5                |            2d8             |                3                |             2d6             |                2                 |
-| 11th  |        +4         |            4d10            |                6                |            2d8             |                3                |             2d8             |                2                 |
-| 12th  |        +4         |            4d10            |                6                |            2d8             |                3                |             2d8             |                2                 |
-| 13th  |        +5         |            5d10            |                7                |            3d10            |                4                |             2d8             |                2                 |
-| 14th  |        +5         |            5d10            |                7                |            3d10            |                4                |             2d8             |                3                 |
-| 15th  |        +5         |            5d10            |                8                |            3d10            |                4                |             2d8             |                3                 |
-| 16th  |        +5         |            5d12            |                8                |            3d10            |                4                |            2d10             |                3                 |
-| 17th  |        +6         |            6d12            |                9                |            3d10            |                5                |            2d10             |                3                 |
-| 18th  |        +6         |            6d12            |                9                |            3d10            |                5                |            2d10             |                3                 |
-| 19th  |        +6         |            6d12            |               10                |            3d12            |                5                |            2d10             |                3                 |
-| 20th  |        +6         |            6d12            |               10                |            3d12            |                5                |            2d10             |                3                 |
 
 | Level | Proficiency Bonus | Full Martial Maneuver Dice | Full Martial Prepared Maneuvers | Half Martial Maneuver Dice | Half Martial Prepared Maneuvers | Third Martial Maneuver Dice | Third Martial Prepared Maneuvers |
 | :---: | :---------------: | :------------------------: | :-----------------------------: | :------------------------: | :-----------------------------: | :-------------------------: | :------------------------------: |

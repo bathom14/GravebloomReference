@@ -9,21 +9,21 @@ You must have a [[Dexterity]] or [[Strength]] score of 13 or higher in order to 
 
 | Level | Prof. | Features                                                                       | Second Wind | Weapon Mastery | Maneuver Dice | Prepared Maneuvers |
 | ----- | ----- | ------------------------------------------------------------------------------ | ----------- | -------------- | :-----------: | :----------------: |
-| 1     | +2    | **Martial Maneuvers**, **Fighting Style**, **Second Wind**, **Weapon Mastery** | 2           | 3              |      2d6      |         2          |
-| 2     | +2    | **Action Surge (1)**, **Tactical Mind**                                        | 2           | 3              |      2d6      |         2          |
+| 1     | +2    | **Martial Maneuvers**, **Fighting Style**, **Second Wind**, **Weapon Mastery** | 2           | 3              |      2d4      |         2          |
+| 2     | +2    | **Action Surge (1)**, **Tactical Mind**                                        | 2           | 3              |      2d4      |         2          |
 | 3     | +2    | **Martial Archetype**                                                          | 2           | 3              |      2d6      |         3          |
 | 4     | +2    | **Ability Score Improvement**                                                  | 3           | 4              |      2d6      |         3          |
 | 5     | +3    | **Extra Attack (2 attacks)**, **Tactical Shift**, **Signature Weapon**         | 3           | 4              |      3d6      |         4          |
 | 6     | +3    | **Ability Score Improvement**                                                  | 3           | 4              |      3d8      |         4          |
 | 7     | +3    | **Archetype feature**                                                          | 3           | 4              |      3d8      |         5          |
-| 8     | +3    | **Ability Score Improvement**                                                  | 3           | 4              |      3d8      |         6          |
+| 8     | +3    | **Ability Score Improvement**                                                  | 3           | 4              |      3d8      |         5          |
 | 9     | +4    | **Indomitable (1)**, **Signature Technique**                                   | 3           | 4              |      4d8      |         6          |
-| 10    | +4    | **Archetype feature**                                                          | 4           | 5              |      4d8      |         6          |
+| 10    | +4    | **Archetype feature**                                                          | 4           | 5              |     4d10      |         6          |
 | 11    | +4    | **Extra Attack (3 attacks)**, **Adaptive Tactician**                           | 4           | 5              |     4d10      |         7          |
 | 12    | +4    | **Ability Score Improvement**                                                  | 4           | 5              |     4d10      |         7          |
 | 13    | +5    | **Indomitable (2)**, **Studied Attacks**                                       | 4           | 5              |     5d10      |         8          |
 | 14    | +5    | **Ability Score Improvement**                                                  | 4           | 5              |     5d10      |         8          |
-| 15    | +5    | **Archetype feature**                                                          | 4           | 5              |     5d10      |         9          |
+| 15    | +5    | **Archetype feature**                                                          | 4           | 5              |     5d12      |         9          |
 | 16    | +5    | **Ability Score Improvement**                                                  | 4           | 6              |     5d12      |         9          |
 | 17    | +6    | **Action Surge (2)**, **Indomitable (3)**                                      | 4           | 6              |     6d12      |         10         |
 | 18    | +6    | **Archetype feature**                                                          | 4           | 6              |     6d12      |         10         |

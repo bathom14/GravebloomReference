@@ -1,2 +1,0 @@
-
-When you hit a target with a weapon attack, you can expend a Maneuver Die to attack one of its senses, forcing it to make a Constitution saving throw. On a failure, add your Maneuver Die to the damage roll, and it is either Blinded, Deafened, or can't speak (your choice) until the beginning of your next turn.

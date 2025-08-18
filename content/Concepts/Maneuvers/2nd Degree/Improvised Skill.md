@@ -1,1 +1,0 @@
-When you make an ability check that does not include your Proficiency Bonus, you can expend a Maneuver Die and add it to your roll. You can use this Maneuver after you roll, but before you know if you succeed or fail.

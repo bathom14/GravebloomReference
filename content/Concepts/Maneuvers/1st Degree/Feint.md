@@ -1,2 +1,0 @@
-As a bonus action, you expend an Maneuver Die to feint, forcing a creature that can see you within 15 feet to make a Wisdom saving throw. On a failure, you have advantage on all attacks
-against that creature until the end of your current turn.

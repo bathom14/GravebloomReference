@@ -1,1 +1,0 @@
-When you make an attack on your turn, you can expend a Maneuver Die to move up to 10 feet immediately before making that attack, even if this would exceed your remaining speed. On hit, add your Maneuver Die to the damage roll.

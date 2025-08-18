@@ -2,32 +2,56 @@
 
 _You must have an Intelligence score of 13 or higher in order to multiclass in or out of this class._
 
-| The Wizard |                   |                                               |                | Spell Slots per Spell Level |     |     |     |     |     |     |     |     |
-| ---------- | ----------------- | --------------------------------------------- | -------------- | --------------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Level      | Proficiency Bonus | Features                                      | Cantrips Known | 1st                         | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-| 1st        | +2                | Spellcasting, Ritual Casting, Arcane Recovery | 3              | 2                           | -   | -   | -   | -   | -   | -   | -   | -   |
-| 2nd        | +2                | **Arcane Tradition**                          | 3              | 3                           | -   | -   | -   | -   | -   | -   | -   | -   |
-| 3rd        | +2                | **Scholar**                                   | 3              | 4                           | 2   | -   | -   | -   | -   | -   | -   | -   |
-| 4th        | +2                | Ability Score Improvement                     | 4              | 4                           | 3   | -   | -   | -   | -   | -   | -   | -   |
-| 5th        | +3                | Memorize Spell                                | 4              | 4                           | 3   | 2   | -   | -   | -   | -   | -   | -   |
-| 6th        | +3                | Arcane Tradition feature                      | 4              | 4                           | 3   | 3   | -   | -   | -   | -   | -   | -   |
-| 7th        | +3                |                                               | 4              | 4                           | 3   | 3   | 1   | -   | -   | -   | -   | -   |
-| 8th        | +3                | Ability Score Improvement                     | 4              | 4                           | 3   | 3   | 2   | -   | -   | -   | -   | -   |
-| 9th        | +4                |                                               | 4              | 4                           | 3   | 3   | 3   | 1   | -   | -   | -   | -   |
-| 10th       | +4                | Arcane Tradition feature                      | 5              | 4                           | 3   | 3   | 3   | 2   | -   | -   | -   | -   |
-| 11th       | +4                |                                               | 5              | 4                           | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
-| 12th       | +4                | Ability Score Improvement                     | 5              | 4                           | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
-| 13th       | +5                |                                               | 5              | 4                           | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
-| 14th       | +5                | Arcane Tradition feature                      | 5              | 4                           | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
-| 15th       | +5                |                                               | 5              | 4                           | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
-| 16th       | +5                | Ability Score Improvement                     | 5              | 4                           | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
-| 17th       | +6                |                                               | 5              | 4                           | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
-| 18th       | +6                | Spell Mastery                                 | 5              | 4                           | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
-| 19th       | +6                | Epic Boon                                     | 5              | 4                           | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
-| 20th       | +6                | Signature Spells                              | 5              | 4                           | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
+## Wizard Class Features
+
+| Level      | Proficiency Bonus | Features                                      | Cantrips Known |
+| ---------- | ----------------- | --------------------------------------------- | -------------- |
+| 1st        | +2                | Spellcasting, Ritual Casting, Arcane Recovery | 3              |
+| 2nd        | +2                | **Arcane Tradition**                          | 3              |
+| 3rd        | +2                | **Scholar**                                   | 3              |
+| 4th        | +2                | Ability Score Improvement                     | 4              |
+| 5th        | +3                | Memorize Spell                                | 4              |
+| 6th        | +3                | Arcane Tradition feature                      | 4              |
+| 7th        | +3                |                                               | 4              |
+| 8th        | +3                | Ability Score Improvement                     | 4              |
+| 9th        | +4                |                                               | 4              |
+| 10th       | +4                | Arcane Tradition feature                      | 5              |
+| 11th       | +4                |                                               | 5              |
+| 12th       | +4                | Ability Score Improvement                     | 5              |
+| 13th       | +5                |                                               | 5              |
+| 14th       | +5                | Arcane Tradition feature                      | 5              |
+| 15th       | +5                |                                               | 5              |
+| 16th       | +5                | Ability Score Improvement                     | 5              |
+| 17th       | +6                |                                               | 5              |
+| 18th       | +6                | Spell Mastery                                 | 5              |
+| 19th       | +6                | Epic Boon                                     | 5              |
+| 20th       | +6                | Signature Spells                              | 5              |
+
+## Spell Slots by Spell Level
 
 
-
+| 1st                         | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+| --------------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2                           | -   | -   | -   | -   | -   | -   | -   | -   |
+| 3                           | -   | -   | -   | -   | -   | -   | -   | -   |
+| 4                           | 2   | -   | -   | -   | -   | -   | -   | -   |
+| 4                           | 3   | -   | -   | -   | -   | -   | -   | -   |
+| 4                           | 3   | 2   | -   | -   | -   | -   | -   | -   |
+| 4                           | 3   | 3   | -   | -   | -   | -   | -   | -   |
+| 4                           | 3   | 3   | 1   | -   | -   | -   | -   | -   |
+| 4                           | 3   | 3   | 2   | -   | -   | -   | -   | -   |
+| 4                           | 3   | 3   | 3   | 1   | -   | -   | -   | -   |
+| 4                           | 3   | 3   | 3   | 2   | -   | -   | -   | -   |
+| 4                           | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
+| 4                           | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
+| 4                           | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
+| 4                           | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
+| 4                           | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
+| 4                           | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
+| 4                           | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
+| 4                           | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
+| 4                           | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+| 4                           | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 
 # Class Features
 

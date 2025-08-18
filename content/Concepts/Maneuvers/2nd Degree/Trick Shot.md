@@ -1,3 +1,0 @@
-Prerequisites: Dexterity or Intelligence of 13
-
-As a bonus action, you can expend a Maneuver Die to make a special ranged weapon attack or thrown weapon attack with a weapon that has the finesse property. This attack ignores the benefits of cover, so long as it can ricochet off one surface and hit a target in range. If this attack would normally have disadvantage, it does not. On hit, add your Maneuver Die to the damage roll.

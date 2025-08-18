@@ -1,2 +1,0 @@
-Prerequisites: Dexterity of 13
-As a bonus action, you expend one Maneuver Die to force one creature within 10 feet to make a Constitution saving throw. On a failed save, the creature is Blinded until it uses its action to clear the debris from its eyes.

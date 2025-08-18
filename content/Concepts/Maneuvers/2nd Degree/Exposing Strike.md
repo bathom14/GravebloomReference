@@ -1,1 +1,0 @@
-When you hit a target with a weapon attack, you can expend a Maneuver Die to weaken it. The first attack made against it before the start of your next turn has advantage, and on hit, that attack deals bonus damage equal to your Maneuver Die.
