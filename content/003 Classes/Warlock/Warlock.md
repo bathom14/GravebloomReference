@@ -55,7 +55,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
 ### Level 1: Otherworldly Patron
 
-At 1st level, you have struck a bargain with an otherworldly being of your choice. Your choice grants you features at 1st level and again at 6th, 10th, and 14th level. Additionally, your choice in Patron determines your Patron Spellcasting Ability that you will utilize for your Pact Magic Spellcasting.
+At 1st level, you have struck a bargain with an otherworldly being of your choice. Your choice grants you features at 1st level and again at 6th, 10th, and 14th level. Additionally, your choice of Patron determines your Patron Spellcasting Ability that you will utilize for your Pact Magic Spellcasting.
 
 | Patron            | Patron Spellcasting Ability |
 | ----------------- | --------------------------- |
@@ -65,7 +65,9 @@ At 1st level, you have struck a bargain with an otherworldly being of your choic
 | [[Fiend]]         | Charisma                    |
 | [[Genie]]         | Charisma                    |
 | [[Great Old One]] | Intelligence                |
+| [[Omega Point]]   | Intelligence                |
 | [[Undying]]       | Intelligence                |
+
 
 ### Level 1: Pact Magic
 
@@ -89,7 +91,7 @@ The Spells Known column of the Warlock table shows when you learn more warlock s
 
 Additionally, when you gain a level in this class, you can choose one of the warlock spells you know and replace it with another spell from the warlock spell list, which also must be of a level for which you have spell slots.
 
-##### Spellcasting Ability
+##### Patron Spellcasting Ability
 
 Your Patron Spellcasting Ability dictates your spellcasting ability for your warlock spells. In addition, you use your that Spellcasting Ability modifier when setting the saving throw DC for a warlock spell you cast and when making an attack roll with one.
 

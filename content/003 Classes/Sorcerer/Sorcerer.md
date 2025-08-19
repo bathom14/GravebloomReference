@@ -5,20 +5,20 @@ _You must have a Charisma score of 13 or higher in order to multiclass in or out
 | Level | Proficiency Bonus | Features                              | Sorcery Points | Cantrips Known | Spells Known | Metamagic Known | Maximum Slot Level |
 | ----- | ----------------- | ------------------------------------- | -------------- | -------------- | ------------ | --------------- | ------------------ |
 | 1st   | +2                | Innate Spellcasting, Sorcerous Origin | 4              | 4              | 2            | -               | 1st                |
-| 2nd   | +2                | Metamagic                             | 8              | 4              | 3            | 2               | 1st                |
-| 3rd   | +2                | Innate Sorcery                        | 17             | 4              | 4            | 2               | 2nd                |
+| 2nd   | +2                | Innate Sorcery, Metamagic             | 8              | 4              | 3            | 2               | 1st                |
+| 3rd   | +2                | -                                     | 17             | 4              | 4            | 2               | 2nd                |
 | 4th   | +2                | Ability Score Improvement             | 21             | 5              | 5            | 2               | 2nd                |
 | 5th   | +3                | Sorcerous Restoration                 | 32             | 5              | 6            | 2               | 3rd                |
 | 6th   | +3                | Sorcerous Origin feature              | 38             | 5              | 7            | 2               | 3rd                |
 | 7th   | +3                | Sorcery Incarnate                     | 45             | 5              | 8            | 2               | 4th                |
-| 8th   | +3                | Ability Score Improvement,            | 52             | 5              | 9            | 2               | 4th                |
-| 9th   | +4                |                                       | 66             | 5              | 10           | 2               | 5th                |
+| 8th   | +3                | Ability Score Improvement             | 52             | 5              | 9            | 2               | 4th                |
+| 9th   | +4                | -                                     | 66             | 5              | 10           | 2               | 5th                |
 | 10th  | +4                | Metamagic                             | 74             | 6              | 11           | 4               | 5th                |
-| 11th  | +4                |                                       | 84             | 6              | 12           | 4               | 6th                |
+| 11th  | +4                | -                                     | 84             | 6              | 12           | 4               | 6th                |
 | 12th  | +4                | Ability Score Improvement,            | 85             | 6              | 12           | 4               | 6th                |
-| 13th  | +5                |                                       | 96             | 6              | 13           | 4               | 7th                |
+| 13th  | +5                | -                                     | 96             | 6              | 13           | 4               | 7th                |
 | 14th  | +5                | Sorcerous Origin feature              | 97             | 6              | 13           | 4               | 7th                |
-| 15th  | +5                |                                       | 109            | 6              | 14           | 4               | 8th                |
+| 15th  | +5                | -                                     | 109            | 6              | 14           | 4               | 8th                |
 | 16th  | +5                | Ability Score Improvement             | 110            | 6              | 14           | 4               | 8th                |
 | 17th  | +6                | Metamagic                             | 124            | 6              | 15           | 6               | 9th                |
 | 18th  | +6                | Sorcerous Origin feature              | 132            | 6              | 15           | 6               | 9th                |
@@ -117,6 +117,14 @@ Choose a sorcerous origin, which describes the source of your innate magical pow
 | [Storm Sorcery](https://dnd5e.wikidot.com/sorcerer:storm-sorcery)                                                  | Sword Coast Adventurer's Guide  <br>Xanathar's Guide to Everything                                            |
 | [Wild Magic](https://dnd5e.wikidot.com/sorcerer:wild-magic)                                                        | Player's Handbook                                                                                             |
 
+### Level 2: Sorcerous Surge
+
+An event in your past left an indelible mark on you, infusing you with simmering magic. As a Bonus Action, you can unleash that magic for 1 minute, during which you gain the following benefits:
+
+- The spell save DC of your Sorcerer spells increases by 1.
+- You have Advantage on the attack rolls of Sorcerer spells you cast.
+
+You can use this feature twice, and you regain all expended uses of it when you finish a Long Rest.
 
 ### Level 2: Metamagic
 
@@ -136,9 +144,9 @@ When you finish a Short Rest, you can regain expended Sorcery Points, but no mor
 
 ### Level 7: Sorcery Incarnate
 
-If you have no uses of Innate Sorcery left, you can use it if you spend 2 Sorcery Points when you take the Bonus Action to activate it.
+If you have no uses of Sorcerous Surge left, you can use it if you spend 2 Sorcery Points when you take the Bonus Action to activate it.
 
-In addition, while your Innate Sorcery feature is active, you can use up to two of your [[Metamagic Options]] on each spell you cast.
+In addition, while your Sorcerous Surge feature is active, you can use up to two of your [[Metamagic Options]] on each spell you cast.
 
 ### Level 19: Epic Boon
 
@@ -146,4 +154,4 @@ You gain an [Epic Boon feat](http://dnd2024.wikidot.com/feat:all) or another f
 
 ### Level 20: Arcane Apotheosis
 
-While your Innate Sorcery feature is active, you can use one of your [[Metamagic Options]] on each of your turns without spending Sorcery Points on it.
+While your Sorcerous Surge feature is active, you can use one of your [[Metamagic Options]] on each of your turns without spending Sorcery Points on it.

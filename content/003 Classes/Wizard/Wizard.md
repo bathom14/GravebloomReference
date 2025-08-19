@@ -7,8 +7,8 @@ _You must have an Intelligence score of 13 or higher in order to multiclass in o
 | Level | Proficiency Bonus | Features                                      | Cantrips Known |
 | ----- | ----------------- | --------------------------------------------- | -------------- |
 | 1st   | +2                | Spellcasting, Ritual Casting, Arcane Recovery | 3              |
-| 2nd   | +2                | **Arcane Tradition**                          | 3              |
-| 3rd   | +2                | **Scholar**                                   | 3              |
+| 2nd   | +2                | **Arcane Tradition**, **Scholar**             | 3              |
+| 3rd   | +2                | -                                             | 3              |
 | 4th   | +2                | Ability Score Improvement                     | 4              |
 | 5th   | +3                | Memorize Spell                                | 4              |
 | 6th   | +3                | Arcane Tradition feature                      | 4              |
@@ -164,7 +164,7 @@ When you reach 2nd level, you choose an arcane tradition, shaping your practice 
 | [Transmutation](https://dnd5e.wikidot.com/wizard:transmutation)                       | Player's Handbook                                                                                                              |
 | [War Magic](https://dnd5e.wikidot.com/wizard:war-magic)                               | Xanathar's Guide to Everything                                                                                                 |
 
-### Level 3: Scholar
+### Level 2: Scholar
 
 While studying magic, you also specialized in another field of study. Choose one of the following skills in which you have proficiency: Arcana, History, Investigation, Medicine, Nature, or Religion. You have Expertise in the chosen skill.
 
