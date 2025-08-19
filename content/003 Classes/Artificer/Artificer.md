@@ -33,7 +33,7 @@ _You must have an Intelligence score of 13 or higher in order to multiclass in o
 
 | Level | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th |
 | ----- | -------------- | --- | --- | --- | --- | --- |
-| 1st   | 2              | -   | -   | -   | -   | -   |
+| 1st   | -              | -   | -   | -   | -   | -   |
 | 2nd   | 2              | 2   | -   | -   | -   | -   |
 | 3rd   | 2              | 3   | -   | -   | -   | -   |
 | 4th   | 2              | 3   | -   | -   | -   | -   |
@@ -233,5 +233,4 @@ You gain an [Epic Boon feat](http://dnd2024.wikidot.com/feat:all) or another f
 
 You imbue a fraction of your own soul into your Infusions and other magic items you use. At 20th level, you gain a +1 bonus to all saving throws for each magic item you are attuned to.
 
-In addition, if you are reduced to 0 hit points but not killed outright, you can instantly end your attunement to one magic  
-    item or Infusion, causing you to drop to 1 hit point instead.
+In addition, if you are reduced to 0 hit points but not killed outright, you can instantly end your attunement to one magic item or Infusion, causing you to drop to 1 hit point instead.
