@@ -33,7 +33,7 @@ You can animate your shadow with dark sorcery. Whenever you cast [[Summon Shado
 - You choose a creature you can see within 120 feet, and the Shadow Spirit appears within 5 feet of it. While the Undead Spirit remains within 5 feet of this creature, that creature has disadvantage on saving throws against your spells.
 
 
-Once per long rest, you can cast [[Summon Shadowspawn]] in this way at your Spell Limit level, without expending Sorcery Points, after which you expend Sorcery Points as normal.
+Once per long rest, you can cast [[Summon Shadowspawn]] in this way at your maximum Spell Slot level, without expending Sorcery Points, after which you expend Sorcery Points as normal.
 
 ### Level 14: Shadow Walk
 
