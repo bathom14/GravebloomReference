@@ -6,7 +6,7 @@ _You must have a Charisma score of 13 or higher in order to multiclass in or out
 | ----- | ----------------- | ------------------------------------- | -------------- | -------------- | ------------ | --------------- | ------------------ |
 | 1st   | +2                | Innate Spellcasting, Sorcerous Origin | 4              | 4              | 2            | -               | 1st                |
 | 2nd   | +2                | Innate Sorcery, Metamagic             | 8              | 4              | 3            | 2               | 1st                |
-| 3rd   | +2                | -                                     | 17             | 4              | 4            | 2               | 2nd                |
+| 3rd   | +2                | Sorcerous Origin feature              | 17             | 4              | 4            | 2               | 2nd                |
 | 4th   | +2                | Ability Score Improvement             | 21             | 5              | 5            | 2               | 2nd                |
 | 5th   | +3                | Sorcerous Restoration                 | 32             | 5              | 6            | 2               | 3rd                |
 | 6th   | +3                | Sorcerous Origin feature              | 38             | 5              | 7            | 2               | 3rd                |
@@ -106,16 +106,16 @@ You can use an arcane focus as a spellcasting focus for your sorcerer spells.
 
 Choose a sorcerous origin, which describes the source of your innate magical power. Your choice grants you features when you choose it at 1st level and again at 6th, 14th, and 18th level.
 
-| Origin                                                                                                             | Source                                                                                                        |
-| ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- |
-| [Aberrant Mind](https://dnd5e.wikidot.com/sorcerer:aberrant-mind)                                                  | Tasha's Cauldron of Everything                                                                                |
-| [Clockwork Soul](https://dnd5e.wikidot.com/sorcerer:clockwork-soul)                                                | Tasha's Cauldron of Everything                                                                                |
-| [Draconic Bloodline](https://dnd5e.wikidot.com/sorcerer:draconic-bloodline)                                        | Player's Handbook                                                                                             |
-| [Divine Soul](https://dnd5e.wikidot.com/sorcerer:divine-soul)                                                      | Xanathar's Guide to Everything                                                                                |
-| [Lunar Sorcery](https://dnd5e.wikidot.com/sorcerer:lunar-sorcery)                                                  | Dragonlance: Shadow of the Dragon Queen                                                                       |
-| [Shadow Magic](https://dnd5e.wikidot.com/sorcerer:shadow-magic)                                                    | Xanathar's Guide to Everything                                                                                |
-| [Storm Sorcery](https://dnd5e.wikidot.com/sorcerer:storm-sorcery)                                                  | Sword Coast Adventurer's Guide  <br>Xanathar's Guide to Everything                                            |
-| [Wild Magic](https://dnd5e.wikidot.com/sorcerer:wild-magic)                                                        | Player's Handbook                                                                                             |
+| Origin                 |
+| ---------------------- |
+| [[Aberrant Mind]]      |
+| [[Clockwork Soul]]     |
+| [[Draconic Bloodline]] |
+| [[Divine Soul]]        |
+| [[Lunar Sorcery]]      |
+| [[Shadow Magic]]       |
+| [[Storm Sorcery]]      |
+| [[Wild Magic]]         |
 
 ### Level 2: Sorcerous Surge
 

@@ -32,5 +32,4 @@ Your exploits are legendary within the Cult of the Blackaxe. You may attempt to 
 
 **History.** The True Blackaxe contains the souls of most of its former wielders. They may communicate telepathically with the wielder.
 
-**Hippo Sized.** The True Blackaxe is extremely bulky. It requires a Strength score of 25 to use without disadvantage for most creatures, but the hippo-like build of the Giff allows them to wield it with a Strength score of 18. It uses the Strength modifier for attack and damage rolls. 
-}}
+**Hippo Sized.** The True Blackaxe is extremely bulky. It requires a Strength score of 25 to use without disadvantage for most creatures, but the hippo-like build of the Giff allows them to wield it with a Strength score of 19. It uses the Strength modifier for attack and damage rolls. 

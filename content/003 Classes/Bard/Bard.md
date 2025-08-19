@@ -188,7 +188,7 @@ You can use musical notes or words of power to disrupt mind-influencing effects.
 ### Level 10: Magical Secrets
 
 
-You've learned secrets from various magical traditions. Whenever you reach a Bard level (including this level) and the Known Spells number in the Bard Features table increases, you can choose any of your new prepared spells from the [Bard](http://dnd2024.wikidot.com/bard:spell-list), [Cleric](http://dnd2024.wikidot.com/cleric:spell-list), [Druid](http://dnd2024.wikidot.com/druid:spell-list), and [Wizard](http://dnd2024.wikidot.com/wizard:spell-list) spell lists, and the chosen spells count as Bard spells for you (see a class’s section for its spell list). In addition, whenever you replace a spell known for this class, you can replace it with a spell from those lists.
+You've learned secrets from various magical traditions. Whenever you reach a Bard level (including this level) and the Known Spells number in the Bard Features table increases, you can choose any of your new Known Spells from the [Bard](http://dnd2024.wikidot.com/bard:spell-list), [Cleric](http://dnd2024.wikidot.com/cleric:spell-list), [Druid](http://dnd2024.wikidot.com/druid:spell-list), and [Wizard](http://dnd2024.wikidot.com/wizard:spell-list) spell lists, and the chosen spells count as Bard spells for you (see a class’s section for its spell list). In addition, whenever you replace a spell known for this class, you can replace it with a spell from those lists.
 
 ### Level 19: Epic Boon
 

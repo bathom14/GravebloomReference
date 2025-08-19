@@ -18,7 +18,7 @@
 
 ### Metallic Dragonborn
 
-**Ability Score Increase.** Your charisma score increases by 1
+**Ability Score Increase.** Your Charisma score increases by 1
 
 **Alignment.** Like their Metallic Dragon progenitors, Metallic Dragonborn tend towards good alignments
 
@@ -36,7 +36,7 @@
 
 * You can use your Breath Weapon a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
-**Draconic Resistance.** You have resistance to the damge type associated with your Metallic ancestry
+**Draconic Resistance.** You have resistance to the damage type associated with your Metallic ancestry
 
 **Metallic Breath Weapon.** At 5th level, you gain a second breath weapon. When you take the Attack action on your turn, you can replace one of your attacks with an exhalation in a 20-foot cone. The save DC for this breath is 8 + your Constitution modifier + your proficiency bonus. Whenever you use this trait, choose one:
 
@@ -48,7 +48,7 @@
 
 ### Chromatic Dragonborn
 
-**Ability Score Increase.** Your constitution score increases by 1
+**Ability Score Increase.** Your Constitution score increases by 1
 
 **Alignment.** Like their Chromatic Dragon progenitors, Chromatic Dragonborn tend towards evil alignments
 
@@ -70,11 +70,11 @@
 
 **Chromatic Warding.** Starting at 5th level, as an action, you can channel your draconic energy to protect yourself. For one minute, you become immune to the damage type associated with your Chromatic Ancestry. Once you use this trait, you can’t do so again until you finish a long rest.
 
-**Chromatic Redirection.** Starting at 5th level, when you recieve damage of the type associated with your Chromatic ancestry, you may attempt to redirect that energy. If you choose to do so, you must make a DC 13 Constitution saving throw. If you succeed, you may ignore that damage and make a free Breath Weapon attack without expending a use. If this Breath Weapon hits, it deals additional damage equal to the damage you would have recieved. You may use this ability a number of times equal to one-half of your proficiency bonus, rounded down, and regain all expended uses when you finish a long rest.
+**Chromatic Redirection.** Starting at 5th level, when you receive damage of the type associated with your Chromatic ancestry, you may attempt to redirect that energy. If you choose to do so, you must make a DC 13 Constitution saving throw. If you succeed, you may ignore that damage and make a free Breath Weapon attack without expending a use. If this Breath Weapon hits, it deals additional damage equal to the damage you would have received. You may use this ability a number of times equal to one-half of your proficiency bonus, rounded down, and regain all expended uses when you finish a long rest.
 
 ### Gem Dragonborn
 
-**Ability Score Increase.** Your intelligence score increases by 1
+**Ability Score Increase.** Your Intelligence score increases by 1
 
 **Alignment.** Like their Gem Dragon progenitors, Gem Dragonborn tend towards neutral alignments
 

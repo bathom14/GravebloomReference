@@ -27,7 +27,7 @@ You are inducted into the Cult of the Blackaxe as a neophyte and you are deemed 
 
 ***Break-Action Boomstick.*** :: The Training Blackaxe is a two-handed break-action martial firearm that deals 2d8 piercing damage and uses shells for ammunition. The Training Blackaxe has one barrel, giving it a magazine of 1. It may be fired once before reloading. As an action, you may reload the firearm.  You may also reload the firearm using two bonus actions. It has a range of 85/180.
 
-****Hippo Sized.*** The Training Blackaxe is extremely bulky. It requires a Strength score of 18 to use without disadvantage, but the hippo-like build of the Giff allows them to wield it with a Strength score of 13 without disadvantage. It uses the Strength modifier for attack and damage rolls. 
+**Hippo Sized.*** The Training Blackaxe is extremely bulky. It requires a Strength score of 18 to use without disadvantage, but the hippo-like build of the Giff allows them to wield it with a Strength score of 13 without disadvantage. It uses the Strength modifier for attack and damage rolls. 
 
 ***Blackaxe.*** You may make a melee attack with proficiency using the Blackaxe to deal 1d10 slashing damage. The pole barrel gives this weapon reach.
 

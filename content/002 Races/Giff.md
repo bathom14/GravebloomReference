@@ -1,6 +1,6 @@
 # Giff
 
-**Ability Score Increase.** Increase strength by 2, and constitution by 1
+**Ability Score Increase.** Increase Strength by 2, and Constitution by 1
 
 **Age.** Giff reach maturity quicky, around age 13. They typically have lifespans of 60 to 70 years
 

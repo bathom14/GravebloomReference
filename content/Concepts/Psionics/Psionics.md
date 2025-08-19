@@ -8,6 +8,7 @@
 |       11th-16th       |             d10              |             4              |               10                |             28              |
 |       17th-20th       |             d12              |             5              |               12                |             40              |
 |    N/A<sup>3</sup>    |             d20              |             6              |               20                |             60              |
+|                       |                              |                            |                                 |                             |
 <sup>1</sup> = *Exhausted dΨ*
 <sup>2</sup> = *Only obtainable via dΨ shrink*
 <sup>3</sup> = *Only obtainable via dΨ growth with the Mystic Higher Potential feature*
