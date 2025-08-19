@@ -41,6 +41,9 @@ At 14th level, you gain the ability to step from one shadow into another. When y
 
 ### Level 18: Umbral Form
 
-Starting at 18th level, you can spend 6 sorcery points as a bonus action to transform yourself into a shadowy form. In this form, you have resistance to all damage except force and radiant damage, and you can move through other creatures and objects as if they were difficult terrain. You take 5 force damage if you end your turn inside an object.
+You can draw out the full power of your shadow magic, if only for a brief time. As a bonus action, you can transform into a creature of pure shadow, granting you the benefits below:
 
-You remain in this form for 1 minute. It ends early if you are incapacitated, if you die, or if you dismiss it as a bonus action.
+- You are resistant to all damage except force and radiant.
+- You can move through non-magical creatures and objects as if they were difficult terrain. If you end your movement inside an object you are instantly shunted to the nearest unoccupied space, taking 1d10 force damage for every 5 feet you were forced to travel.
+
+This transformation lasts for 1 minute, but it ends early if you are incapacitated, die, or you use your bonus action to end it. You can use this feature once between each long rest at no cost, but to use it again you must expend 7 Sorcery Points.
