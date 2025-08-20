@@ -99,7 +99,7 @@ As a Martial Class, the Blood hunter has access to special battlefield maneuvers
 
 ### Level 1: Fighting Style
 
-You gain a [[Fighting Style feat]] of your choice.
+You gain a [Fighting Style feat](/Feats/Fighting Style Feats/) of your choice.
 
 Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace a fighting style you know with another fighting style available to bloodhunters. This replacement represents a shift of focus in your martial practice.
 
