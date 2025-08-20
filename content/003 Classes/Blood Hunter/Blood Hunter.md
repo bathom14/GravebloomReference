@@ -5,28 +5,28 @@ _You must have an Intelligence score of 13 or higher and a Strength or Dexterity
 _If your blood hunter is part of the Order of the Profane Soul and also has warlock levels, add one-third of your blood hunter levels (rounded down) to your warlock level and consult the [warlock progression table](http://dnd5e.wikidot.com/warlock) for total spell slots, cantrips known, and spell slot level. You should consider aligning your Otherworldly Patron feature between both classes, but your DM might allow you to have two different patrons at their discretion._
 
 
-| Level | Proficiency Bonus | Features                                                                   | Hemocraft Die | Blood Rites Known | Weapon Mastery | Maneuver Die | Prepared Maneuvers |
-| ----- | ----------------- | -------------------------------------------------------------------------- | ------------- | ----------------- | -------------- | ------------ | ------------------ |
-| 1st   | +2                | Hunter’s Bane, Weapon Mastery, Martial Maneuvers, Fighting Style           | —             | —                 | 2              | 2d4          | 2                  |
-| 2nd   | +2                | Hemocraft (Blood Rites, Hemocraft Die), Vital Sacrifice                    | 1d4           | 2                 | 2              | 2d4          | 2                  |
-| 3rd   | +2                | Blood Hunter Order                                                         | 1d6           | 2                 | 2              | 2d6          | 3                  |
-| 4th   | +2                | Ability Score Improvement                                                  | 1d6           | 2                 | 3              | 2d6          | 3                  |
-| 5th   | +3                | Extra Attack, Sanguine Reperfusion                                         | 1d6           | 3                 | 3              | 3d6          | 4                  |
-| 6th   | +3                | Brand of Castigation (incl. 1 free Crimson Maledict use), Grim Psychometry | 1d8           | 3                 | 3              | 3d8          | 4                  |
-| 7th   | +3                | Order Feature                                                              | 1d8           | 3                 | 3              | 3d8          | 5                  |
-| 8th   | +3                | Ability Score Improvement                                                  | 1d8           | 3                 | 3              | 3d8          | 5                  |
-| 9th   | +4                | Tainted Lore (Grim Psychometry, Vital Sacrifice option)                    | 1d8           | 4                 | 3              | 4d8          | 6                  |
-| 10th  | +4                | Dark Augmentation                                                          | 1d10          | 4                 | 4              | 4d10         | 6                  |
-| 11th  | +4                | Improved Crimson Maledict, Vital Control                                   | 1d10          | 4                 | 4              | 4d10         | 7                  |
-| 12th  | +4                | Ability Score Improvement                                                  | 1d10          | 4                 | 4              | 4d10         | 7                  |
-| 13th  | +5                | Order Feature                                                              | 1d10          | 5                 | 4              | 5d10         | 8                  |
-| 14th  | +5                | Brand of Tethering                                                         | 1d10          | 5                 | 4              | 5d10         | 8                  |
-| 15th  | +5                | Hardened Soul                                                              | 1d12          | 5                 | 4              | 5d12         | 9                  |
-| 16th  | +5                | Ability Score Improvement                                                  | 1d12          | 5                 | 4              | 5d12         | 9                  |
-| 17th  | +6                | —                                                                          | 1d12          | 6                 | 4              | 6d12         | 10                 |
-| 18th  | +6                | Order Feature                                                              | 1d12          | 6                 | 4              | 6d12         | 10                 |
-| 19th  | +6                | Ability Score Improvement                                                  | 1d12          | 6                 | 4              | 6d12         | 11                 |
-| 20th  | +6                | Sanguine Mastery                                                           | 1d12          | 6                 | 4              | 6d12         | 11                 |
+| Level | Proficiency Bonus | Features                                         | Hemocraft Die | Blood Rites Known | Weapon Mastery | Maneuver Die | Prepared Maneuvers |
+| ----- | ----------------- | ------------------------------------------------ | ------------- | ----------------- | -------------- | ------------ | ------------------ |
+| 1st   | +2                | Hunter’s Bane, Weapon Mastery, Martial Maneuvers | —             | —                 | 2              | 2d4          | 2                  |
+| 2nd   | +2                | Fighting Style, Hemocraft, Vital Sacrifice       | 1d4           | 2                 | 2              | 2d4          | 2                  |
+| 3rd   | +2                | Blood Hunter Order                               | 1d6           | 2                 | 2              | 2d6          | 3                  |
+| 4th   | +2                | Ability Score Improvement                        | 1d6           | 2                 | 3              | 2d6          | 3                  |
+| 5th   | +3                | Extra Attack, Sanguine Reperfusion               | 1d6           | 3                 | 3              | 3d6          | 4                  |
+| 6th   | +3                | Brand of Castigation, Grim Psychometry           | 1d8           | 3                 | 3              | 3d8          | 4                  |
+| 7th   | +3                | Order Feature                                    | 1d8           | 3                 | 3              | 3d8          | 5                  |
+| 8th   | +3                | Ability Score Improvement                        | 1d8           | 3                 | 3              | 3d8          | 5                  |
+| 9th   | +4                | Tainted Lore                                     | 1d8           | 4                 | 3              | 4d8          | 6                  |
+| 10th  | +4                | Dark Augmentation                                | 1d10          | 4                 | 4              | 4d10         | 6                  |
+| 11th  | +4                | Improved Crimson Maledict, Vital Control         | 1d10          | 4                 | 4              | 4d10         | 7                  |
+| 12th  | +4                | Ability Score Improvement                        | 1d10          | 4                 | 4              | 4d10         | 7                  |
+| 13th  | +5                | Order Feature                                    | 1d10          | 5                 | 4              | 5d10         | 8                  |
+| 14th  | +5                | Brand of Tethering                               | 1d10          | 5                 | 4              | 5d10         | 8                  |
+| 15th  | +5                | Hardened Soul                                    | 1d12          | 5                 | 4              | 5d12         | 9                  |
+| 16th  | +5                | Ability Score Improvement                        | 1d12          | 5                 | 4              | 5d12         | 9                  |
+| 17th  | +6                | —                                                | 1d12          | 6                 | 4              | 6d12         | 10                 |
+| 18th  | +6                | Order Feature                                    | 1d12          | 6                 | 4              | 6d12         | 10                 |
+| 19th  | +6                | Ability Score Improvement                        | 1d12          | 6                 | 4              | 6d12         | 11                 |
+| 20th  | +6                | Sanguine Mastery                                 | 1d12          | 6                 | 4              | 6d12         | 11                 |
 
 # Class Features
 
@@ -97,7 +97,7 @@ As a Martial Class, the Blood hunter has access to special battlefield maneuvers
 
 **Maneuver save DC** = 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice)
 
-### Level 1: Fighting Style
+### Level 2: Fighting Style
 
 You gain a [[/004-Feats/Fighting-Style-Feats/|Fighting Style Feat]] of your choice.
 
