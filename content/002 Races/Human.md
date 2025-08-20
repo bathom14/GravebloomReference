@@ -1,6 +1,6 @@
 # Human
 
-Humanity is a varied and multifaceted race, with many distinct cultures in different regions of the world. Humans tend to exhibit a greater variety in skill sets than most races, and are prone to intergrate into the cultures of other races. In nearly every part of the known world, there exists some piece human history.
+Humanity is a varied and multifaceted race, with many distinct cultures in different regions of the world. Humans tend to exhibit a greater variety in skill sets than most races, and are prone to integrate into the cultures of other races. In nearly every part of the known world, there exists some piece human history.
 
 **Ability Score Increase.** Two different ability scores of your choice increase by 1.
 
@@ -16,4 +16,8 @@ Humanity is a varied and multifaceted race, with many distinct cultures in diffe
 
 **Skills.** You gain proficiency in two skills of your choice.
 
-**Congenital Feat** You gain one [Feat](https://docs.google.com/document/d/1KXwhPjvN_g9tKONlnT8e5vfgkoyL5HBM/edit) of your choice.
+**Human Versatility.** Select one of the following options.
+
+- **Storied.** Increase one ability score of your choice by 1. You gain one [[/004-Feats/Origin-Feats/|Origin Feat]] of your choice.
+
+- **Prodigy.** You gain one [[/004-Feats/General-Feats/|General Feat]] of your choice.

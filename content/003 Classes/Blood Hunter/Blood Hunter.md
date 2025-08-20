@@ -15,7 +15,7 @@ _If your blood hunter is part of the Order of the Profane Soul and also has warl
 | 6th   | +3                | Brand of Castigation, Grim Psychometry           | 1d8           | 3                 | 3              | 3d8          | 4                  |
 | 7th   | +3                | Order Feature                                    | 1d8           | 3                 | 3              | 3d8          | 5                  |
 | 8th   | +3                | Ability Score Improvement                        | 1d8           | 3                 | 3              | 3d8          | 5                  |
-| 9th   | +4                | Tainted Lore                                     | 1d8           | 4                 | 3              | 4d8          | 6                  |
+| 9th   | +4                | Tainted Lore (Grim Psychometry)                  | 1d8           | 4                 | 3              | 4d8          | 6                  |
 | 10th  | +4                | Dark Augmentation                                | 1d10          | 4                 | 4              | 4d10         | 6                  |
 | 11th  | +4                | Improved Crimson Maledict, Vital Control         | 1d10          | 4                 | 4              | 4d10         | 7                  |
 | 12th  | +4                | Ability Score Improvement                        | 1d10          | 4                 | 4              | 4d10         | 7                  |
@@ -161,7 +161,7 @@ Starting at 5th level, you can attack twice, instead of once, whenever you take 
 
 ### Level 5: Sanguine Reperfusion
 
-Whenever you perform a Vital Sacrifice, you may recover one of your expended Maneuver Dice. You also gain temporary hit points equal to the amount of hit points your maximum hit points were reduced by.
+Whenever you perform a Vital Sacrifice, you may recover one of your expended Maneuver Dice. You also gain temporary hit points equal to the amount of maximum hit points you lost.
 
 ### Level 6: Brand of Castigation
 
