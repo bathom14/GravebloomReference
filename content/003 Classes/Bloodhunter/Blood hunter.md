@@ -1,8 +1,8 @@
-**_Bloodhunters are clever warriors driven by an unending determination to destroy evils old and new. Armed with rites of secretive blood magic and a willingness to sacrifice their own vitality and humanity for their cause, they protect the realms from the shadows — even as they remain ever vigilant against being drawn to the darkness that consumes the monsters they hunt._**
+**_Blood hunters are clever warriors driven by an unending determination to destroy evils old and new. Armed with rites of secretive blood magic and a willingness to sacrifice their own vitality and humanity for their cause, they protect the realms from the shadows — even as they remain ever vigilant against being drawn to the darkness that consumes the monsters they hunt._**
 
 _You must have an Intelligence score of 13 or higher and a Strength or Dexterity score of 13 or higher in order to multiclass in or out of this class._
 
-_If your bloodhunter is part of the Order of the Profane Soul and also has warlock levels, add one-third of your blood hunter levels (rounded down) to your warlock level and consult the [warlock progression table](http://dnd5e.wikidot.com/warlock) for total spell slots, cantrips known, and spell slot level. You should consider aligning your Otherworldly Patron feature between both classes, but your DM might allow you to have two different patrons at their discretion._
+_If your blood hunter is part of the Order of the Profane Soul and also has warlock levels, add one-third of your blood hunter levels (rounded down) to your warlock level and consult the [warlock progression table](http://dnd5e.wikidot.com/warlock) for total spell slots, cantrips known, and spell slot level. You should consider aligning your Otherworldly Patron feature between both classes, but your DM might allow you to have two different patrons at their discretion._
 
 
 | Level | Proficiency Bonus | Features                                      | Hemocraft Die | Blood Rites Known | Weapon Mastery | Maneuver Die | Prepared Maneuvers |
@@ -77,7 +77,7 @@ When you reach certain Barbarian levels, you gain the ability to use the mastery
 
 ### Level 1: Martial Maneuvers
 
-As a Martial Class, the Bloodhunter has access to special battlefield maneuvers which are activated at the expense of maneuver dice.
+As a Martial Class, the Blood hunter has access to special battlefield maneuvers which are activated at the expense of maneuver dice.
 
 **Maneuvers.** You can prepare two [[Maneuvers]] available to you from the [Martial Maneuver List](https://homebrewery.naturalcrit.com/share/-cfBHWD0T61T). As you progress levels you gain access to a higher number of prepared Maneuvers, and can select them from the list in the same way. Some Maneuvers are only available at higher levels or may have other prerequisites. Whenever you complete a long rest, you may change your prepared Maneuvers.
 
