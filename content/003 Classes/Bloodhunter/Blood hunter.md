@@ -204,17 +204,17 @@ Also at 11th level, you gain a greater measure of control over your blood magic.
 
 Also, once between each long rest, you can empower one Blood Rite you know without making a Vital Sacrifice.
 
-### Brand of Tethering
+### Level 14: Brand of Tethering
 
 Your Brand of Castigation is infused with potent abjuration magic. Starting at 14th level, in order for a creature marked by your Brand of Castigation to teleport or to leave your current plane, it must succeed on a Charisma saving throw against your Hemocraft save DC. On a failure, that feature fails and it takes Crimson Maledict damage equal to four rolls of your Hemocraft Die.
 
 Also, the damage of Crimson Maledict increases to two rolls of your Hemocraft Die if the Branded target damages you or an ally.
 
-### Hardened Soul
+### Level 15: Hardened Soul
 
 Your experiences have hardened your mind against all but the most esoteric attacks. Beginning at 15th level, whenever you make an Intelligence, Wisdom, or Charisma saving throw you gain a bonus to your roll equal to one roll of Hemocraft Die.
 
-### Sanguine Mastery
+### Level 20: Sanguine Mastery
 
 You have gained unparalleled mastery over the dark power of your blood magic, improving its potency while minimizing the sacrifices required. At 20th level, whenever you roll a Hemocraft Die for another Blood Rite or a Blood Hunter ability, you roll your Hemocraft Die twice and choose which result to use.
 
