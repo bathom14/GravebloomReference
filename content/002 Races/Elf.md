@@ -2,7 +2,7 @@
 
 The elves are a long lived race, blessed in magic. There exist two main groups of elves, the wood elves and the high elves.
 
-The wood elves were the first to appear in the northerneastern region of the continent hundreds of centuries in the past. Then, and today, they tended to stay isolated from other races and remain in secluded grove communities.
+The wood elves were the first to appear in the northeeastern region of the continent hundreds of centuries in the past. Then, and today, they tended to stay isolated from other races and remain in secluded grove communities.
 However, approximately twelve thousand years ago, a powerful group of elves known as the High Elves began to engage in aggresive conquest, leading to the formation of an empire which spanned much of much of the northern half of the continent. After nearly three thousand years of uncontested reign, their empire rapidly collapsed. To this day, however, they still maintain a sizeable empire in the northeast.
 
 **Ability Score Increase.** Your Dexterity score increases by 2.

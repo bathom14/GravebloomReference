@@ -16,7 +16,7 @@
 
 **Defiant Nature.** You have advantage on saving throws you make to avoid or end the charmed condition on yourself.
 
-**Fury of the Small.**When you damage a creature with an attack or a spell and the creature's size is larger than yours, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your level. Once you use this trait, you can't use it again until you finish a short or long rest.
+**Fury of the Small.** When you damage a creature with an attack or a spell and the creature's size is larger than yours, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your level. Once you use this trait, you can't use it again until you finish a short or long rest.
 
 **Nimble Escape.** You can take the Disengage or Hide action as a bonus action on each of your turns.
 
