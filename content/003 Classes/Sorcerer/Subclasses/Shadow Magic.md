@@ -1,11 +1,10 @@
-
 ### Level 1: Shadow Magic Spells
 
 You learn certain spells at the Sorcerer levels shown below. They are Sorcerer spells for you, they do not count against your number of Spells Known, and they cannot be replaced.
 
 | Sorcerer Level | Spell                                                  |
 | -------------- | ------------------------------------------------------ |
-| 1st            | [[Bane]], [[Dissonant Whispers]]                       |
+| 1st            | [[Bane]], [[Cause Fear]]                               |
 | 3rd            | [[Darkness]], [[Pass Without Trace]], [[Shadow Blade]] |
 | 5th            | [[Vampiric Touch]], [[Summon Shadowspawn]]             |
 | 7th            | [[Shadow of Moil]], [[Phantasmal Killer]]              |

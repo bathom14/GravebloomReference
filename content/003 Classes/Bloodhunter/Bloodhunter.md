@@ -1,7 +1,5 @@
 **_Bloodhunters are clever warriors driven by an unending determination to destroy evils old and new. Armed with rites of secretive blood magic and a willingness to sacrifice their own vitality and humanity for their cause, they protect the realms from the shadows — even as they remain ever vigilant against being drawn to the darkness that consumes the monsters they hunt._**
 
-Source: [DND Beyond](https://www.dndbeyond.com/classes/blood-hunter)
-
 _You must have an Intelligence score of 13 or higher and a Strength or Dexterity score of 13 or higher in order to multiclass in or out of this class._
 
 _If your bloodhunter is part of the Order of the Profane Soul and also has warlock levels, add one-third of your blood hunter levels (rounded down) to your warlock level and consult the [warlock progression table](http://dnd5e.wikidot.com/warlock) for total spell slots, cantrips known, and spell slot level. You should consider aligning your Otherworldly Patron feature between both classes, but your DM might allow you to have two different patrons at their discretion._
@@ -71,27 +69,55 @@ On a success, you learn one characteristic of your choice from the following lis
 
 If your choice doesn't apply to that creature, your DM will reveal another relevant characteristic of their choice to you.
 
+### Level 1: Weapon Mastery
+
+Your training with weapons allows you to use the mastery properties of two kinds of Simple or Martial Melee weapons of your choice, such as Greataxes and Handaxes. Whenever you finish a Long Rest, you can practice weapon drills and change one of those weapon choices.
+
+When you reach certain Barbarian levels, you gain the ability to use the mastery properties of more kinds of weapons, as shown in the Weapon Mastery column of the Barbarian Features table.
+
+### Level 1: Martial Maneuvers
+
+As a Martial Class, the Bloodhunter has access to special battlefield maneuvers which are activated at the expense of maneuver dice.
+
+**Maneuvers.** You can prepare two [[Maneuvers]] available to you from the [Martial Maneuver List](https://homebrewery.naturalcrit.com/share/-cfBHWD0T61T). As you progress levels you gain access to a higher number of prepared Maneuvers, and can select them from the list in the same way. Some Maneuvers are only available at higher levels or may have other prerequisites. Whenever you complete a long rest, you may change your prepared Maneuvers.
+
+**Maneuver Dice.** You have a number of Maneuver Dice available to you, which are initially three d4s. You regain all of your spent Maneuver Dice when you complete a short or long rest. You gain additional Maneuver Die as you progress in Bloodhunter levels, as shown on the Bloodhunter progression table. The Maneuver Die size increases to d6 at level 3, d8 at level 6, d10 at level 10, and d12 at level 15. Using a maneuver expends a maneuver dice.
+
+**Maneuver Degree.** Each Maneuver falls within an assigned Degree, ranging from First Degree to Fifth Degree. The availability of Maneuvers for you to prepare is determined by the size of your Maneuver Die. The Degree of the Maneuver also dictates its allowed frequency of use, as outlined in the table below.
+
+| Maneuver Degree | Minimum Maneuver Die Size | Frequency of Use     |
+| --------------- | ------------------------- | -------------------- |
+| First Degree    | d4                        | Unlimited            |
+| Second Degree   | d6                        | Unlimited            |
+| Third Degree    | d8                        | Once Per Round       |
+| Fourth Degree   | d10                       | Twice Per Short Rest |
+| Fifth Degree    | d12                       | Once Per Short Rest  |
+
+**Saving Throws.**  Some of your Maneuvers require your target to make a saving throw to resist the maneuver's effects. The saving throw will use either your Strength or your Dexterity modifier, and once you have selected which ability score to use, it cannot be changed. You make this selection when you the Martial Maneuvers feature. The saving throw DC is calculated as follows:
+
+**Maneuver save DC** = 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice)
+
 ### Level 1: Fighting Style
 
-At 1st level, you adopt a style of fighting as your specialty. Choose one of the following options. You can’t take a Fighting Style option more than once, even if you later get to choose again.
+You gain a [[Fighting Style feat]] of your choice.
 
-- **Archery.** You gain a +2 bonus to attack rolls you make with ranged weapons.
-
-- **Dueling.** When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
-
-- **Great Weapon Fighting.** When you roll a 1 or 2 on a non-rite damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll. The weapon must have the two-handed or versatile property for you to gain this benefit.
-
-- **Two-Weapon Fighting.** When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
+Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace a fighting style you know with another fighting style available to bloodhunters. This replacement represents a shift of focus in your martial practice.
 
 ### Level 2: Hemocraft
 
-At the 2nd level, you gain the ability to channel—or sometimes sacrifice—a part of your vital essence to curse and manipulate creatures through hemocraft magic.
+At the 2nd level, you learn to harness the sinister magic within your bloodstream to invoke the ancient power of Blood Rites:
+##### Blood Rites
 
+At 2nd level, you know two [[Blood Rites]] of your choice from the list at the end of this class. When you reach certain Blood Hunter levels you learn more Rites of your choice, as shown in the Rites Known column of the Blood Hunter class table.
+
+Once you invoke a Blood Rite you must finish a short or long rest before you can invoke that Blood Rite again. When you have no uses of a Blood Rite remaining, you can make a Vital Sacrifice to use that Rite again.
+
+Some Blood Rights posses an Empowered ability, which may be activated with a Vital Sacrifice.
+
+Finally, whenever you learn a new Blood Rite, you can replace one of the Blood Rites you know with another Blood Rite of your choice.
 ##### Hemocraft Die
 
-
-#####  Blood Rites
-
+Some class features and Blood Rites use your Hemocraft Die, which starts as a d4. At certain Blood Hunter levels, this die grows, as shown in the Rite Die column of the Blood Hunter class table.
 
 ##### Saving Throws
 
@@ -101,10 +127,13 @@ If a Blood Rite requires a creature to make a saving throw to resist its effects
 
 ### Level 2: Vital Sacrifice
 
+Also at the second level, you learn the art of the Vital Sacrifice, which allows you to utilize your own life force to fuel and empower your sanguine arts. When you make a Vital Sacrifice, you reduce your maximum hit points by one roll of your Hemocraft Die. At the end of each long rest, any reductions to your maximum hit points from Vital Sacrifices return to normal.
+
+When you receive this feature at the 2nd level, you have access to the following Vital Sacrifices:
 
 **Empower Blood Rite.** When you invoke a Blood Rite that possesses an ***Empowered*** feature, you may make a Vital Sacrifice to include its effect in the invocation of that Blood Rite. Additionally, that Blood Rite may be used to target any creature, not just those who possess blood.
 
-**Reinvoke Blood Rite.** When you have exhausted your uses of a Blood Rite, you may make a Vital Sacrifice as part of its invocation to utilize it an additional time.
+**Reinvoke Blood Rite.** When you have exhausted your use of a Blood Rite, you may make a Vital Sacrifice as part of its invocation to utilize it an additional time.
 
 **Crimson Maledict.** As a bonus action on your turn, you may make a Vital Sacrifice to infuse a weapon you're holding with a Crimson Maledict. Choose acid, cold, fire, lightning, or poison. For 1 hour, your attacks with that weapon deal bonus damage of the chosen type equal to a roll of your Hemocraft Die.
 
@@ -113,12 +142,12 @@ If a Blood Rite requires a creature to make a saving throw to resist its effects
 
 At 3rd level, you commit to an order of blood hunters whose philosophy will guide you throughout your life. The order you choose grants you features at 3rd level, and again at 7th, 11th, 15th, and 18th level.
 
-|Order|Source|
-|---|---|
-|[Ghostslayer](http://dnd5e.wikidot.com/blood-hunter:ghostslayer)|[DND Beyond](https://www.dndbeyond.com/classes/blood-hunter#BloodHunterOrder-1610847)|
-|[Lycan](http://dnd5e.wikidot.com/blood-hunter:lycan)|[DND Beyond](https://www.dndbeyond.com/classes/blood-hunter#BloodHunterOrder-1610847)|
-|[Mutant](http://dnd5e.wikidot.com/blood-hunter:mutant)|[DND Beyond](https://www.dndbeyond.com/classes/blood-hunter#BloodHunterOrder-1610847)|
-|[Profane Soul](http://dnd5e.wikidot.com/blood-hunter:profane-soul)|[DND Beyond](https://www.dndbeyond.com/classes/blood-hunter#BloodHunterOrder-1610847)|
+| Order                                                              |
+| ------------------------------------------------------------------ |
+| [Ghostslayer](http://dnd5e.wikidot.com/blood-hunter:ghostslayer)   |
+| [Lycan](http://dnd5e.wikidot.com/blood-hunter:lycan)               |
+| [Mutant](http://dnd5e.wikidot.com/blood-hunter:mutant)             |
+| [Profane Soul](http://dnd5e.wikidot.com/blood-hunter:profane-soul) |
 
 ### Level 4: Ability Score Improvement
 
@@ -132,34 +161,61 @@ Starting at 5th level, you can attack twice, instead of once, whenever you take 
 
 ### Level 5: Sanguine Reperfusion
 
-Whenever you perform a Vital Sacrifice, you may recover one of your expended Maneuver Dice.
+Whenever you perform a Vital Sacrifice, you may recover one of your expended Maneuver Dice. You also gain temporary hit points equal to the amount of hit points your maximum hit points were reduced by.
 
 ### Level 6: Brand of Castigation
 
-At 6th level, when you damage a creature with a weapon for which you have an active crimson rite, you can channel hemocraft magic to sear an arcane brand into that creature (no action required). You always know the direction to the branded creature as long as it’s on the same plane as you. Further, each time the branded creature deals damage to you or a creature you can see within 5 feet of you, the branded creature takes psychic damage equal to your Hemocraft modifier (minimum of 1).
+Your affinity with blood magic has grown. Beginning at 6th level, you can use Crimson Maledict once between each short or long rest without making a Vital Sacrifice.
 
-Your brand lasts until you dismiss it or until you use this feature to apply a brand to another creature. Your brand can be dispelled with [Dispel Magic](http://dnd5e.wikidot.com/spell:dispel-magic), and is treated as a spell with a level equal to half your blood hunter level (maximum 9th level).
+Moreover, when you damage a creature with a Crimson Maledict weapon attack, you can sear it with blood magic to place a Brand of Castigation upon it. While this Brand of Castigation lasts, you gain the following benefits against that creature:
 
-Once you use this feature, you can’t use it again until you finish a short or long rest.
+- You know its exact direction while on the same plane.
+- Whenever it damages you, or a friendly creature that you can see within 15 feet of you, it takes Crimson Maledict damage equal to one roll of your Rite Die.
 
-### Grim Psychometry
+This Brand lasts until the creature is slain, or you Brand another creature. It can also be dispelled by _[[remove curse]]_.
 
-When you reach 9th level, you gain a supernatural talent for discerning the secrets surrounding mysterious relics or places touched by evil. Whenever you make an Intelligence (History) check to recall information about the sinister or tragic history of an object you are touching or your current location, you have advantage on the check. At the DM’s discretion, a suitably high roll might cause your character to experience brief visions of the past connected to the object or location.
+Once you use this feature you must complete a short or long rest before you can use it again. 
 
-### Dark Augmentation
+You also gain the following Vital Sacrifice ability:
 
-Starting at 10th level, the magic of hemocraft suffuses your body to permanently reinforce your resilience. Your speed increases by 5 feet, and you have a bonus to Strength, Dexterity, and Constitution saving throws equal to your Hemocraft modifier (minimum of +1).
+**Replenish Brand of Castigation.** When you have exhausted your use of a Brand of Castigation, you may make a Vital Sacrifice as part of its invocation to utilize it an additional time.
+
+### Level 6: Grim Psychometry
+
+Your familiarity with dark magic allows you to decipher the influence of similar effects. Also at 5th level, you can use alchemist's supplies to cast _[[identify]]_ as a ritual. When you do so, you also learn if the object is cursed.
+
+At 9th level, you also gain the following Vital Sacrifice option:
+
+**Tainted Lore.** You may make a Vital Sacrifice to cast _[[legend lore]]_ without expending a spell slot. When you do so, you use your alchemist's supplies as the material components, and your target is an object or creature you touch, or your current location. When you use Tainted Lore, the target can have an evil, violent, or cursed history instead of legendary importance. 
+
+### Level 10: Dark Augmentation
+
+The dark magic of the Hunter's Bane enhances your physical abilities. Starting at 10th level, whenever you make an ability check or saving throw that uses your Strength, Dexterity, or Constitution, you add one roll of your Hemocraft Die to the result.
+
+### Level 11: Improved Crimson Maledict
+
+Your skill with the Crimson Maledict has improved, and your Crimson Maledict Vital Sacrifice changes to the following:
+
+**Improved Crimson Maledict.** As a bonus action on your turn, you may make a Vital Sacrifice to infuse a weapon you're holding with a Crimson Maledict. Choose acid, cold, fire, lightning, necrotic, psychic, poison, or thunder. For 1 hour, your attacks with that weapon deal bonus damage of the chosen type equal to a roll of your Hemocraft Die.
+
+### Level 11: Vital Control
+
+Also at 11th level, you gain a greater measure of control over your blood magic. Whenever you make a Vital Sacrifice, you can roll your Hemocraft Die twice and choose which result to use. 
+
+Also, once between each long rest, you can empower one Blood Rite you know without making a Vital Sacrifice.
 
 ### Brand of Tethering
 
-Starting at 13th level, the psychic damage from your Brand of Castigation increases to twice your Hemocraft modifier (minimum of 2). Additionally, a branded creature can’t take the Dash action, and if it attempts to teleport or to leave its current plane by any means, it takes 4d6 psychic damage and must make a Wisdom saving throw. On a failure, the attempt to teleport or leave the plane fails.
+Your Brand of Castigation is infused with potent abjuration magic. Starting at 14th level, in order for a creature marked by your Brand of Castigation to teleport or to leave your current plane, it must succeed on a Charisma saving throw against your Hemocraft save DC. On a failure, that feature fails and it takes Crimson Maledict damage equal to four rolls of your Hemocraft Die.
+
+Also, the damage of Crimson Maledict increases to two rolls of your Hemocraft Die if the Branded target damages you or an ally.
 
 ### Hardened Soul
 
-When you reach 14th level, you have advantage on saving throws against being charmed and frightened.
+Your experiences have hardened your mind against all but the most esoteric attacks. Beginning at 15th level, whenever you make an Intelligence, Wisdom, or Charisma saving throw you gain a bonus to your roll equal to one roll of Hemocraft Die.
 
 ### Sanguine Mastery
 
-Upon reaching 20th level, your mastery of blood magic reaches its height, mitigating your sacrifice and empowering your expertise. Once per turn, whenever a blood hunter feature requires you to roll a hemocraft die, you can reroll the die and use either roll.
+You have gained unparalleled mastery over the dark power of your blood magic, improving its potency while minimizing the sacrifices required. At 20th level, whenever you roll a Hemocraft Die for another Blood Rite or a Blood Hunter ability, you roll your Hemocraft Die twice and choose which result to use.
 
-Additionally, whenever you score a critical hit with a weapon for which you have an active crimson rite, you regain one expended use of your Blood Maledict feature.
+Finally, whenever you make a Vital Sacrifice, you subtract your Intelligence modifier from your Vital Sacrifice roll before you reduce your maximum hit points. This cannot reduce your Vital Sacrifice below 1.

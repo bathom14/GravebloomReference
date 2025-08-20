@@ -63,7 +63,7 @@ As a Martial Class, the Barbarian has access to special battlefield maneuvers wh
 
 **Maneuvers.** You can prepare two [[Maneuvers]] available to you from the [Martial Maneuver List](https://homebrewery.naturalcrit.com/share/-cfBHWD0T61T). As you progress levels you gain access to a higher number of prepared Maneuvers, and can select them from the list in the same way. Some Maneuvers are only available at higher levels or may have other prerequisites. Whenever you complete a long rest, you may change your prepared Maneuvers.
 
-**Maneuver Dice.** You have a number of Maneuver Dice available to you, which are initially three d6s. You regain all of your spent Maneuver Dice when you complete a short or long rest. You gain additional Maneuver Die as you progress in Barbarian levels, as shown on the Barbarian progression table. The Maneuver Die size increases to d8 at level 6, d10 and level 11, and d12 at level 16. Using a maneuver expends a maneuver dice.
+**Maneuver Dice.** You have a number of Maneuver Dice available to you, which are initially three d4s. You regain all of your spent Maneuver Dice when you complete a short or long rest. You gain additional Maneuver Die as you progress in Barbarian levels, as shown on the Barbarian progression table. The Maneuver Die size increases to d6 at level 3, d8 at level 6, d10 at level 10, and d12 at level 15. Using a maneuver expends a maneuver dice.
 
 **Maneuver Degree.** Each Maneuver falls within an assigned Degree, ranging from First Degree to Fifth Degree. The availability of Maneuvers for you to prepare is determined by the size of your Maneuver Die. The Degree of the Maneuver also dictates its allowed frequency of use, as outlined in the table below.
 
