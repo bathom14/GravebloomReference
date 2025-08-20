@@ -4,10 +4,10 @@ note_type: feat
 feat_category: "[[Racial Feat]]"
 feat_race_req:
   - "[[Dragonborn]]"
-feat_level_req: 
+feat_level_req: "4"
 feat_feat_req:
 ---
-*Prerequisite: Dragonborn*
+*Prerequisite: Dragonborn*, 4th Level
 
 When angered, you radiate menace. You gain the following benefits:
 
