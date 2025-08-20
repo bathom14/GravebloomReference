@@ -188,12 +188,15 @@ At 11th level, you can use this feature to cause one Infused item or magic item 
 
 At 3rd level, you choose the type of specialist you are. Your choice grants you features at 5th level and again at 9th and 15th level.
 
-| Specialty                                                       | Source                                                                                                                |
-| --------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| [Alchemist](http://dnd5e.wikidot.com/artificer:alchemist)       | Tasha's Cauldron of Everything  <br>Eberron: Rising from the Last War                                                 |
-| [Armorer](http://dnd5e.wikidot.com/artificer:armorer)           | Tasha's Cauldron of Everything                                                                                        |
-| [Artillerist](http://dnd5e.wikidot.com/artificer:artillerist)   | Tasha's Cauldron of Everything  <br>Eberron: Rising from the Last War                                                 |
-| [Battle Smith](http://dnd5e.wikidot.com/artificer:battle-smith) | Tasha's Cauldron of Everything  <br>Eberron: Rising from the Last War                                                 |
+| Specialty        |
+| ---------------- |
+| [[Alchemist]]    |
+| [[Armorer]]      |
+| [[Battle Smith]] |
+| [[Forgewrite]]   |
+| [[Artillerist]]  |
+| [[Wandwright ]]  |
+|                  |
 
 ### Level 4: Ability Score Improvement
 

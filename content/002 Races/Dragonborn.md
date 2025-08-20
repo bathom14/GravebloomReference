@@ -1,6 +1,6 @@
 # Dragonborn
 
-**Ability Score Increase.** Your Strength score increases by 2
+**Ability Score Increase.** Your Constitution score increases by 1.
 
 **Age.** Young dragonborn grow quickly. They walk hours after hatching, attain the size and development of a 10-year-old human child by the age of 3, and reach adulthood by 15. They live to be around 80.
 
@@ -14,7 +14,7 @@
 
 **Languages.** You can read, speak, and write Draconic and another language that you and the DM agree are appropriate for your character.
 
-**Subrace.** Dragonborn may take many forms, depending upon their draconic orgiin. Select one of the following subraces.
+**Subrace.** Dragonborn may take many forms, depending upon their draconic origin. Select one of the following subraces.
 
 ### Metallic Dragonborn
 
@@ -22,15 +22,15 @@
 
 **Alignment.** Like their Metallic Dragon progenitors, Metallic Dragonborn tend towards good alignments
 
-**Metallic Ancestry.** You trace your ancestry to a metallic dragon, granting you a special magical affinity. choose one type of dragon from the Metallic Ancestry table. This determines the damage type for your other traits as shown in the table.
+**Metallic Ancestry.** You trace your ancestry to a metallic dragon, granting you a special magical affinity. choose one type of dragon from the Metallic Ancestry table. This determines the damage type for your other traits as shown in the table. It also determines your final Ability Score Increase.
 
-| Dragon | Damage Type |
-|:----:| :----------:|
-|Brass |Fire         |
-|Bronze  |Lightning    |
-|Copper |Acid       |
-|Gold   |Fire         |
-|Silver |Cold         |
+| Dragon | Damage Type | Ability Score Increase |
+| :----: | :---------: | ---------------------- |
+| Brass  |    Fire     | +1 Strength            |
+| Bronze |  Lightning  | +1 Wisdom              |
+| Copper |    Acid     | +1 Intelligence        |
+|  Gold  |    Fire     | +1 Charisma            |
+| Silver |    Cold     | +1 Constitution        |
 
 **Breath Weapon.** When you take the Attack action on your turn, you can replace one of your attacks with an exhalation of magical energy in a 15-foot cone. Each creature in that area must make a Dexterity saving throw (DC = 8 + your Constitution modifier + your proficiency bonus). On a failed save, the creature takes 1d10 damage of the type associated with your Metallic Ancestry. On a successful save, it takes half as much damage. This damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).
 
@@ -48,25 +48,25 @@
 
 ### Chromatic Dragonborn
 
-**Ability Score Increase.** Your Constitution score increases by 1
+**Ability Score Increase.** Your Strength score increases by 1
 
 **Alignment.** Like their Chromatic Dragon progenitors, Chromatic Dragonborn tend towards evil alignments
 
-**Chromatic Ancestry.** You trace your ancestry to a chromatic dragon, granting you a special magical affinity. choose one type of dragon from the Chromatic Ancestry table. This determines the damage type for your other traits as shown in the table.
+**Chromatic Ancestry.** You trace your ancestry to a chromatic dragon, granting you a special magical affinity. choose one type of dragon from the Chromatic Ancestry table. This determines the damage type for your other traits as shown in the table. It also determines your final Ability Score Increase.
 
-| Dragon | Damage Type |
-|:----:| :----------:|
-|Black |Acid         |
-|Blue  |Lightning    |
-|Green |Poison       |
-|Red   |Fire         |
-|White |Cold         |
+| Dragon | Damage Type | Ability Score Increase |
+| :----: | :---------: | ---------------------- |
+| Black  |    Acid     | +1 Dexterity           |
+|  Blue  |  Lightning  | +1 Charisma            |
+| Green  |   Poison    | +1 Intelligence        |
+|  Red   |    Fire     | +1 Strength            |
+| White  |    Cold     | +1 Constitution        |
 
 **Breath Weapon.** When you take the Attack action on your turn, you can replace one of your attacks with an exhalation of magical energy in a 15-foot cone. Each creature in that area must make a Dexterity saving throw (DC = 8 + your Constitution modifier + your proficiency bonus). On a failed save, the creature takes 1d10 damage of the type associated with your Chromatic Ancestry. On a successful save, it takes half as much damage. This damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).
 
 * You can use your Breath Weapon a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
-**Draconic Resistance.** You have resistance to the damge type associated with your Chromatic ancestry
+**Draconic Resistance.** You have resistance to the damage type associated with your Chromatic ancestry
 
 **Chromatic Warding.** Starting at 5th level, as an action, you can channel your draconic energy to protect yourself. For one minute, you become immune to the damage type associated with your Chromatic Ancestry. Once you use this trait, you can’t do so again until you finish a long rest.
 
@@ -78,22 +78,22 @@
 
 **Alignment.** Like their Gem Dragon progenitors, Gem Dragonborn tend towards neutral alignments
 
-**Gem Ancestry.** You trace your ancestry to a Gem dragon, granting you a special magical affinity. choose one type of dragon from the Gem Ancestry table. This determines the damage type for your other traits as shown in the table.
+**Gem Ancestry.** You trace your ancestry to a Gem dragon, granting you a special magical affinity. choose one type of dragon from the Gem Ancestry table. This determines the damage type for your other traits as shown in the table. It also determines your final Ability Score Increase.
 
-| Dragon | Damage Type |
-|:----:| :----------:|
-|Amethyst |Force         |
-|Crystal  |Radiant    |
-|Emerald |Psychic       |
-|Sapphire   |Thunder         |
-|Topaz |Necrotic         |
+|  Dragon  | Damage Type | Ability Score Increase |
+| :------: | :---------: | ---------------------- |
+| Amethyst |    Force    | +1 Constitution        |
+| Crystal  |   Radiant   | +1 Charisma            |
+| Emerald  |   Psychic   | +1 Intelligence        |
+| Sapphire |   Thunder   | +1 Dexterity           |
+|  Topaz   |  Necrotic   | +1 Wisdom              |
 
 **Breath Weapon.** When you take the Attack action on your turn, you can replace one of your attacks with an exhalation of magical energy in a 30-foot line that is 5 feet wide. Each creature in that area must make a Dexterity saving throw (DC = 8 + your Constitution modifier + your proficiency bonus). On a failed save, the creature takes 1d10 damage of the type associated with your Gem Ancestry. On a successful save, it takes half as much damage. This damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).
 
 * You can use your Breath Weapon a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
-**Draconic Resistance.** You have resistance to the damge type associated with your Gem ancestry
+**Draconic Resistance.** You have resistance to the damage type associated with your Gem ancestry
 
 **Psionic Mind.** You can telepathically speak to any creature you can see within 30 feet of you. You don’t need to share a language with the creature, but the creature must be able to understand at least one language.
 
-**Gem Flight.** Starting at 5th level, you can use a bonus action to manifest spectral wings on your body. These wings last for 1 minute. For the duration, you gain a flying speed equal to your walking speed and can hover. Once you use this trait, you can’t do so again until you finish a long rest.
+**Gem Flight.** Starting at 5th level, you can use a bonus action to manifest spectral wings on your body. These wings last for 1 minute. For the duration, you gain a flying speed equal to your walking speed and can hover. You can use this trait a number of times equal to half of your proficiency, rounded down, and you regain all expended uses when you finish a long rest.

@@ -23,7 +23,7 @@ _If your blood hunter is part of the Order of the Profane Soul and also has warl
 | 14th  | +5                | Brand of Tethering                               | 1d10          | 5                 | 4              | 5d10         | 8                  |
 | 15th  | +5                | Hardened Soul                                    | 1d12          | 5                 | 4              | 5d12         | 9                  |
 | 16th  | +5                | Ability Score Improvement                        | 1d12          | 5                 | 4              | 5d12         | 9                  |
-| 17th  | +6                | —                                                | 1d12          | 6                 | 4              | 6d12         | 10                 |
+| 17th  | +6                | Expert Invocation                                | 1d12          | 6                 | 4              | 6d12         | 10                 |
 | 18th  | +6                | Order Feature                                    | 1d12          | 6                 | 4              | 6d12         | 10                 |
 | 19th  | +6                | Ability Score Improvement                        | 1d12          | 6                 | 4              | 6d12         | 11                 |
 | 20th  | +6                | Sanguine Mastery                                 | 1d12          | 6                 | 4              | 6d12         | 11                 |
@@ -213,6 +213,10 @@ Also, the damage of Crimson Maledict increases to two rolls of your Hemocraft Di
 ### Level 15: Hardened Soul
 
 Your experiences have hardened your mind against all but the most esoteric attacks. Beginning at 15th level, whenever you make an Intelligence, Wisdom, or Charisma saving throw you gain a bonus to your roll equal to one roll of Hemocraft Die.
+
+### Level 17: Expert Invocation
+
+You have become an expert in the art of the Blood Rite, allowing you to invoke each Blood Rite twice after each Short or Long rest without requiring a Vital Sacrifice.
 
 ### Level 20: Sanguine Mastery
 
