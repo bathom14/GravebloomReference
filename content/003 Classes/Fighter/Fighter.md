@@ -13,7 +13,7 @@ You must have a [[Dexterity]] or [[Strength]] score of 13 or higher in order to 
 | 2     | +2    | **Action Surge (1)**, **Tactical Mind**                                        | 2           | 1              | 3              |      2d4      |         3          |
 | 3     | +2    | **Martial Archetype**                                                          | 2           | 1              | 3              |      2d6      |         4          |
 | 4     | +2    | **Ability Score Improvement**                                                  | 3           | 1              | 3              |      3d6      |         4          |
-| 5     | +3    | **Extra Attack (2 attacks)**, **Tactical Shift**, **Signature Weapon**         | 3           | 1              | 4              |      3d6      |         5          |
+| 5     | +3    | **Extra Attack (2 attacks)**, **Tactical Shift**, **Signature Weapon**         | 3           | 2              | 4              |      3d6      |         5          |
 | 6     | +3    | **Ability Score Improvement**                                                  | 3           | 2              | 4              |      3d8      |         5          |
 | 7     | +3    | **Archetype feature**                                                          | 3           | 2              | 4              |      3d8      |         6          |
 | 8     | +3    | **Ability Score Improvement**                                                  | 3           | 2              | 4              |      3d8      |         6          |
