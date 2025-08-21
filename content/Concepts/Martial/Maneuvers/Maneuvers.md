@@ -21,28 +21,97 @@ Some classes and subclasses may have additional maneuvers available to them, ind
 
 ##### Martial Maneuver Die Progression
 
-| Level | Proficiency Bonus | Full Martial Maneuver Dice | Full Martial Prepared Maneuvers | Half Martial Maneuver Dice | Half Martial Prepared Maneuvers | Third Martial Maneuver Dice | Third Martial Prepared Maneuvers |
-| :---: | :---------------: | :------------------------: | :-----------------------------: | :------------------------: | :-----------------------------: | :-------------------------: | :------------------------------: |
-|  1st  |        +2         |            2d4             |                2                |            1d4             |                2                |             1d4             |                2                 |
-|  2nd  |        +2         |            2d4             |                2                |            1d4             |                2                |             1d4             |                2                 |
-|  3rd  |        +2         |            2d6             |                3                |            1d4             |                2                |             1d4             |                2                 |
-|  4th  |        +2         |            2d6             |                3                |            1d4             |                2                |             1d4             |                2                 |
-|  5th  |        +3         |            3d6             |                4                |            2d6             |                3                |             1d4             |                2                 |
-|  6th  |        +3         |            3d8             |                4                |            2d6             |                3                |             1d4             |                2                 |
-|  7th  |        +3         |            3d8             |                5                |            2d6             |                3                |             1d6             |                2                 |
-|  8th  |        +3         |            3d8             |                5                |            2d8             |                3                |             1d6             |                2                 |
-|  9th  |        +4         |            4d8             |                6                |            2d8             |                4                |             2d6             |                3                 |
-| 10th  |        +4         |            4d10            |                6                |            2d8             |                4                |             2d6             |                3                 |
-| 11th  |        +4         |            4d10            |                7                |            2d8             |                4                |             2d8             |                3                 |
-| 12th  |        +4         |            4d10            |                7                |            2d8             |                4                |             2d8             |                3                 |
-| 13th  |        +5         |            5d10            |                8                |            3d10            |                5                |             2d8             |                3                 |
-| 14th  |        +5         |            5d10            |                8                |            3d10            |                5                |             2d8             |                3                 |
-| 15th  |        +5         |            5d12            |                9                |            3d10            |                5                |             2d8             |                3                 |
-| 16th  |        +5         |            5d12            |                9                |            3d10            |                5                |            2d10             |                4                 |
-| 17th  |        +6         |            6d12            |               10                |            3d10            |                6                |            2d10             |                4                 |
-| 18th  |        +6         |            6d12            |               10                |            3d12            |                6                |            2d10             |                4                 |
-| 19th  |        +6         |            6d12            |               11                |            3d12            |                6                |            2d10             |                4                 |
-| 20th  |        +6         |            6d12            |               11                |            3d12            |                6                |            2d10             |                4                 |
+| Level | PB  | Full Martial Maneuver Dice | Full Martial Prepared | Half Martial Maneuver Dice | Half Martial Prepared | Third Martial Maneuver Dice | Third Martial Prepared |
+| :---: | :-: | :------------------------: | :-------------------: | :------------------------: | :-------------------: | :-------------------------: | :--------------------: |
+|   1   | +2  |            2d4             |           2           |            2d4             |           2           |             2d4             |           2            |
+|   2   | +2  |            2d4             |           3           |            2d4             |           2           |             2d4             |           2            |
+|   3   | +2  |            2d6             |           4           |            2d4             |           3           |             2d4             |           2            |
+|   4   | +2  |            3d6             |           4           |            2d4             |           3           |             2d4             |           3            |
+|   5   | +3  |            3d6             |           5           |            2d6             |           4           |             2d4             |           3            |
+|   6   | +3  |            3d8             |           5           |            2d6             |           4           |             2d4             |           3            |
+|   7   | +3  |            3d8             |           6           |            3d6             |           4           |             2d6             |           4            |
+|   8   | +3  |            3d8             |           6           |            3d6             |           4           |             2d6             |           4            |
+|   9   | +4  |            4d8             |           7           |            3d6             |           5           |             2d6             |           4            |
+|  10   | +4  |            4d10            |           7           |            3d6             |           5           |             3d6             |           4            |
+|  11   | +4  |            4d10            |           8           |            3d8             |           5           |             3d6             |           4            |
+|  12   | +4  |            4d10            |           8           |            3d8             |           5           |             3d6             |           4            |
+|  13   | +5  |            5d10            |           9           |            3d8             |           6           |             3d6             |           5            |
+|  14   | +5  |            5d10            |           9           |            3d8             |           6           |             3d6             |           5            |
+|  15   | +5  |            5d12            |          10           |            3d8             |           6           |             3d6             |           5            |
+|  16   | +5  |            5d12            |          10           |            3d8             |           6           |             3d8             |           5            |
+|  17   | +6  |            5d12            |          11           |            4d8             |           7           |             3d8             |           5            |
+|  18   | +6  |            6d12            |          11           |            4d8             |           7           |             3d8             |           5            |
+|  19   | +6  |            6d12            |          12           |            4d10            |           7           |             3d8             |           6            |
+|  20   | +6  |            6d12            |          12           |            4d10            |           7           |             3d8             |           6            |
+
+
+| Level | PB  | Full Martial Maneuver Dice | Full Martial Prepared | Full Martial Fighting Styles | Half Martial Maneuver Dice | Half Martial Prepared | Half Martial Fighting Styles | Third Martial Maneuver Dice | Third Martial Prepared | Third Martial Fighting Styles |
+| :---: | :-: | :------------------------: | :-------------------: | ---------------------------- | :------------------------: | :-------------------: | :--------------------------: | :-------------------------: | :--------------------: | :---------------------------: |
+|   1   | +2  |            2d4             |           2           | 1                            |            2d4             |           2           |              -               |             2d4             |           2            |               -               |
+|   2   | +2  |            2d4             |           3           | 1                            |            2d4             |           2           |              1               |             2d4             |           2            |               -               |
+|   3   | +2  |            2d6             |           4           | 1                            |            2d4             |           3           |              1               |             2d4             |           2            |               1               |
+|   4   | +2  |            3d6             |           4           | 1                            |            2d4             |           3           |              1               |             2d4             |           3            |               1               |
+|   5   | +3  |            3d6             |           5           | 2                            |            2d6             |           4           |              1               |             2d4             |           3            |               1               |
+|   6   | +3  |            3d8             |           5           | 2                            |            2d6             |           4           |              1               |             2d4             |           3            |               1               |
+|   7   | +3  |            3d8             |           6           | 2                            |            3d6             |           4           |              1               |             2d6             |           4            |               1               |
+|   8   | +3  |            3d8             |           6           | 2                            |            3d6             |           4           |              1               |             2d6             |           4            |               1               |
+|   9   | +4  |            4d8             |           7           | 2                            |            3d6             |           5           |              2               |             2d6             |           4            |               1               |
+|  10   | +4  |            4d10            |           7           | 2                            |            3d6             |           5           |              2               |             3d6             |           4            |               1               |
+|  11   | +4  |            4d10            |           8           | 3                            |            3d8             |           5           |              2               |             3d6             |           4            |               1               |
+|  12   | +4  |            4d10            |           8           | 3                            |            3d8             |           5           |              2               |             3d6             |           4            |               1               |
+|  13   | +5  |            5d10            |           9           | 3                            |            3d8             |           6           |              2               |             3d6             |           5            |               2               |
+|  14   | +5  |            5d10            |           9           | 3                            |            3d8             |           6           |              2               |             3d6             |           5            |               2               |
+|  15   | +5  |            5d12            |          10           | 3                            |            3d8             |           6           |              2               |             3d6             |           5            |               2               |
+|  16   | +5  |            5d12            |          10           | 3                            |            3d8             |           6           |              2               |             3d8             |           5            |               2               |
+|  17   | +6  |            5d12            |          11           | 4                            |            4d8             |           7           |              2               |             3d8             |           5            |               2               |
+|  18   | +6  |            6d12            |          11           | 4                            |            4d8             |           7           |              2               |             3d8             |           5            |               2               |
+|  19   | +6  |            6d12            |          12           | 4                            |            4d10            |           7           |              2               |             3d8             |           6            |               2               |
+|  20   | +6  |            6d12            |          12           | 4                            |            4d10            |           7           |              2               |             3d8             |           6            |               2               |
+
+
+### Multiclassing Rules
+
+#### Full Martial Classes
+
+[[Barbarian]]
+[[Blood Hunter]]
+[[Fighter]]
+[[Monk]]
+[[Rogue]]
+
+#### Half Martial Classes
+
+[[Artificer]]
+[[Paladin]]
+[[Rogue]]
+
+#### Third Martial Subclasses
+
+##### Bard
+[[Swords]]
+[[Valor]]
+
+##### Cleric
+Chose the *Divine Strike* option when the Blessed Strikes feature is received at level 7
+##### Wizard
+[[Bladesinging]]
+
+##### Warlock
+Took the Thirsting Blade Eldritch Invocation.
+
+If you take multiple levels in classes which possess maneuvers, add all of your martial levels with the following rules, rounding down for the total;
+
+Full - 1 Level per Level
+Half - 1/2 Level per Level
+Third - 1/3 Level per Level
+
+Fighting Styles are granted on a per-class basis. Shown here only for calibration purposes.
+
+Weapon Masteries are granted on a per-class basis.
+
+Weapon Masteries + Fighting styles occupy the "cantrip" band.
+
+
 ### First Degree
 #### Any Maneuver Die Size
 

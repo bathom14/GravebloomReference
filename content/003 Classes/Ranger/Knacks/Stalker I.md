@@ -1,0 +1,5 @@
+---
+title: Stalker I
+note_type: knack
+---
+You are a master at remaining undetected in the wilderness. You have advantage on Dexterity (Stealth) checks you make to hide while you are in natural environments.

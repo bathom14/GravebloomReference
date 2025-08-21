@@ -7,28 +7,28 @@ Fighters share an unparalleled mastery with weapons and armor, and a thorough kn
 
 You must have a [[Dexterity]] or [[Strength]] score of 13 or higher in order to multiclass in or out of this class.
 
-| Level | Prof. | Features                                                                       | Second Wind | Weapon Mastery | Maneuver Dice | Prepared Maneuvers |
-| ----- | ----- | ------------------------------------------------------------------------------ | ----------- | -------------- | :-----------: | :----------------: |
-| 1     | +2    | **Martial Maneuvers**, **Fighting Style**, **Second Wind**, **Weapon Mastery** | 2           | 3              |      2d4      |         2          |
-| 2     | +2    | **Action Surge (1)**, **Tactical Mind**                                        | 2           | 3              |      2d4      |         2          |
-| 3     | +2    | **Martial Archetype**                                                          | 2           | 3              |      2d6      |         3          |
-| 4     | +2    | **Ability Score Improvement**                                                  | 3           | 4              |      2d6      |         3          |
-| 5     | +3    | **Extra Attack (2 attacks)**, **Tactical Shift**, **Signature Weapon**         | 3           | 4              |      3d6      |         4          |
-| 6     | +3    | **Ability Score Improvement**                                                  | 3           | 4              |      3d8      |         4          |
-| 7     | +3    | **Archetype feature**                                                          | 3           | 4              |      3d8      |         5          |
-| 8     | +3    | **Ability Score Improvement**                                                  | 3           | 4              |      3d8      |         5          |
-| 9     | +4    | **Indomitable (1)**, **Signature Technique**                                   | 3           | 4              |      4d8      |         6          |
-| 10    | +4    | **Archetype feature**                                                          | 4           | 5              |     4d10      |         6          |
-| 11    | +4    | **Extra Attack (3 attacks)**, **Adaptive Tactician**                           | 4           | 5              |     4d10      |         7          |
-| 12    | +4    | **Ability Score Improvement**                                                  | 4           | 5              |     4d10      |         7          |
-| 13    | +5    | **Indomitable (2)**, **Studied Attacks**                                       | 4           | 5              |     5d10      |         8          |
-| 14    | +5    | **Ability Score Improvement**                                                  | 4           | 5              |     5d10      |         8          |
-| 15    | +5    | **Archetype feature**                                                          | 4           | 5              |     5d12      |         9          |
-| 16    | +5    | **Ability Score Improvement**                                                  | 4           | 6              |     5d12      |         9          |
-| 17    | +6    | **Action Surge (2)**, **Indomitable (3)**                                      | 4           | 6              |     6d12      |         10         |
-| 18    | +6    | **Archetype feature**                                                          | 4           | 6              |     6d12      |         10         |
-| 19    | +6    | **Ability Score Improvement**                                                  | 4           | 6              |     6d12      |         11         |
-| 20    | +6    | **Extra Attack (4 attacks)**                                                   | 4           | 6              |     6d12      |         11         |
+| Level | Prof. | Features                                                                       | Second Wind | Fighting Style | Weapon Mastery | Maneuver Dice | Prepared Maneuvers |
+| ----- | ----- | ------------------------------------------------------------------------------ | ----------- | -------------- | -------------- | :-----------: | :----------------: |
+| 1     | +2    | **Martial Maneuvers**, **Fighting Style**, **Second Wind**, **Weapon Mastery** | 2           | 1              | -              |      2d4      |         2          |
+| 2     | +2    | **Action Surge (1)**, **Tactical Mind**                                        | 2           | 1              | 3              |      2d4      |         3          |
+| 3     | +2    | **Martial Archetype**                                                          | 2           | 1              | 3              |      2d6      |         4          |
+| 4     | +2    | **Ability Score Improvement**                                                  | 3           | 1              | 3              |      3d6      |         4          |
+| 5     | +3    | **Extra Attack (2 attacks)**, **Tactical Shift**, **Signature Weapon**         | 3           | 1              | 4              |      3d6      |         5          |
+| 6     | +3    | **Ability Score Improvement**                                                  | 3           | 2              | 4              |      3d8      |         5          |
+| 7     | +3    | **Archetype feature**                                                          | 3           | 2              | 4              |      3d8      |         6          |
+| 8     | +3    | **Ability Score Improvement**                                                  | 3           | 2              | 4              |      3d8      |         6          |
+| 9     | +4    | **Indomitable (1)**, **Signature Technique**                                   | 3           | 2              | 4              |      4d8      |         7          |
+| 10    | +4    | **Archetype feature**                                                          | 4           | 2              | 5              |     4d10      |         7          |
+| 11    | +4    | **Extra Attack (3 attacks)**, **Adaptive Tactician**                           | 4           | 3              | 5              |     4d10      |         8          |
+| 12    | +4    | **Ability Score Improvement**                                                  | 4           | 3              | 5              |     4d10      |         8          |
+| 13    | +5    | **Indomitable (2)**, **Studied Attacks**                                       | 4           | 3              | 5              |     5d10      |         9          |
+| 14    | +5    | **Ability Score Improvement**                                                  | 4           | 3              | 5              |     5d10      |         9          |
+| 15    | +5    | **Archetype feature**                                                          | 4           | 3              | 5              |     5d12      |         10         |
+| 16    | +5    | **Ability Score Improvement**                                                  | 4           | 3              | 6              |     5d12      |         10         |
+| 17    | +6    | **Action Surge (2)**, **Indomitable (3)**                                      | 4           | 4              | 6              |     5d12      |         11         |
+| 18    | +6    | **Archetype feature**                                                          | 4           | 4              | 6              |     6d12      |         11         |
+| 19    | +6    | **Ability Score Improvement**                                                  | 4           | 4              | 6              |     6d12      |         12         |
+| 20    | +6    | **Extra Attack (4 attacks)**                                                   | 4           | 4              | 6              |     6d12      |         12         |
 
 ## Class Features
 
@@ -60,11 +60,11 @@ You start with the following equipment, in addition to the equipment granted by 
 
 ### Level 1: Weapon Mastery
 
-Your training with weapons allows you to use the mastery properties of three kinds of Simple or Martial weapons of your choice. Whenever you finish a Long Rest, you can practice weapon drills and change one of those weapon choices.
+Your training with weapons allows you to use the mastery properties of certain weapons. You may learn three [[Weapon Masteries]], which are each available on a number of different weapons. Each Weapon Mastery allows for an effect on a weapon attack, and you can only use one Mastery Property on each one of your attacks. 
 
-When you reach certain Fighter levels, you gain the ability to use the mastery properties of more kinds of weapons, as shown in the Weapon Mastery column of the Fighter Features table.
+Whenever you finish a Long Rest, you can practice weapon drills and change one of those weapon choices.
 
-*will be adjusted for stacking masteries on 1 weapon*
+When you reach certain Fighter levels, you gain the ability to use additional mastery properties, as shown in the Weapon Mastery column of the Fighter Features table.
 
 ### Level 1: Martial Maneuvers
 

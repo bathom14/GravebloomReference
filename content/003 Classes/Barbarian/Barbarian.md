@@ -5,25 +5,25 @@ _You must have a Strength score of 13 or higher in order to multiclass in or out
 | Level | Proficiency Bonus | Features                                                   | Rages     | Rage Damage | Weapon Mastery | Maneuver Die | Prepared Maneuvers |
 | ----- | ----------------- | ---------------------------------------------------------- | --------- | ----------- | -------------- | ------------ | ------------------ |
 | 1st   | +2                | Rage, Unarmored Defense, Weapon Mastery, Martial Maneuvers | 2         | 1d4         | 2              | 2d4          | 2                  |
-| 2nd   | +2                | Reckless Attack, Danger Sense                              | 2         | 1d4         | 2              | 2d4          | 2                  |
-| 3rd   | +2                | Primal Path, Primal Knowledge                              | 3         | 1d6         | 2              | 2d6          | 3                  |
-| 4th   | +2                | Ability Score Improvement                                  | 3         | 1d6         | 3              | 2d6          | 3                  |
-| 5th   | +3                | Extra Attack, Feral Instinct                               | 3         | 1d6         | 3              | 3d6          | 4                  |
-| 6th   | +3                | Path feature                                               | 4         | 1d8         | 3              | 3d8          | 4                  |
-| 7th   | +3                | Primal Rage                                                | 4         | 1d8         | 3              | 3d8          | 5                  |
-| 8th   | +3                | Ability Score Improvement                                  | 4         | 1d8         | 3              | 3d8          | 5                  |
-| 9th   | +4                | Rage-Guided Critical (19–20)                               | 4         | 1d8         | 3              | 4d8          | 6                  |
-| 10th  | +4                | Path feature, Primal Knowledge                             | 4         | 1d10        | 4              | 4d10         | 6                  |
-| 11th  | +4                | Brutal Maneuver, Unyielding Fury                           | 4         | 1d10        | 4              | 4d10         | 7                  |
-| 12th  | +4                | Ability Score Improvement                                  | 5         | 1d10        | 4              | 4d10         | 7                  |
-| 13th  | +5                | Rage-Guided Critical (18–20)                               | 5         | 1d10        | 4              | 5d10         | 8                  |
-| 14th  | +5                | Path feature                                               | 5         | 1d10        | 4              | 5d10         | 8                  |
-| 15th  | +5                | Persistent Rage                                            | 5         | 1d12        | 4              | 5d12         | 9                  |
-| 16th  | +5                | Ability Score Improvement                                  | 5         | 1d12        | 4              | 5d12         | 9                  |
-| 17th  | +6                | Rage-Guided Critical (17–20)                               | 6         | 1d12        | 4              | 6d12         | 10                 |
-| 18th  | +6                | Indomitable Might                                          | 6         | 1d12        | 4              | 6d12         | 10                 |
-| 19th  | +6                | Epic Boon                                                  | 6         | 1d12        | 4              | 6d12         | 11                 |
-| 20th  | +6                | Primal Champion                                            | Unlimited | 1d12        | 4              | 6d12         | 11                 |
+| 2nd   | +2                | Reckless Attack, Danger Sense                              | 2         | 1d4         | 2              | 2d4          | 3                  |
+| 3rd   | +2                | Primal Path, Primal Knowledge                              | 3         | 1d6         | 2              | 2d6          | 4                  |
+| 4th   | +2                | Ability Score Improvement                                  | 3         | 1d6         | 3              | 3d6          | 4                  |
+| 5th   | +3                | Extra Attack, Feral Instinct                               | 3         | 1d6         | 3              | 3d6          | 5                  |
+| 6th   | +3                | Path feature                                               | 4         | 1d8         | 3              | 3d8          | 5                  |
+| 7th   | +3                | Primal Rage                                                | 4         | 1d8         | 3              | 3d8          | 6                  |
+| 8th   | +3                | Ability Score Improvement                                  | 4         | 1d8         | 3              | 3d8          | 6                  |
+| 9th   | +4                | Rage-Guided Critical (19–20)                               | 4         | 1d8         | 3              | 4d8          | 7                  |
+| 10th  | +4                | Path feature, Primal Knowledge                             | 4         | 1d10        | 4              | 4d10         | 7                  |
+| 11th  | +4                | Brutal Maneuver, Unyielding Fury                           | 4         | 1d10        | 4              | 4d10         | 8                  |
+| 12th  | +4                | Ability Score Improvement                                  | 5         | 1d10        | 4              | 4d10         | 8                  |
+| 13th  | +5                | Rage-Guided Critical (18–20)                               | 5         | 1d10        | 4              | 5d10         | 9                  |
+| 14th  | +5                | Path feature                                               | 5         | 1d10        | 4              | 5d10         | 9                  |
+| 15th  | +5                | Persistent Rage                                            | 5         | 1d12        | 4              | 5d12         | 10                 |
+| 16th  | +5                | Ability Score Improvement                                  | 5         | 1d12        | 4              | 5d12         | 10                 |
+| 17th  | +6                | Rage-Guided Critical (17–20)                               | 6         | 1d12        | 4              | 5d12         | 11                 |
+| 18th  | +6                | Indomitable Might                                          | 6         | 1d12        | 4              | 6d12         | 11                 |
+| 19th  | +6                | Epic Boon                                                  | 6         | 1d12        | 4              | 6d12         | 12                 |
+| 20th  | +6                | Primal Champion                                            | Unlimited | 1d12        | 4              | 6d12         | 12                 |
 
 # Class Features
 

@@ -27,7 +27,7 @@ However, approximately twelve thousand years ago, a powerful group of elves know
 
 ### Wood Elf
 
-**Ability Score Increase**Your Wisdom score increases by 1.
+**Ability Score Increase** Your Wisdom score increases by 1.
 
 **Age.** On average, wood elves live about 400 years
 

@@ -8,26 +8,26 @@ _You must have an Intelligence score of 13 or higher in order to multiclass in o
 
 | Level | Proficiency Bonus | Features                                         | Infusions Known | Maneuver Dice | Prepared Maneuvers |
 | ----- | ----------------- | ------------------------------------------------ | --------------- | :-----------: | :----------------: |
-| 1st   | +2                | Magical Tinkering, Spellcasting                  | 2               |      1d4      |         2          |
-| 2nd   | +2                | Infuse Item                                      | 3               |      1d4      |         2          |
-| 3rd   | +2                | Artificer Specialist, The Right Tool for the Job | 3               |      1d4      |         2          |
-| 4th   | +2                | Ability Score Improvement                        | 3               |      1d4      |         2          |
-| 5th   | +3                | Artificer Specialist feature                     | 4               |      2d6      |         3          |
-| 6th   | +3                | Tool Expertise                                   | 4               |      2d6      |         3          |
-| 7th   | +3                | Flash of Genius                                  | 4               |      2d6      |         3          |
-| 8th   | +3                | Ability Score Improvement                        | 5               |      2d8      |         3          |
-| 9th   | +4                | Artificer Specialist feature                     | 5               |      2d8      |         4          |
-| 10th  | +4                | Magic Item Adept                                 | 5               |      2d8      |         4          |
-| 11th  | +4                | Spell-Storing Item                               | 6               |      2d8      |         4          |
-| 12th  | +4                | Ability Score Improvement                        | 6               |      2d8      |         4          |
-| 13th  | +5                | -                                                | 6               |     3d10      |         5          |
-| 14th  | +5                | Magic Item Savant                                | 7               |     3d10      |         5          |
-| 15th  | +5                | Artificer Specialist feature                     | 7               |     3d10      |         5          |
-| 16th  | +5                | Ability Score Improvement                        | 7               |     3d10      |         5          |
-| 17th  | +6                | -                                                | 8               |     3d10      |         6          |
-| 18th  | +6                | Magic Item Master                                | 8               |     3d12      |         6          |
-| 19th  | +6                | Ability Score Improvement                        | 8               |     3d12      |         6          |
-| 20th  | +6                | Soul of Artifice                                 | 8               |     3d12      |         6          |
+| 1st   | +2                | Magical Tinkering, Spellcasting                  | 2               |      2d4      |         2          |
+| 2nd   | +2                | Infuse Item                                      | 3               |      2d4      |         2          |
+| 3rd   | +2                | Artificer Specialist, The Right Tool for the Job | 3               |      2d4      |         3          |
+| 4th   | +2                | Ability Score Improvement                        | 3               |      2d4      |         3          |
+| 5th   | +3                | Artificer Specialist feature                     | 4               |      2d6      |         4          |
+| 6th   | +3                | Tool Expertise                                   | 4               |      2d6      |         4          |
+| 7th   | +3                | Flash of Genius                                  | 4               |      3d6      |         4          |
+| 8th   | +3                | Ability Score Improvement                        | 5               |      3d6      |         4          |
+| 9th   | +4                | Artificer Specialist feature                     | 5               |      3d6      |         5          |
+| 10th  | +4                | Magic Item Adept                                 | 5               |      3d6      |         5          |
+| 11th  | +4                | Spell-Storing Item                               | 6               |      3d8      |         5          |
+| 12th  | +4                | Ability Score Improvement                        | 6               |      3d8      |         5          |
+| 13th  | +5                | -                                                | 6               |      3d8      |         6          |
+| 14th  | +5                | Magic Item Savant                                | 7               |      3d8      |         6          |
+| 15th  | +5                | Artificer Specialist feature                     | 7               |      3d8      |         6          |
+| 16th  | +5                | Ability Score Improvement                        | 7               |      3d8      |         6          |
+| 17th  | +6                | -                                                | 8               |      4d8      |         7          |
+| 18th  | +6                | Magic Item Master                                | 8               |      4d8      |         7          |
+| 19th  | +6                | Ability Score Improvement                        | 8               |     4d10      |         7          |
+| 20th  | +6                | Soul of Artifice                                 | 8               |     4d10      |         7          |
 
 ## Spell Slots by Spell Level
 

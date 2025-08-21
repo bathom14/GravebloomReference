@@ -1,6 +1,6 @@
 # Hadozee
 
-**Ability Score Increase.** Your Dexterity increases by 2, and your Wisdom increases by 1
+**Ability Score Increase.** Your Dexterity increases by 2, and your Charisma increases by 1
 
 **Age.** Hadozee typically live to around 70 years of age
 

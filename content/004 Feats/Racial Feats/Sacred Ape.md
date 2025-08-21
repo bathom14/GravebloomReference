@@ -10,9 +10,9 @@ feat_feat_req: ""
 
 You are a Sacred Ape, a rare breed of Hadozee without the ability to glide. Sacred Apes manifest unique psionic powers, and often become monks or religious figures.
 
-* **No Patagium?** You loose the Glide feature of the Hadozee race. 
+* **No Patagium?** You loose the Glide feature of the Hadozee race. Your Charisma is reduced by 1, and your Wisdom is increased by 1.
 
-* **Enhanced Abilities.** You may increase your Intelligence, Wisdom, or Charisma score by 1. The ability score you choose to increase determines the Enhanced Ability score that is used for some of your psionic abilties.
+* **Enhanced Abilities.** You may increase your Intelligence, Wisdom, or Charisma score by 1. The ability score you choose to increase determines the Enhanced Ability score that is used for some of your psionic abilities.
 
 * **Psionic Simian.** The Sacred Apes are blessed with latent psionic abilities. You gain a Psionic Talent die, the starting size of which is a d6. The size of this Psionic Talent die will icrease to d8 (5th level), d10 (11th level), and d12 (17th level). You can use this Psionic Talent to perform psionic abilities, including the following below:
    - **Levitation.** If your Psionic Talent die is available, you may choose to expend your psionic energy to levitate using a bonus action. For a number of rounds (6 seconds) equal to the maximum roll value of your current Psionic Talent die, you gain a flying (hover) speed equal to your movespeed. You may not levitate while wearing medium or heavy armor. For the duration of this effect, you may use your Enhanced Ability score as the ability score to determine your carry capacity or how much you can push or lift. You may use a bonus action to end the effects of Levitation. When Levitation ends, you lose the hover property and immediately fall if elevated above the ground, taking damage if appropriate. Your Psionic Talent die decreases by one die size after you use levitation.

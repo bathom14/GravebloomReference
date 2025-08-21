@@ -1,0 +1,5 @@
+---
+title: Trapper
+note_type: knack
+---
+You can construct natural traps. Over the course of 1 hour, which can be during a short or long rest, you can use a knife, natural materials, and expend 10 feet of rope to craft a Trap. As an action, you can set one of these Traps in an adjacent unoccupied 5-foot space. The first Large or smaller creature to move into that space must succeed on a Dexterity saving throw against your Spell save DC or become restrained. As an action, the restrained creature, or another creature within 5 feet of it, can use an action to make a Strength check against your Spell save DC, freeing the creature on a success. As an action (separate from setting the Trap), you can hide the Trap. If hidden, a successful Intelligence (Investigation) against your Spell save DC is required to detect the Trap. Wild Insight I Wild Insight I You have a special insight into the mannerisms and sounds of wild animals. You can communicate with beasts as if you were always under the effect of a speak with animals spell.

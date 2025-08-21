@@ -8,13 +8,13 @@ You gain proficiency with alchemist's supplies and smith's tools. If you are alr
 
 You learn certain spells at the Artificer levels noted in the table below. These do not count against your total number of Spells Known and cannot be switched upon gaining a level.
 
-|Artificer Level|Spells|
-|---|---|
-|3rd|_chaos bolt_ *, _guiding bolt_|
-|5th|_acid arrow, arcane scorcher_|
-|9th|_conjure volley ll, lightning arrow ll_|
-|13th|_banishment, fire shield_|
-|17th|_skill empowerment_ *, _swift quiver ll_|
+| Artificer Level | Spells                                   |
+| --------------- | ---------------------------------------- |
+| 3rd             | _chaos bolt_ , _guiding bolt_            |
+| 5th             | _acid arrow, arcane scorcher_            |
+| 9th             | _conjure volley ll, lightning arrow ll_  |
+| 13th            | _banishment, fire shield_                |
+| 17th            | _skill empowerment_ *, _swift quiver ll_ |
 
 ### Level 3: Arcane Firearm
 
@@ -38,24 +38,20 @@ You can attack twice, instead of once, whenever you take the Attack action on yo
 
 ### Level 5: Increased Capacity
 
-_5th-levle Gunslinger Specialization feature_  
 You have improved your Firearm for efficient use in combat. You ignore the Loading property of your Arcane Firearm, but you must use your bonus action to reload it. You can make up to six attacks with your Firearm before you must reload.
 
 #### Overcharge
 
-_10th-level Gunslinger Specialization feature_  
 You can imbue your Arcane Firearm's attacks with additional explosive magic. Once per turn when you hit a target with an attack from your Arcane Firearm, you can expend a spell slot to cause that attack to deal bonus force damage to the target.
 
 This bonus damage is 2d6 for a 1st-level spell slot, plus an additional 1d6 force damage for each slot level above 1st.
 
 #### Quickdraw
 
-_10th-level Gunslinger Specialization feature_  
 You always seem to shoot first. You can add your Intelligence modifier (minimum of +1) to your initiative rolls. Also, if you roll initiative and are not surprised or incapacitated, you can use a reaction to make one attack with your Arcane Firearm.
 
 #### Master Gunslinger
 
-_15th-level Gunslinger Specialization feature_  
 Your skill with your Arcane Firearm is nearly supernatural in battle. You can use a bonus action on your turn to steady your breathing, granting you advantage on any attacks you make with your Arcane Firearm until the end of your current turn.
 
 Finally, once per turn when you make an attack with your Arcane Firearm with advantage, you can forgo the advantage to instead make one additional Arcane Firearm attack. You cannot gain advantage on this bonus attack.

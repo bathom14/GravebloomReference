@@ -6,26 +6,26 @@ _You must have a Dexterity score and a Wisdom score of 13 or higher in order to 
 
 | Level | Proficiency Bonus | Features                                                                                                          | Knacks Known | Quarry Die | Maneuver Dice | Prepared Maneuvers |
 | ----- | ----------------- | ----------------------------------------------------------------------------------------------------------------- | ------------ | ---------- | :-----------: | :----------------: |
-| 1st   | +2                | Favored Enemy, Natural Explorer, _Deft Explorer (Optional)_, _Favored Foe (Optional)_                             | 1            | 1d4        |      1d4      |         2          |
-| 2nd   | +2                | Fighting Style, Spellcasting, _Spellcasting Focus (Optional)_                                                     | 2            | 1d4        |      1d4      |         2          |
-| 3rd   | +2                | Primeval Awareness, Ranger Conclave, _Primal Awareness (Optional)_                                                | 3            | 1d4        |      1d4      |         2          |
-| 4th   | +2                | Ability Score Improvement, _Martial Versatility (Optional)_                                                       | 3            | 1d4        |      1d4      |         2          |
-| 5th   | +3                | Extra Attack                                                                                                      | 3            | 1d6        |      2d6      |         3          |
-| 6th   | +3                | Favored Enemy Improvement, Natural Explorer Improvement, _Deft Explorer Improvement (Optional)_                   | 4            | 1d6        |      2d6      |         3          |
-| 7th   | +3                | Ranger Conclave feature                                                                                           | 4            | 1d6        |      2d6      |         3          |
-| 8th   | +3                | Ability Score Improvement, Land's Stride, _Martial Versatility (Optional)_                                        | 4            | 1d8        |      2d8      |         3          |
-| 9th   | +4                |                                                                                                                   | 5            | 1d8        |      2d8      |         4          |
-| 10th  | +4                | Natural Explorer Improvement, Hide in Plain Sight, _Deft Explorer Feature (Optional)_, _Nature's Veil (Optional)_ | 5            | 1d8        |      2d8      |         4          |
-| 11th  | +4                | Ranger Conclave feature                                                                                           | 5            | 1d8        |      2d8      |         4          |
-| 12th  | +4                | Ability Score Improvement, _Martial Versatility (Optional)_                                                       | 6            | 1d8        |      2d8      |         4          |
-| 13th  | +5                |                                                                                                                   | 6            | 1d10       |     3d10      |         5          |
-| 14th  | +5                | Favored Enemy Improvement, Vanish                                                                                 | 7            | 1d10       |     3d10      |         5          |
-| 15th  | +5                | Ranger Conclave feature                                                                                           | 7            | 1d10       |     3d10      |         5          |
-| 16th  | +5                | Ability Score Improvement, _Martial Versatility (Optional)_                                                       | 8            | 1d10       |     3d10      |         5          |
-| 17th  | +6                |                                                                                                                   | 8            | 1d10       |     3d10      |         6          |
-| 18th  | +6                | Feral Senses                                                                                                      | 9            | 1d12       |     3d12      |         6          |
-| 19th  | +6                | Ability Score Improvement, _Martial Versatility (Optional)_                                                       | 9            | 1d12       |     3d12      |         6          |
-| 20th  | +6                | Foe Slayer                                                                                                        | 10           | 1d12       |     3d12      |         6          |
+| 1st   | +2                | Favored Enemy, Natural Explorer, _Deft Explorer (Optional)_, _Favored Foe (Optional)_                             | 1            | 1d4        |      2d4      |         2          |
+| 2nd   | +2                | Fighting Style, Spellcasting, _Spellcasting Focus (Optional)_                                                     | 2            | 1d4        |      2d4      |         2          |
+| 3rd   | +2                | Primeval Awareness, Ranger Conclave, _Primal Awareness (Optional)_                                                | 3            | 1d4        |      2d4      |         3          |
+| 4th   | +2                | Ability Score Improvement, _Martial Versatility (Optional)_                                                       | 3            | 1d4        |      2d4      |         3          |
+| 5th   | +3                | Extra Attack                                                                                                      | 3            | 1d6        |      2d6      |         4          |
+| 6th   | +3                | Favored Enemy Improvement, Natural Explorer Improvement, _Deft Explorer Improvement (Optional)_                   | 4            | 1d6        |      2d6      |         4          |
+| 7th   | +3                | Ranger Conclave feature                                                                                           | 4            | 1d6        |      3d6      |         4          |
+| 8th   | +3                | Ability Score Improvement, Land's Stride, _Martial Versatility (Optional)_                                        | 4            | 1d8        |      3d6      |         4          |
+| 9th   | +4                |                                                                                                                   | 5            | 1d8        |      3d6      |         5          |
+| 10th  | +4                | Natural Explorer Improvement, Hide in Plain Sight, _Deft Explorer Feature (Optional)_, _Nature's Veil (Optional)_ | 5            | 1d8        |      3d6      |         5          |
+| 11th  | +4                | Ranger Conclave feature                                                                                           | 5            | 1d8        |      3d8      |         5          |
+| 12th  | +4                | Ability Score Improvement, _Martial Versatility (Optional)_                                                       | 6            | 1d8        |      3d8      |         5          |
+| 13th  | +5                |                                                                                                                   | 6            | 1d10       |      3d8      |         6          |
+| 14th  | +5                | Favored Enemy Improvement, Vanish                                                                                 | 7            | 1d10       |      3d8      |         6          |
+| 15th  | +5                | Ranger Conclave feature                                                                                           | 7            | 1d10       |      3d8      |         6          |
+| 16th  | +5                | Ability Score Improvement, _Martial Versatility (Optional)_                                                       | 8            | 1d10       |      3d8      |         6          |
+| 17th  | +6                |                                                                                                                   | 8            | 1d10       |      4d8      |         7          |
+| 18th  | +6                | Feral Senses                                                                                                      | 9            | 1d12       |      4d8      |         7          |
+| 19th  | +6                | Ability Score Improvement, _Martial Versatility (Optional)_                                                       | 9            | 1d12       |     4d10      |         7          |
+| 20th  | +6                | Foe Slayer                                                                                                        | 10           | 1d12       |     4d10      |         7          |
 
 ## Spell Slots per Spell Level
 

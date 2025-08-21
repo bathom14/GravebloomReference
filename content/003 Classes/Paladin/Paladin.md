@@ -5,26 +5,26 @@ _You must have a Charisma score and a Strength score of 13 or higher in order to
 
 | Level | Proficiency Bonus | Features                                                      | Channel Divinity | Aura Radius | Maneuver Dice | Prepared Maneuvers |
 | ----- | ----------------- | ------------------------------------------------------------- | ---------------- | ----------- | :-----------: | :----------------: |
-| 1st   | +2                | Divine Sense, Lay on Hands                                    | -                | —           |      1d4      |         2          |
-| 2nd   | +2                | Fighting Style, Spellcasting, Divine Smite                    | -                | —           |      1d4      |         2          |
-| 3rd   | +2                | Divine Health, Sacred Oath, _Harness Divine Power (Optional)_ | 2                | —           |      1d4      |         2          |
-| 4th   | +2                | Ability Score Improvement, _Martial Versatility (Optional)_   | 2                | —           |      1d4      |         2          |
-| 5th   | +3                | Extra Attack                                                  | 2                | —           |      2d6      |         3          |
-| 6th   | +3                | Aura of Protection                                            | 2                | 10 ft.      |      2d6      |         3          |
-| 7th   | +3                | Sacred Oath feature                                           | 2                | 10 ft.      |      2d6      |         3          |
-| 8th   | +3                | Ability Score Improvement, _Martial Versatility (Optional)_   | 2                | 10 ft.      |      2d8      |         3          |
-| 9th   | +4                |                                                               | 2                | 15 ft.      |      2d8      |         4          |
-| 10th  | +4                | Aura of Courage                                               | 2                | 15 ft.      |      2d8      |         4          |
-| 11th  | +4                | Improved Divine Smite                                         | 3                | 15 ft.      |      2d8      |         4          |
-| 12th  | +4                | Ability Score Improvement, _Martial Versatility (Optional)_   | 3                | 20 ft.      |      2d8      |         4          |
-| 13th  | +5                |                                                               | 3                | 20 ft.      |     3d10      |         5          |
-| 14th  | +5                | Cleansing Touch                                               | 3                | 20 ft.      |     3d10      |         5          |
-| 15th  | +5                | Sacred Oath feature                                           | 3                | 25 ft.      |     3d10      |         5          |
-| 16th  | +5                | Ability Score Improvement, _Martial Versatility (Optional)_   | 3                | 25 ft.      |     3d10      |         5          |
-| 17th  | +6                |                                                               | 3                | 25 ft.      |     3d10      |         6          |
-| 18th  | +6                | Aura improvements                                             | 3                | 30 ft.      |     3d12      |         6          |
-| 19th  | +6                | Ability Score Improvement, _Martial Versatility (Optional)_   | 3                | 30 ft.      |     3d12      |         6          |
-| 20th  | +6                | Sacred Oath feature                                           | 3                | 30 ft.      |     3d12      |         6          |
+| 1st   | +2                | Divine Sense, Lay on Hands                                    | -                | —           |      2d4      |         2          |
+| 2nd   | +2                | Fighting Style, Spellcasting, Divine Smite                    | -                | —           |      2d4      |         2          |
+| 3rd   | +2                | Divine Health, Sacred Oath, _Harness Divine Power (Optional)_ | 2                | —           |      2d4      |         3          |
+| 4th   | +2                | Ability Score Improvement, _Martial Versatility (Optional)_   | 2                | —           |      2d4      |         3          |
+| 5th   | +3                | Extra Attack                                                  | 2                | —           |      2d6      |         4          |
+| 6th   | +3                | Aura of Protection                                            | 2                | 10 ft.      |      2d6      |         4          |
+| 7th   | +3                | Sacred Oath feature                                           | 2                | 10 ft.      |      3d6      |         4          |
+| 8th   | +3                | Ability Score Improvement, _Martial Versatility (Optional)_   | 2                | 10 ft.      |      3d6      |         4          |
+| 9th   | +4                |                                                               | 2                | 15 ft.      |      3d6      |         5          |
+| 10th  | +4                | Aura of Courage                                               | 2                | 15 ft.      |      3d6      |         5          |
+| 11th  | +4                | Improved Divine Smite                                         | 3                | 15 ft.      |      3d8      |         5          |
+| 12th  | +4                | Ability Score Improvement, _Martial Versatility (Optional)_   | 3                | 20 ft.      |      3d8      |         5          |
+| 13th  | +5                |                                                               | 3                | 20 ft.      |      3d8      |         6          |
+| 14th  | +5                | Cleansing Touch                                               | 3                | 20 ft.      |      3d8      |         6          |
+| 15th  | +5                | Sacred Oath feature                                           | 3                | 25 ft.      |      3d8      |         6          |
+| 16th  | +5                | Ability Score Improvement, _Martial Versatility (Optional)_   | 3                | 25 ft.      |      3d8      |         6          |
+| 17th  | +6                |                                                               | 3                | 25 ft.      |      4d8      |         7          |
+| 18th  | +6                | Aura improvements                                             | 3                | 30 ft.      |      4d8      |         7          |
+| 19th  | +6                | Ability Score Improvement, _Martial Versatility (Optional)_   | 3                | 30 ft.      |     4d10      |         7          |
+| 20th  | +6                | Sacred Oath feature                                           | 3                | 30 ft.      |     4d10      |         7          |
 
 ## Spell Slots per Spell Level
 

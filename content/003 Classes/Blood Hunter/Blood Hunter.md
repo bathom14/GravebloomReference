@@ -8,25 +8,25 @@ _If your blood hunter is part of the Order of the Profane Soul and also has warl
 | Level | Proficiency Bonus | Features                                         | Hemocraft Die | Blood Rites Known | Weapon Mastery | Maneuver Die | Prepared Maneuvers |
 | ----- | ----------------- | ------------------------------------------------ | ------------- | ----------------- | -------------- | ------------ | ------------------ |
 | 1st   | +2                | Hunter’s Bane, Weapon Mastery, Martial Maneuvers | —             | —                 | 2              | 2d4          | 2                  |
-| 2nd   | +2                | Fighting Style, Hemocraft, Vital Sacrifice       | 1d4           | 2                 | 2              | 2d4          | 2                  |
-| 3rd   | +2                | Blood Hunter Order                               | 1d6           | 2                 | 2              | 2d6          | 3                  |
-| 4th   | +2                | Ability Score Improvement                        | 1d6           | 2                 | 3              | 2d6          | 3                  |
-| 5th   | +3                | Extra Attack, Sanguine Reperfusion               | 1d6           | 3                 | 3              | 3d6          | 4                  |
-| 6th   | +3                | Brand of Castigation, Grim Psychometry           | 1d8           | 3                 | 3              | 3d8          | 4                  |
-| 7th   | +3                | Order Feature                                    | 1d8           | 3                 | 3              | 3d8          | 5                  |
-| 8th   | +3                | Ability Score Improvement                        | 1d8           | 3                 | 3              | 3d8          | 5                  |
-| 9th   | +4                | Tainted Lore (Grim Psychometry)                  | 1d8           | 4                 | 3              | 4d8          | 6                  |
-| 10th  | +4                | Dark Augmentation                                | 1d10          | 4                 | 4              | 4d10         | 6                  |
-| 11th  | +4                | Improved Crimson Maledict, Vital Control         | 1d10          | 4                 | 4              | 4d10         | 7                  |
-| 12th  | +4                | Ability Score Improvement                        | 1d10          | 4                 | 4              | 4d10         | 7                  |
-| 13th  | +5                | Order Feature                                    | 1d10          | 5                 | 4              | 5d10         | 8                  |
-| 14th  | +5                | Brand of Tethering                               | 1d10          | 5                 | 4              | 5d10         | 8                  |
-| 15th  | +5                | Hardened Soul                                    | 1d12          | 5                 | 4              | 5d12         | 9                  |
-| 16th  | +5                | Ability Score Improvement                        | 1d12          | 5                 | 4              | 5d12         | 9                  |
-| 17th  | +6                | Expert Invocation                                | 1d12          | 6                 | 4              | 6d12         | 10                 |
-| 18th  | +6                | Order Feature                                    | 1d12          | 6                 | 4              | 6d12         | 10                 |
-| 19th  | +6                | Ability Score Improvement                        | 1d12          | 6                 | 4              | 6d12         | 11                 |
-| 20th  | +6                | Sanguine Mastery                                 | 1d12          | 6                 | 4              | 6d12         | 11                 |
+| 2nd   | +2                | Fighting Style, Hemocraft, Vital Sacrifice       | 1d4           | 2                 | 2              | 2d4          | 3                  |
+| 3rd   | +2                | Blood Hunter Order                               | 1d6           | 2                 | 2              | 2d6          | 4                  |
+| 4th   | +2                | Ability Score Improvement                        | 1d6           | 2                 | 3              | 3d6          | 4                  |
+| 5th   | +3                | Extra Attack, Sanguine Reperfusion               | 1d6           | 3                 | 3              | 3d6          | 5                  |
+| 6th   | +3                | Brand of Castigation, Grim Psychometry           | 1d8           | 3                 | 3              | 3d8          | 5                  |
+| 7th   | +3                | Order Feature                                    | 1d8           | 3                 | 3              | 3d8          | 6                  |
+| 8th   | +3                | Ability Score Improvement                        | 1d8           | 3                 | 3              | 3d8          | 6                  |
+| 9th   | +4                | Tainted Lore (Grim Psychometry)                  | 1d8           | 4                 | 3              | 4d8          | 7                  |
+| 10th  | +4                | Dark Augmentation                                | 1d10          | 4                 | 4              | 4d10         | 7                  |
+| 11th  | +4                | Improved Crimson Maledict, Vital Control         | 1d10          | 4                 | 4              | 4d10         | 8                  |
+| 12th  | +4                | Ability Score Improvement                        | 1d10          | 4                 | 4              | 4d10         | 8                  |
+| 13th  | +5                | Order Feature                                    | 1d10          | 5                 | 4              | 5d10         | 9                  |
+| 14th  | +5                | Brand of Tethering                               | 1d10          | 5                 | 4              | 5d10         | 9                  |
+| 15th  | +5                | Hardened Soul                                    | 1d12          | 5                 | 4              | 5d12         | 10                 |
+| 16th  | +5                | Ability Score Improvement                        | 1d12          | 5                 | 4              | 5d12         | 10                 |
+| 17th  | +6                | Expert Invocation                                | 1d12          | 6                 | 4              | 5d12         | 11                 |
+| 18th  | +6                | Order Feature                                    | 1d12          | 6                 | 4              | 6d12         | 11                 |
+| 19th  | +6                | Ability Score Improvement                        | 1d12          | 6                 | 4              | 6d12         | 12                 |
+| 20th  | +6                | Sanguine Mastery                                 | 1d12          | 6                 | 4              | 6d12         | 12                 |
 
 # Class Features
 
@@ -161,7 +161,7 @@ Starting at 5th level, you can attack twice, instead of once, whenever you take 
 
 ### Level 5: Sanguine Reperfusion
 
-Whenever you perform a Vital Sacrifice, you may recover one of your expended Maneuver Dice. You also gain temporary hit points equal to the amount of maximum hit points you lost.
+Whenever you perform a Vital Sacrifice, you gain temporary hit points equal to the amount of maximum hit points you lost.
 
 ### Level 6: Brand of Castigation
 
@@ -200,9 +200,9 @@ Your skill with the Crimson Maledict has improved, and your Crimson Maledict Vit
 
 ### Level 11: Vital Control
 
-Also at 11th level, you gain a greater measure of control over your blood magic. Whenever you make a Vital Sacrifice, you can roll your Hemocraft Die twice and choose which result to use. 
+Also at 11th level, you gain a greater measure of control over your blood magic. Whenever you make a Vital Sacrifice, you can roll your Hemocraft Die twice and choose which result to use. You also may recover one of your expended Maneuver Dice. 
 
-Also, once between each long rest, you can empower one Blood Rite you know without making a Vital Sacrifice.
+Additionally, once between each long rest, you can empower one Blood Rite you know without making a Vital Sacrifice.
 
 ### Level 14: Brand of Tethering
 

@@ -2,9 +2,9 @@
 
 **Ability Score Increase.** Your Constitution score increases by 2, and one other ability score of your choice increases by 1.
 
-**Age.** The age of the Warforged is uncertain, and they do not show any outward signs of aging
+**Age.** The age of the Soulcast is uncertain, and they do not show any outward signs of aging
 
-**Alignment.** Warforged typically dislike High Elves. Their alignment varies otherwise.
+**Alignment.** Soulcast typically dislike High Elves. Their alignment varies otherwise.
 
 **Creature Type.** You are a Humanoid.
 
@@ -27,6 +27,6 @@
 * You can don only armor with which you have proficiency. To don armor, you must incorporate it into your body over the course of 1 hour, during which you must remain in contact with the armor. To doff armor, you must spend 1 hour removing it. You can rest while donning or doffing armor in this way.
 * While you live, your armor can't be removed from your body against your will.
 
-**Specialized Design.** You gain onThe skill proficiency and one weapon proficiency of your choice.
+**Specialized Design.** You gain one skill proficiency and one weapon proficiency of your choice.
 
 **Languages.** You can speak, read, and write Common and one other language of your choice.
