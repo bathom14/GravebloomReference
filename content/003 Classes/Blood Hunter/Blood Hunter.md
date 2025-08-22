@@ -71,9 +71,11 @@ If your choice doesn't apply to that creature, your DM will reveal another relev
 
 ### Level 1: Weapon Mastery
 
-Your training with weapons allows you to use the mastery properties of two kinds of Simple or Martial Melee weapons of your choice, such as Greataxes and Handaxes. Whenever you finish a Long Rest, you can practice weapon drills and change one of those weapon choices.
+Your training with weapons allows you to use the mastery properties of certain weapons. You may learn two [[Weapon Masteries]], which are each available on a number of different weapons. Each Weapon Mastery allows for an effect on a weapon attack, and you can only use one Mastery Property on each one of your attacks. 
 
-When you reach certain Blood Hunter levels, you gain the ability to use the mastery properties of more kinds of weapons, as shown in the Weapon Mastery column of the Blood Hunter Features table.
+Whenever you gain a level in Blood Hunter, you may change one of the Weapon Masteries you know with a different Weapon Mastery.
+
+When you reach certain Blood Hunter levels, you gain the ability to use additional mastery properties, as shown in the Weapon Mastery column of the Fighter Features table.
 
 ### Level 1: Martial Maneuvers
 

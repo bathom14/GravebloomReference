@@ -20,7 +20,7 @@
 
 **Thick Hide.** You have thick, leathery skin. When you aren't wearing armor, your AC is 13 + your Constitution modifier. You can use your natural armor to determine your AC if the armor you wear would leave you with a lower AC. A shield's benefits apply as normal while you use your natural armor.
 
-**Headfirst Charge.** Immediately after you use the Dash   action on your turn and move at least 20 feet straight  towards a target on your turn, you can make a special unarmed attack with your hippo-like head as a bonus action.The target must be within 5 feet of you and no more than one size larger than you. It must succeed on a Strength saving throw against a DC equal to 8 + your proficiency bonus + your Strength modifier or take bludgeoning damage equal to 1d6 + your Strength modifier and be knocked prone.
+**Headfirst Charge.** Immediately after you use the Dash action on your turn and move at least 20 feet straight  towards a target on your turn, you can make a special unarmed attack with your hippo-like head as a bonus action.The target must be within 5 feet of you and no more than one size larger than you. It must succeed on a Strength saving throw against a DC equal to 8 + your proficiency bonus + your Strength modifier or take bludgeoning damage equal to 1d6 + your Strength modifier and be knocked prone.
 
 **Languages.** You can speak, read, and write Dwarvish and one other language that you and your DM agree is appropriate.
 

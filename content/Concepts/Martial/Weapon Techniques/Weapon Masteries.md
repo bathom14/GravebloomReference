@@ -1,47 +1,48 @@
 
-| _Weapons_             | Damage          | Core Properties                                        | Mastery Properties                              |
-| :-------------------- | :-------------- | :----------------------------------------------------- | ----------------------------------------------- |
-| Club                  | 1d4 bludgeoning | Light                                                  | Slow, Push, Sap                                 |
-| Dagger                | 1d4 piercing    | Finesse, light, thrown (range 20/60)                   | Flurry, Guard, Pinpoint                         |
-| Greatclub             | 1d8 bludgeoning | Two-handed                                             | Push, Sap, Slow                                 |
-| Handaxe               | 1d6 slashing    | Light, thrown (range 20/60)                            | Lacerate, Maim, Slow                            |
-| Javelin               | 1d6 piercing    | Thrown (range 30/120)                                  | Slow, Expose, Vex                               |
-| Light hammer          | 1d4 bludgeoning | Light, thrown (range 20/60)                            | Pinpoint, Slow, Sap                             |
-| Mace                  | 1d6 bludgeoning | -                                                      | Sap, Push, Expose                               |
-| Quarterstaff          | 1d6 bludgeoning | Versatile (1d8)                                        | Topple (2H), Push (1H), Expose, Guard           |
-| Sickle                | 1d4 slashing    | Light                                                  | Guard, Sap, Vex                                 |
-| Spear                 | 1d6 piercing    | Thrown, versatile (1d8)                                | Topple (2H), Push (1H), Rush, Pinpoint          |
-| Crossbow, light       | 1d8 piercing    | Ammunition (range 80/320), loading, two-handed         | Expose, Slow                                    |
-| Dart                  | 1d4 piercing    | Finesse, thrown (range 20/60)                          | Graze, Flurry                                   |
-| Shortbow              | 1d6 piercing    | Ammunition (range 80/320), two-handed                  | Pinpoint, Vex                                   |
-| Sling                 | 1d4 bludgeoning | Ammunition (range 30/120)                              | Slow, Sap                                       |
-| ***Martial Weapons*** | **Damage**      | **Core Properties**                                    | **Mastery Properties**                          |
-| Arming dagger         | 1d4 piercing    | Finesse, light, thrown (range 20/60)                   | Flurry, Guard, Pinpoint, Vex                    |
-| Battleaxe             | 1d8 slashing    | Versatile (1d10)                                       | Cleave, Lacerate, Maim,  Topple (2H), Slow (1H) |
-| Fighting Knife        | 1d4 slashing    | Finesse, light, thrown (range 20/60)                   | Graze, Flurry, Lacerate, Vex                    |
-| Flail                 | 1d8 bludgeoning | -                                                      | Cleave, Graze, Sap, Topple                      |
-| Glaive                | 1d10 slashing   | Heavy, reach, two-handed                               | Graze, Topple, Push, Rush                       |
-| Greataxe              | 1d12 slashing   | Heavy, two-handed                                      | Cleave, Lacerate, Maim, Topple                  |
-| Greatsword            | 2d6 slashing    | Heavy, two-handed                                      | Cleave, Graze, Lacerate, Vex                    |
-| Halberd               | 1d10 slashing   | Heavy, reach, two-handed                               | Cleave, Topple, Push, Rush                      |
-| Lance                 | 1d12 piercing   | Reach, special                                         | Expose, Maim, Pinpoint,  Rush                   |
-| Longsword             | 1d8 slashing    | Versatile (1d10)                                       | Graze (2H), Guard, Lacerate, Sap (1H), Vex      |
-| Maul                  | 2d6 bludgeoning | Heavy, two-handed                                      | Cleave, Maim, Push, Topple                      |
-| Morningstar           | 1d8 piercing    | -                                                      | Expose, Lacerate, Push, Sap                     |
-| Pike                  | 1d10 piercing   | Heavy, reach, two-handed                               | Topple, Push, Rush, Expose                      |
-| Rapier                | 1d8 piercing    | Finesse                                                | Flurry, Guard, Pinpoint, Vex                    |
-| Scimitar              | 1d6 slashing    | Finesse, light                                         | Graze, Guard, Lacerate, Vex                     |
-| Shortsword            | 1d6 piercing    | Finesse, light                                         | Guard, Lacerate, Sap, Vex                       |
-| Trident               | 1d6 piercing    | Thrown (20/60), versatile (1d8)                        | Guard, Topple (2H), Push (1H), Rush, Pinpoint   |
-| War pick              | 1d8 piercing    | -                                                      | Maim, Pinpoint, Slow, Sap                       |
-| Warhammer             | 1d8 bludgeoning | Versatile (1d8)                                        | Maim, Pinpoint, Slow (1H), Sap, Topple (2H),    |
-| War spear             | 1d8             | Thrown, versatile (1d10)                               | Expose, Pinpoint, Push (1H), Topple (2H), Rush  |
-| Whip                  | 1d4 slashing    | Finesse, reach                                         | Graze, Expose, Topple, Vex                      |
-| Blowgun               | 1 piercing      | Ammunition (range 25/100), loading                     | Sap, Slow, Expose                               |
-| Crossbow, hand        | 1d6 piercing    | Ammunition (range 30/120), light, loading              | Expose, Slow, Vex                               |
-| Crossbow, heavy       | 1d10 piercing   | Ammunition (range 100/400), heavy, loading, two-handed | Expose, Lacerate, Slow                          |
-| Longbow               | 1d8 piercing    | Ammunition (range 150/600), heavy, two-handed          | Lacerate, Pinpoint, Vex                         |
-| Recurve bow           | 1d6 piercing    | Ammunition (range 100/400), two-handed                 | Flurry, Pinpoint, Vex                           |
+| _Weapons_             | Damage           | Core Properties                                        | Mastery Properties                              |
+| :-------------------- | :--------------- | :----------------------------------------------------- | ----------------------------------------------- |
+| Club                  | 1d4 bludgeoning  | Light                                                  | Slow, Push, Sap                                 |
+| Dagger                | 1d4 piercing     | Finesse, light, thrown (range 20/60)                   | Flurry, Guard, Pinpoint                         |
+| Greatclub             | 1d8 bludgeoning  | Two-handed                                             | Push, Sap, Slow                                 |
+| Handaxe               | 1d6 slashing     | Light, thrown (range 20/60)                            | Lacerate, Maim, Slow                            |
+| Javelin               | 1d6 piercing     | Thrown (range 30/120)                                  | Expose, Pinpoint, Slow                          |
+| Light hammer          | 1d4 bludgeoning  | Light, thrown (range 20/60)                            | Pinpoint, Slow, Sap                             |
+| Mace                  | 1d6 bludgeoning  | -                                                      | Sap, Push, Expose                               |
+| Quarterstaff          | 1d6 bludgeoning  | Versatile (1d8)                                        | Topple (2H), Push (1H), Expose, Guard           |
+| Sickle                | 1d4 slashing     | Light                                                  | Guard, Sap, Vex                                 |
+| Spear                 | 1d6 piercing     | Thrown (range 20/60), versatile (1d8)                  | Topple (2H), Push (1H), Rush, Pinpoint          |
+| Crossbow, light       | 1d8 piercing     | Ammunition (range 80/320), loading, two-handed         | Expose, Slow                                    |
+| Dart                  | 1d4 piercing     | Finesse, thrown (range 20/60)                          | Graze, Flurry                                   |
+| Shortbow              | 1d6 piercing     | Ammunition (range 80/320), two-handed                  | Pinpoint, Vex                                   |
+| Sling                 | 1d4 bludgeoning  | Ammunition (range 30/120)                              | Slow, Sap                                       |
+| ***Martial Weapons*** | **Damage**       | **Core Properties**                                    | **Mastery Properties**                          |
+| Arming dagger         | 1d4 piercing     | Finesse, light, thrown (range 20/60)                   | Flurry, Guard, Pinpoint, Vex                    |
+| Battleaxe             | 1d8 slashing     | Versatile (1d10)                                       | Cleave, Lacerate, Maim,  Topple (2H), Slow (1H) |
+| Fighting Knife        | 1d4 slashing     | Finesse, light, thrown (range 20/60)                   | Graze, Flurry, Lacerate, Vex                    |
+| Glaive                | 1d10 slashing    | Heavy, reach, two-handed                               | Graze, Topple, Push, Rush                       |
+| Greataxe              | 1d12 slashing    | Heavy, two-handed                                      | Cleave, Lacerate, Maim, Topple                  |
+| Greatsword            | 2d6 slashing     | Heavy, two-handed                                      | Cleave, Graze, Lacerate, Vex                    |
+| Halberd               | 1d10 slashing    | Heavy, reach, two-handed                               | Cleave, Topple, Push, Rush                      |
+| Hand Flail            | 1d8 bludgeoning  | -                                                      | Cleave, Graze, Sap, Topple                      |
+| Lance                 | 1d12 piercing    | Reach, special                                         | Expose, Maim, Pinpoint,  Rush                   |
+| Longsword             | 1d8 slashing     | Versatile (1d10)                                       | Graze (2H), Guard, Lacerate, Sap (1H), Vex      |
+| Maul                  | 2d6 bludgeoning  | Heavy, two-handed                                      | Cleave, Maim, Push, Topple                      |
+| Morningstar           | 1d8 piercing     | -                                                      | Expose, Lacerate, Push, Sap                     |
+| Pike                  | 1d10 piercing    | Heavy, reach, two-handed                               | Topple, Push, Rush, Expose                      |
+| Rapier                | 1d8 piercing     | Finesse                                                | Flurry, Guard, Pinpoint, Vex                    |
+| Scimitar              | 1d6 slashing     | Finesse, light                                         | Graze, Guard, Lacerate, Vex                     |
+| Shortsword            | 1d6 piercing     | Finesse, light                                         | Guard, Lacerate, Sap, Vex                       |
+| Trident               | 1d8 piercing     | Thrown (20/60), versatile (1d10)                       | Guard, Topple (2H), Push (1H), Rush, Pinpoint   |
+| War flail             | 1d10 bludgeoning | Heavy, reach, two-handed                               | Cleave, Graze, Sap, Topple                      |
+| War pick              | 1d8 piercing     | -                                                      | Maim, Pinpoint, Slow, Sap                       |
+| War spear             | 1d8 piercing     | Thrown (range 20/60), versatile (1d10)                 | Expose, Pinpoint, Push (1H), Topple (2H), Rush  |
+| Warhammer             | 1d8 bludgeoning  | Versatile (1d8)                                        | Maim, Pinpoint, Slow (1H), Sap, Topple (2H),    |
+| Whip                  | 1d4 slashing     | Finesse, reach                                         | Graze, Expose, Topple, Vex                      |
+| Blowgun               | 1 piercing       | Ammunition (range 25/100), loading                     | Sap, Slow, Expose                               |
+| Crossbow, hand        | 1d6 piercing     | Ammunition (range 30/120), light, loading              | Expose, Slow, Vex                               |
+| Crossbow, heavy       | 1d10 piercing    | Ammunition (range 100/400), heavy, loading, two-handed | Expose, Lacerate, Slow                          |
+| Longbow               | 1d8 piercing     | Ammunition (range 150/600), heavy, two-handed          | Lacerate, Pinpoint, Vex                         |
+| Recurve bow           | 1d6 piercing     | Ammunition (range 100/400), two-handed                 | Flurry, Pinpoint, Vex                           |
 
 
 | Mastery  | Description                                                                                                                                                                                                                                                                                                                                                                                               |
