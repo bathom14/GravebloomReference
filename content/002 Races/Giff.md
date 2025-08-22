@@ -14,7 +14,7 @@
 
 **Blessing of Jakkar.** According to the Cult of the Blackaxe, the divine power of Jakkar courses through the blood of all Giff and can be channeled through weaponry. When you hit a target with a simple or martial weapon, you can cause the target to take extra force damage equal to your proficiency bonus. You can use this trait a number of times equal to your proficiency bonus, but you can use it no more than once per turn. You regain all expended uses when you finish a long rest.
 
-**Firearms Mastery.** You have a mystical connection to firearms that traces back to the legend of the Blackaxe. You have proficiency with all firearms, and attacking while within 5 feet of a hostile creature with a firearm doesn't impose disadvantage on your attack roll. Once per turn you may reload a number of pieces of ammunition equal to one-half of your proficiency bonus, rounded down, into a firearm you are wielding as a free action.
+**Firearms Mastery.** You have a mystical connection to firearms that traces back to the legend of the Blackaxe. You have proficiency with all firearms, and attacking while within 5 feet of a hostile creature with a firearm doesn't impose disadvantage on your attack roll. Once per turn you may reload a number of pieces of ammunition equal to one-half of your proficiency bonus, rounded down, into a firearm you are wielding as a bonus action.
 
 **Hippo Build.** You have advantage on Strength-based ability checks and Strength saving throws. In addition, you count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
 
