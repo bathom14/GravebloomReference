@@ -1,0 +1,17 @@
+---
+title: Harm
+note_type: spell
+level: 6
+school: Necromancy
+classes: []
+casting_time: 1 action
+range: 60 feet
+components: V, S
+duration: Instantaneous
+ritual: false
+concentration: false
+source: XPHB p.283
+---
+*Necromancy spell level 6*
+
+You unleash virulent magic on a creature you can see within range. The target makes a Constitution saving throw. On a failed save, it takes {@damage 14d6} Necrotic damage, and its {@variantrule Hit Points|XPHB|Hit Point} maximum is reduced by an amount equal to the Necrotic damage it took. On a successful save, it takes half as much damage only. This spell can't reduce a target's {@variantrule Hit Points|XPHB|Hit Point} maximum below 1.
