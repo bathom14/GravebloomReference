@@ -1,0 +1,20 @@
+| Barbarian Level | Sorcery Points | Spells Known | Maximum Slot Level |
+| --------------- | -------------- | ------------ | ------------------ |
+| 3rd             | 5              | 2            | 1st                |
+| 4th             | 8              | 3            | 1st                |
+| 5th             | 8              | 3            | 1st                |
+| 6th             | 8              | 3            | 1st                |
+| 7th             | 17             | 4            | 2nd                |
+| 8th             | 17             | 4            | 2nd                |
+| 9th             | 17             | 4            | 2nd                |
+| 10th            | 21             | 5            | 2nd                |
+| 11th            | 21             | 5            | 2nd                |
+| 12th            | 21             | 5            | 2nd                |
+| 13th            | 32             | 6            | 3rd                |
+| 14th            | 32             | 6            | 3rd                |
+| 15th            | 32             | 6            | 3rd                |
+| 16th            | 38             | 7            | 3rd                |
+| 17th            | 38             | 7            | 3rd                |
+| 18th            | 38             | 7            | 3rd                |
+| 19th            | 45             | 8            | 4th                |
+| 20th            | 45             | 8            | 4th                |
