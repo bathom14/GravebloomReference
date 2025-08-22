@@ -15,16 +15,16 @@ _You must have an Intelligence, Wisdom, or Charisma score of 13 or higher in ord
 | 8th   | +3                | Ability Score Improvement                             | 6                 | 3              | 9            | 2           | 4th        |
 | 9th   | +4                | -                                                     | 7                 | 3              | 10           | 2           | 5th        |
 | 10th  | +4                | Otherworldly Patron feature                           | 7                 | 4              | 10           | 2           | 5th        |
-| 11th  | +4                | Mystic Arcanum (6th level)                            | 7                 | 4              | 11           | 3           | 5th        |
+| 11th  | +4                | Mystic Arcanum (6th level)                            | 8                 | 4              | 11           | 3           | 5th        |
 | 12th  | +4                | Ability Score Improvement                             | 8                 | 4              | 11           | 3           | 5th        |
-| 13th  | +5                | Mystic Arcanum (7th level)                            | 8                 | 4              | 12           | 3           | 5th        |
-| 14th  | +5                | Otherworldly Patron feature                           | 8                 | 4              | 12           | 3           | 5th        |
-| 15th  | +5                | Mystic Arcanum (8th level)                            | 9                 | 4              | 13           | 3           | 5th        |
-| 16th  | +5                | Ability Score Improvement                             | 9                 | 4              | 13           | 3           | 5th        |
-| 17th  | +6                | Mystic Arcanum (9th level)                            | 9                 | 4              | 14           | 4           | 5th        |
-| 18th  | +6                | -                                                     | 10                | 4              | 14           | 4           | 5th        |
-| 19th  | +6                | Ability Score Improvement                             | 10                | 4              | 15           | 4           | 5th        |
-| 20th  | +6                | Eldritch Master                                       | 10                | 4              | 15           | 4           | 5th        |
+| 13th  | +5                | Mystic Arcanum (7th level)                            | 9                 | 4              | 12           | 3           | 5th        |
+| 14th  | +5                | Otherworldly Patron feature                           | 9                 | 4              | 12           | 3           | 5th        |
+| 15th  | +5                | Mystic Arcanum (8th level)                            | 10                | 4              | 13           | 3           | 5th        |
+| 16th  | +5                | Ability Score Improvement                             | 10                | 4              | 13           | 3           | 5th        |
+| 17th  | +6                | Mystic Arcanum (9th level)                            | 11                | 4              | 14           | 4           | 5th        |
+| 18th  | +6                | -                                                     | 11                | 4              | 14           | 4           | 5th        |
+| 19th  | +6                | Ability Score Improvement                             | 12                | 4              | 15           | 4           | 5th        |
+| 20th  | +6                | Eldritch Master                                       | 13                | 4              | 15           | 4           | 5th        |
 
 # Class Features
 

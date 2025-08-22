@@ -144,12 +144,12 @@ When you receive this feature at the 2nd level, you have access to the following
 
 At 3rd level, you commit to an order of blood hunters whose philosophy will guide you throughout your life. The order you choose grants you features at 3rd level, and again at 7th, 11th, 15th, and 18th level.
 
-| Order                                                              |
-| ------------------------------------------------------------------ |
-| [Ghostslayer](http://dnd5e.wikidot.com/blood-hunter:ghostslayer)   |
-| [Lycan](http://dnd5e.wikidot.com/blood-hunter:lycan)               |
-| [Mutant](http://dnd5e.wikidot.com/blood-hunter:mutant)             |
-| [Profane Soul](http://dnd5e.wikidot.com/blood-hunter:profane-soul) |
+| Order            |
+| ---------------- |
+| [[Ghostslayer]]  |
+| [[Lycan]]        |
+| [[Mutant]]       |
+| [[Profane Soul]] |
 
 ### Level 4: Ability Score Improvement
 

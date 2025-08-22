@@ -1,3 +1,3 @@
 *Prerequisite: None*
 
-You can cast Mage Armor on yourself without expending a spell slot.
+You can cast [[Mage Armor]] on yourself without expending a spell slot.
