@@ -17,7 +17,7 @@ _You must have a Dexterity score and a Wisdom score of 13 or higher in order to 
 | 9th   | +4                |                                                                                                                   | 5            | 1d8        |      3d6      |         5          |
 | 10th  | +4                | Natural Explorer Improvement, Hide in Plain Sight, _Deft Explorer Feature (Optional)_, _Nature's Veil (Optional)_ | 5            | 1d8        |      3d6      |         5          |
 | 11th  | +4                | Ranger Conclave feature                                                                                           | 5            | 1d8        |      3d8      |         5          |
-| 12th  | +4                | Ability Score Improvement, _Martial Versatility (Optional)_                                                       | 6            | 1d8        |      3d8      |         5          |
+| 12th  | +4                | Ability Score Improvement,                                                                                        | 6            | 1d8        |      3d8      |         5          |
 | 13th  | +5                |                                                                                                                   | 6            | 1d10       |      3d8      |         6          |
 | 14th  | +5                | Favored Enemy Improvement, Vanish                                                                                 | 7            | 1d10       |      3d8      |         6          |
 | 15th  | +5                | Ranger Conclave feature                                                                                           | 7            | 1d10       |      3d8      |         6          |
@@ -111,17 +111,6 @@ In the wild, you have learned bits of primal knowledge, known as Knacks, which b
 Whenever you gain a Ranger level, you can replace one Knack you know with a Knack of your choice, so long as you meet the prerequisites for that Knack. You cannot replace a Knack that is a prerequisite for another Knack you know.
 
 At certain Ranger levels, you learn additional Knacks, as shown in the Knacks Known column of the Ranger table.
-### Favored Foe (Optional)
-
-This 1st-level feature replaces the Favored Enemy feature and works with the Foe Slayer feature. You gain no benefit from the replaced feature and don't qualify for anything in the game that requires it.
-
-When you hit a creature with an attack roll, you can call on your mystical bond with nature to mark the target as your favored enemy for 1 minute or until you lose your concentration (as if you were concentrating on a spell).
-
-The first time on each of your turns that you hit the favored enemy and deal damage to it, including when you mark it, you increase that damage by 1d4.
-
-You can use this feature to mark a favored enemy a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
-
-This feature's extra damage increases when you reach certain levels in this class: to 1d6 at 6th level and to 1d8 at 14th level.
 
 ### Level 1: Wild Expertise
 

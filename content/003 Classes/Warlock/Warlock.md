@@ -3,28 +3,28 @@
 _You must have an Intelligence, Wisdom, or Charisma score of 13 or higher in order to multiclass in or out of this class (dependent on your Patron Spellcasting Ability)._
 
 
-| Level | Proficiency Bonus | Features                        | Invocations Known | Cantrips Known | Spells Known | Spell Slots | Slot Level |
-| ----- | ----------------- | ------------------------------- | ----------------- | -------------- | ------------ | ----------- | ---------- |
-| 1st   | +2                | Otherworldly Patron, Pact Magic | -                 | 2              | 2            | 1           | 1st        |
-| 2nd   | +2                | Eldritch Invocations            | 3                 | 2              | 3            | 2           | 1st        |
-| 3rd   | +2                |                                 | 3                 | 2              | 4            | 2           | 2nd        |
-| 4th   | +2                | Ability Score Improvement       | 3                 | 3              | 5            | 2           | 2nd        |
-| 5th   | +3                |                                 | 5                 | 3              | 6            | 2           | 3rd        |
-| 6th   | +3                | Otherworldly Patron feature     | 5                 | 3              | 7            | 2           | 3rd        |
-| 7th   | +3                |                                 | 6                 | 3              | 8            | 2           | 4th        |
-| 8th   | +3                | Ability Score Improvement       | 6                 | 3              | 9            | 2           | 4th        |
-| 9th   | +4                |                                 | 7                 | 3              | 10           | 2           | 5th        |
-| 10th  | +4                | Otherworldly Patron feature     | 7                 | 4              | 10           | 2           | 5th        |
-| 11th  | +4                | Mystic Arcanum (6th level)      | 7                 | 4              | 11           | 3           | 5th        |
-| 12th  | +4                | Ability Score Improvement       | 8                 | 4              | 11           | 3           | 5th        |
-| 13th  | +5                | Mystic Arcanum (7th level)      | 8                 | 4              | 12           | 3           | 5th        |
-| 14th  | +5                | Otherworldly Patron feature     | 8                 | 4              | 12           | 3           | 5th        |
-| 15th  | +5                | Mystic Arcanum (8th level)      | 9                 | 4              | 13           | 3           | 5th        |
-| 16th  | +5                | Ability Score Improvement       | 9                 | 4              | 13           | 3           | 5th        |
-| 17th  | +6                | Mystic Arcanum (9th level)      | 9                 | 4              | 14           | 4           | 5th        |
-| 18th  | +6                |                                 | 10                | 4              | 14           | 4           | 5th        |
-| 19th  | +6                | Ability Score Improvement       | 10                | 4              | 15           | 4           | 5th        |
-| 20th  | +6                | Eldritch Master                 | 10                | 4              | 15           | 4           | 5th        |
+| Level | Proficiency Bonus | Features                                              | Invocations Known | Cantrips Known | Spells Known | Spell Slots | Slot Level |
+| ----- | ----------------- | ----------------------------------------------------- | ----------------- | -------------- | ------------ | ----------- | ---------- |
+| 1st   | +2                | Otherworldly Patron, Pact Magic, Eldritch Invocations | 1                 | 2              | 2            | 1           | 1st        |
+| 2nd   | +2                | Magical Cunning                                       | 2                 | 2              | 3            | 2           | 1st        |
+| 3rd   | +2                | Otherworldly Patron Feature                           | 3                 | 2              | 4            | 2           | 2nd        |
+| 4th   | +2                | Ability Score Improvement                             | 3                 | 3              | 5            | 2           | 2nd        |
+| 5th   | +3                | -                                                     | 5                 | 3              | 6            | 2           | 3rd        |
+| 6th   | +3                | Otherworldly Patron feature                           | 5                 | 3              | 7            | 2           | 3rd        |
+| 7th   | +3                | -                                                     | 6                 | 3              | 8            | 2           | 4th        |
+| 8th   | +3                | Ability Score Improvement                             | 6                 | 3              | 9            | 2           | 4th        |
+| 9th   | +4                | -                                                     | 7                 | 3              | 10           | 2           | 5th        |
+| 10th  | +4                | Otherworldly Patron feature                           | 7                 | 4              | 10           | 2           | 5th        |
+| 11th  | +4                | Mystic Arcanum (6th level)                            | 7                 | 4              | 11           | 3           | 5th        |
+| 12th  | +4                | Ability Score Improvement                             | 8                 | 4              | 11           | 3           | 5th        |
+| 13th  | +5                | Mystic Arcanum (7th level)                            | 8                 | 4              | 12           | 3           | 5th        |
+| 14th  | +5                | Otherworldly Patron feature                           | 8                 | 4              | 12           | 3           | 5th        |
+| 15th  | +5                | Mystic Arcanum (8th level)                            | 9                 | 4              | 13           | 3           | 5th        |
+| 16th  | +5                | Ability Score Improvement                             | 9                 | 4              | 13           | 3           | 5th        |
+| 17th  | +6                | Mystic Arcanum (9th level)                            | 9                 | 4              | 14           | 4           | 5th        |
+| 18th  | +6                | -                                                     | 10                | 4              | 14           | 4           | 5th        |
+| 19th  | +6                | Ability Score Improvement                             | 10                | 4              | 15           | 4           | 5th        |
+| 20th  | +6                | Eldritch Master                                       | 10                | 4              | 15           | 4           | 5th        |
 
 # Class Features
 
@@ -103,11 +103,11 @@ Your Patron Spellcasting Ability dictates your spellcasting ability for your war
 
 You can use an arcane focus as a spellcasting focus for your warlock spells.
 
-### Level 2: Eldritch Invocations
+### Level 1: Eldritch Invocations
 
 In your study of occult lore, you have unearthed [Eldritch Invocations](https://dnd5e.wikidot.com/warlock:eldritch-invocations), fragments of forbidden knowledge that imbue you with an abiding magical ability.
 
-At 2nd level, you gain three eldritch invocations of your choice. When you gain certain warlock levels, you gain additional invocations of your choice, as shown in the Invocations Known column of the Warlock table. A level prerequisite refers to your level in this class.
+At 1st level, you gain one eldritch invocation of your choice. When you gain certain warlock levels, you gain additional invocations of your choice, as shown in the Invocations Known column of the Warlock table. A level prerequisite refers to your level in this class.
 
 Additionally, when you gain a level in this class, you can choose one of the invocations you know and replace it with another invocation that you could learn at that level.
 

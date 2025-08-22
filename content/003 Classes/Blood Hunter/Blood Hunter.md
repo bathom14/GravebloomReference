@@ -1,4 +1,4 @@
-**_Blood hunters are clever warriors driven by an unending determination to destroy evils old and new. Armed with rites of secretive blood magic and a willingness to sacrifice their own vitality and humanity for their cause, they protect the realms from the shadows — even as they remain ever vigilant against being drawn to the darkness that consumes the monsters they hunt._**
+B**_Blood hunters are clever warriors driven by an unending determination to destroy evils old and new. Armed with rites of secretive blood magic and a willingness to sacrifice their own vitality and humanity for their cause, they protect the realms from the shadows — even as they remain ever vigilant against being drawn to the darkness that consumes the monsters they hunt._**
 
 _You must have an Intelligence score of 13 or higher and a Strength or Dexterity score of 13 or higher in order to multiclass in or out of this class._
 
@@ -11,8 +11,8 @@ _If your blood hunter is part of the Order of the Profane Soul and also has warl
 | 2nd   | +2                | Fighting Style, Hemocraft, Vital Sacrifice       | 1d4           | 2                 | 2              | 2d4          | 3                  |
 | 3rd   | +2                | Blood Hunter Order                               | 1d6           | 2                 | 2              | 2d6          | 4                  |
 | 4th   | +2                | Ability Score Improvement                        | 1d6           | 2                 | 3              | 3d6          | 4                  |
-| 5th   | +3                | Extra Attack, Sanguine Reperfusion               | 1d6           | 3                 | 3              | 3d6          | 5                  |
-| 6th   | +3                | Brand of Castigation, Grim Psychometry           | 1d8           | 3                 | 3              | 3d8          | 5                  |
+| 5th   | +3                | Extra Attack, Grim Psychometry                   | 1d6           | 3                 | 3              | 3d6          | 5                  |
+| 6th   | +3                | Brand of Castigation, Sanguine Reperfusion       | 1d8           | 3                 | 3              | 3d8          | 5                  |
 | 7th   | +3                | Order Feature                                    | 1d8           | 3                 | 3              | 3d8          | 6                  |
 | 8th   | +3                | Ability Score Improvement                        | 1d8           | 3                 | 3              | 3d8          | 6                  |
 | 9th   | +4                | Tainted Lore (Grim Psychometry)                  | 1d8           | 4                 | 3              | 4d8          | 7                  |
@@ -123,9 +123,9 @@ Some class features and Blood Rites use your Hemocraft Die, which starts as a d4
 
 ##### Saving Throws
 
-If a Blood Rite requires a creature to make a saving throw to resist its effects, you use your Hemocraft save DC, as shown below:
+If a Blood Rite requires a creature to make a saving throw to resist its effects, you use your Hemocraft ability (Intelligence) to calculate your Hemocraft save DC, as shown below:
 
-**Hemocraft save DC** = 8 + your proficiency bonus + your Intelligence modifier
+**Hemocraft save DC** = 8 + your proficiency bonus + your Hemocraft (Intelligence) modifier
 
 ### Level 2: Vital Sacrifice
 
@@ -161,7 +161,15 @@ Using the optional feats rule, you can forgo taking this feature to take a feat 
 
 Starting at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 
-### Level 5: Sanguine Reperfusion
+### Level 6: Grim Psychometry
+
+Your familiarity with dark magic allows you to decipher the influence of similar effects. At 5th level, you can use alchemist's supplies to cast _[[identify]]_ as a ritual. When you do so, you also learn if the object is cursed.
+
+At 9th level, you also gain the following Vital Sacrifice option:
+
+**Tainted Lore.** You may make a Vital Sacrifice to cast _[[legend lore]]_ without expending a spell slot. When you do so, you use your alchemist's supplies as the material components, and your target is an object or creature you touch, or your current location. When you use Tainted Lore, the target can have an evil, violent, or cursed history instead of legendary importance. 
+
+### Level 6: Sanguine Reperfusion
 
 Whenever you perform a Vital Sacrifice, you gain temporary hit points equal to the amount of maximum hit points you lost.
 
@@ -181,14 +189,6 @@ Once you use this feature you must complete a short or long rest before you can 
 You also gain the following Vital Sacrifice ability:
 
 **Replenish Brand of Castigation.** When you have exhausted your use of a Brand of Castigation, you may make a Vital Sacrifice as part of its invocation to utilize it an additional time.
-
-### Level 6: Grim Psychometry
-
-Your familiarity with dark magic allows you to decipher the influence of similar effects. At 6th level, you can use alchemist's supplies to cast _[[identify]]_ as a ritual. When you do so, you also learn if the object is cursed.
-
-At 9th level, you also gain the following Vital Sacrifice option:
-
-**Tainted Lore.** You may make a Vital Sacrifice to cast _[[legend lore]]_ without expending a spell slot. When you do so, you use your alchemist's supplies as the material components, and your target is an object or creature you touch, or your current location. When you use Tainted Lore, the target can have an evil, violent, or cursed history instead of legendary importance. 
 
 ### Level 10: Dark Augmentation
 
@@ -224,4 +224,4 @@ You have become an expert in the art of the Blood Rite, allowing you to invoke e
 
 You have gained unparalleled mastery over the dark power of your blood magic, improving its potency while minimizing the sacrifices required. At 20th level, whenever you roll a Hemocraft Die for another Blood Rite or a Blood Hunter ability, you roll your Hemocraft Die twice and choose which result to use.
 
-Finally, whenever you make a Vital Sacrifice, you subtract your Intelligence modifier from your Vital Sacrifice roll before you reduce your maximum hit points. This cannot reduce your Vital Sacrifice below 1.
+Finally, whenever you make a Vital Sacrifice, you subtract your Hemocraft modifier from your Vital Sacrifice roll before you reduce your maximum hit points. This cannot reduce your Vital Sacrifice below 1.
