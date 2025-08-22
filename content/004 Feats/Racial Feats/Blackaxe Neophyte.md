@@ -18,12 +18,18 @@ You are inducted into the Cult of the Blackaxe as a neophyte and you are deemed 
 
 ### Neophyte of the Blackaxe
 
-|                     |    Cost    |    Type   | Weight| Properties |
-|:-------------------:|:----------:|:------------|:-----:|:----------:|
-| ***Training Blackaxe*** | *Priceless,(estimated 1600 gp)* | *martial firearm, 2d8 piercing*| *88 lbs*     |  *ammunition (85/180), hippo-sized, magazine 1, Blackaxe(1d12), reach, two-handed, break-action, iron (10), pole barrel (1), pip sight, sling*    |
-|***Blackaxe Shell (12)***| *3 gp* | *Ammunition* | *1 oz each.*| |
-|***Blackaxe Slug (12)***| *5 gp*|*Ammunition*|*1 oz each.*| Attack becomes 2d6 piercing, but it's range is now doubled|
-|***Blackaxe Birdshot (12)***| *7 gp*|*Ammunition*|*1 oz each.*| Attack becomes 4d4 piercing|
+#### *Training Blackaxe*
+
+|          Item           |              Cost               | Type                            |  Weight  |                                                                  Properties                                                                   | Mastery Properties             |
+| :---------------------: | :-----------------------------: | :------------------------------ | :------: | :-------------------------------------------------------------------------------------------------------------------------------------------: | ------------------------------ |
+| ***Training Blackaxe*** | *Priceless,(estimated 1600 gp)* | *martial firearm, 2d8 piercing* | *88 lbs* | *ammunition (85/180), hippo-sized, magazine 1, Blackaxe(1d12), reach, two-handed, break-action, iron (10), pole barrel (1), pip sight, sling* | Cleave, Lacerate, Maim, Topple |
+#### *Neophyte Support*
+
+|             Item             |  Cost  | Type         |    Weight    |                         Properties                         |
+| :--------------------------: | :----: | :----------- | :----------: | :--------------------------------------------------------: |
+|  ***Blackaxe Shell (12)***   | *3 gp* | *Ammunition* | *1 oz each.* |                                                            |
+|   ***Blackaxe Slug (12)***   | *5 gp* | *Ammunition* | *1 oz each.* | Attack becomes 2d6 piercing, but it's range is now doubled |
+| ***Blackaxe Birdshot (12)*** | *7 gp* | *Ammunition* | *1 oz each.* |                Attack becomes 4d4 piercing                 |
 
 ***Break-Action Boomstick.*** :: The Training Blackaxe is a two-handed break-action martial firearm that deals 2d8 piercing damage and uses shells for ammunition. The Training Blackaxe has one barrel, giving it a magazine of 1. It may be fired once before reloading. As an action, you may reload the firearm.  You may also reload the firearm using two bonus actions. It has a range of 85/180.
 
