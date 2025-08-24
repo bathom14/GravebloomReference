@@ -1,0 +1,35 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-monster
+tags:
+- 5e/compendium/src/5e/wdmm
+- 5e/monster/cr/0
+- 5e/monster/size/medium
+- 5e/monster/type/humanoid/human
+aliases:
+- Rabbithead
+---
+# Rabbithead
+*Source: Waterdeep: Dungeon of the Mad Mage p. 295*  
+
+```ad-statblock
+title: Rabbithead
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/WDMM/Rabbithead.webp#token)
+*Medium humanoid (human), Unaligned*
+
+- **Armor Class** 10
+- **Hit Points** 4 (`1d8`)
+- **Speed** 30 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Senses** passive Perception 10
+- **Languages** —
+- **Challenge** 0
+```
+^statblock

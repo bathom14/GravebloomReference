@@ -1,0 +1,21 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-item
+tags:
+- 5e/compendium/src/5e/xphb
+- 5e/item/gear/artisans-tools
+- 5e/item/rarity/none
+aliases: 
+- "Jeweler's Tools"
+---
+# Jeweler's Tools
+*Artisan's tools*  
+
+- **Cost**: 25 gp
+- **Weight**: 2.0 lbs.
+
+- **Ability.** Intelligence  
+- **Utilize.** Discern a gem's value (DC 15)  
+- **Craft.** [Arcane Focus](compendium/5e/items/arcane-focus.md), [Holy Symbol](compendium/5e/items/holy-symbol.md)  
+
+*Source: Player's Handbook (2024) p. 220. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

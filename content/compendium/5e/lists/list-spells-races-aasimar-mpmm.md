@@ -1,0 +1,13 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-note
+tags:
+- 5e/spell/list/race/aasimar
+aliases:
+- Spells for Aasimar
+---
+# Spells for Aasimar
+
+## Cantrip
+
+- [Light](compendium/5e/spells/light.md "XPHB") as cantrip

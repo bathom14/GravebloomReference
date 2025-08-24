@@ -1,6 +1,6 @@
 # Hobgoblin
 
-**Ability Score Increase.** Increase Constitution by 2, and Charisma by 1.
+**Ability Score Increase.** Increase Constitution by 2, and Intelligence by 1.
 
 **Age.** Hobgoblins, similar to goblins, experience growth throughout their lives. However, this process slows down dramatically when a hobgoblin reaches 12 years of age and typically occurs in a much more proportional way. Once this growth has slowed, hobgoblins begin to age in a way similar to other races, living as long as 120 years
 
@@ -20,12 +20,14 @@
 
 * **Bolster.** You and the target of your Help action each gain a number of temporary hit points equal to 1d6 plus your proficiency bonus.
 
-* **Maneuver.** You and the target of your Help action each increase your walking speeds by 10 feet until the start of your next turn.
+* **Reposition.** You and the target of your Help action each increase your walking speeds by 10 feet until the start of your next turn.
 
 * **Hinder.** Until the start of your next turn, the first time you or the target of your Help action hits a creature with an attack roll, that creature has disadvantage on the next attack roll that it makes within the next minute.
 
-**Strength in Numbers.** If you miss with an attack roll or fail an ability check or a saving throw, you can draw on your bonds of reciprocity to gain a bonus to the roll equal to the number of allies you can see within 30 feet of you (maximum bonus of +5). You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses you finish a long rest.
+**Strength in Numbers.** Hobgoblins are careful not to show weakness in front of their allies, for fear of losing status. If you miss with an attack roll or fail an ability check or a saving throw, you can gain a bonus to the roll equal to the number of allies you can see within 30 feet of you (maximum bonus of +5). You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses you finish a long rest.
 
 **Weapon of Choice.** You gain one martial weapon proficiency of your choice and proficiency with light armor.
+
+**Master Combatant.** You learn one [[Weapon Masteries|Weapon Mastery]] property of your choice.
 
 **Languages.** Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character.

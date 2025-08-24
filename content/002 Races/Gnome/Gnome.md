@@ -1,0 +1,81 @@
+# Gnome
+
+**Ability Score Increase.** Your Constitution score increases by 1.
+
+**Age.** Gnomes mature at the same rate as humans, and most are expected to settle into adult life around the age of 40. They can live to 200 years on average, but it's not too uncommon for them to reach 250 years of age.
+
+**Alignment.** Gnomes tend to revel in mischief and disrupting the order of things, depending on their inclination.They tend towards Chaotic natures.
+
+**Creature Type.** You are a Humanoid
+
+**Size.** Gnomes are between 3 and 4 feet tall and weigh around 40 pounds. Your size is Small.
+
+**Speed.** Your base walking speed is 25 feet.
+
+**Darkvision.** Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+
+**Gnome Cunning.** You have advantage on all Intelligence, Wisdom, and Charisma saves against magic
+
+**Languages.** You can read, speak, and write Gnomish and one other language that you and your DM are appropriate for your character.
+
+**Subrace.** Gnomes tend to live on one of a few islands, with their variety determined by their homeland. There exist both Rock and Forest gnomes. choose a subrace.
+
+### Rock Gnome
+
+**Ability Score Increase.** Your Intelligence score increases by 2.
+
+**Additional Language.** You can read, speak, and write Dwarvish.
+
+**Artificer's Lore.** Whenever you make an Intelligence check related to magical, alchemical, or technological items, you can add twice your proficiency bonus instead of any other proficiency bonus that may apply.
+
+**Mechanically Inclined.** You know the [Mending](http://dnd5e.wikidot.com/spell:mending) cantrip. When you reach third level, you can cast the [Fabricate](http://dnd5e.wikidot.com/spell:fabricate) spell once per long rest. When you reach fifth level, you can cast the [Leumond’s Secret Chest](http://dnd5e.wikidot.com/spell:leomunds-secret-chest) spell once per long rest. When you reach seventh level, you may cast the [Creation](http://dnd5e.wikidot.com/spell:creation) spell once per long rest. Intelligence is your spellcasting ability for these spells.
+
+**Tinker.** You have proficiency with artisan tools (tinker's tools). Using those tools, you can spend 1 hour and 10 gp worth of materials to construct a Tiny clockwork device (AC 5, 1 hp). The device ceases to function after 24 hours (unless you spend 1 hour repairing it to keep the device functioning), or when you use your action to dismantle it; at that time, you can reclaim the materials used to create it. You can have up to three such devices active at a time. When you create a device, choose one of the following options:
+* **Clockwork Toy.** This toy is a clockwork animal, monster, or person, such as a frog, mouse, bird, dragon, or soldier. When placed on the ground, the toy moves 5 feet across the ground on each of your turns in a random direction. It makes noises as appropriate to the creature it represents.
+* **Fire Starter.** The device produces a miniature flame, which you can use to light a candle, torch, or campfire. Using the device requires your action.
+
+* **Music Box.** When opened, this music box plays a single song at a moderate volume. The box stops playing when it reaches the song's end or when it is closed.
+
+* **Portable Cauldron.** This device allows may chill, warm, or flavor up to 1 cubic foot of nonliving material for 1 hour.
+
+* **Alarm.** This device senses when a creature moves to within 15 feet of it without speaking aloud a password chosen when you create it. One round after a creature moves into range, the alarm makes a shrill ringing that lasts for 1 minute and can be heard from up to 300 feet away.
+
+* **Calculator.** This device makes doing sums easy.
+
+* **Timekeeper.** This pocket watch keeps accurate time.
+
+* **Weather Sensor.** When used as an action, this device predicts weather conditions in a 1-mile radius over the next 4 hours, showing one symbol (clouds, sun/moon, rain, or snow) for each hour.
+
+* **Lifter.** This device can be used as a block and tackle, allowing its user to hoist five times the weight the user can normally lift.
+* At your DM's discretion, you may make other objects with effects similar in power to these. The Prestidigitation cantrip is a good baseline for such effects.
+
+### Forest Gnome
+**Ability Score Increase.** Your Wisdom score increases by 2.
+
+**Mischievous Nature.** You know the [Minor Illusion](http://dnd5e.wikidot.com/spell:minor-illusion) and [Mold Earth](http://dnd5e.wikidot.com/spell:mold-earth) cantrips. When you reach third level, you can cast the [Enlarge/Reduce](http://dnd5e.wikidot.com/spell:enlarge-reduce) spell once per long rest. When you reach fifth level, you can cast [Speak with Plants](http://dnd5e.wikidot.com/spell:speak-with-plants) once per long rest. Wisdom is your spellcasting modifier for these spells.
+
+**Silent Speech.** You can speak telepathically to any creature within 30 feet of you that you are aware of. The creature understands the meaning of your words if it is capable of reasoning at that level. This is a one way communication, but the creature may respond back by other means. It does not inherently know where the telepathic speech is coming from.
+
+**Natural Mycologist.** You gain proficiency with the Herbalism Kit. When in an area where mushrooms may be found, you may forage for mushrooms once per long rest. By spending 1 hour, you may roll a number of d4 equal to your proficiency bonus. Referring to the table below, you may collect one mushroom with a value at or below the number you rolled. If you rolled a greater number than was required for that mushroom, you may collect an additional number of mushrooms of the same type equal to the difference.
+
+* As an action, a creature can consume the mushroom or administer it to an incapacitated creature. The effects of the mushroom are considered magic. The effects of the mushroom do not apply to Constructs or Undead.
+
+* If any effect would modify the result of the forage roll, the final value may not exceed 24.
+
+#### Mushroom Table
+Roll a number of d4 equal to your proficiency bonus. Then, select a mushrom with a roll value equal to or less than than your roll. If your roll exceeds the roll value of the mushroom you selected, you recieve a number of additional mushrooms of the same type equal to the difference between your rolled total and the roll value of the mushroom you selected.
+
+| Roll |                                                                                                                                                                                                                                                                                                                                             Mushroom                                                                                                                                                                                                                                                                                                                                             | Wt. |
+| :--: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-: |
+|  2   |                                                                                                                                                                                                                                                                  **Poison.** The consumer takes 2d4 poison damage and must succeed on a DC 12 Constitution saving throw. On a failed save, they become poisoned for 10 minutes.                                                                                                                                                                                                                                                                  | 0.1 |
+|  4   |                                                                                                                                                                                                                          **Stimulation.** The consumer becomes greatly energized and their walking speed increases by 10 feet for 1 minute. After the effect wears off, the consumer’s walking speed is reduced by 5 feet for 1 minute and they take 1d4 force damage.                                                                                                                                                                                                                           | 0.1 |
+|  6   |                                                                                                                                                                                                                                                                                              **Strength.** The consumer takes 1d4 necrotic damage. They have a Strength score of 18 for 5 minutes.                                                                                                                                                                                                                                                                                               | 0.1 |
+|  8   |                                                                                                                                                                                                                                                                                     **Healing.** The consumer regains a number of hit points equal to 2d4. If they are at 0 hit points, they become stable.                                                                                                                                                                                                                                                                                      | 0.l |
+|  10  |                                                                **Confusion.** The consumer emits an aura for 1 minute that assaults and twists creature’s minds, spawning delusions and provoking uncontrolled actions. The consumer and each creature within a 10-foot-radius centered on the consumer must succeed on a Wisdom saving throw or be affected by this aura. An affected creature can’t take reactions and must roll a d10 at the start of each of its turns to determine its behavior for that turn. Refer to the behavior chart for the [Confusion](http://dnd5e.wikidot.com/spell:confusion) spell for effects.                                                                 | 0.1 |
+|  12  |                                                                                                                                                                                                                                                                                                            **Clairvoyance.** The consumer gains the effect of the Clairvoyance spell.                                                                                                                                                                                                                                                                                                            | 0.1 |
+|  14  | **Insight.** The consumer becomes incapacitated for 1 hour and their perception of reality is altered greatly. If the consumer is conscious, they may consult the spirit of the mushroom and ask for the answer to one question. The consumer rolls a d12, and the DM rolls a d8 in secret. If the value the consumer rolled is greater than or equal to the value the DM rolled, the creature is granted a truthful revelation. If the value the consumer rolled is less than the value the DM rolled, the creature is granted a false revelation. The mushrooms know the answers to many things, and this effect may provide information about a wide range of topics, at the DM’s discretion. | 0.1 |
+|  16  |                                                                                                                                                                                   **Transmutation.** The consumer transforms into a new form of their choice (if they are unconscious, the mushroom decides). The transformation lasts for 10 minutes, or until the target drops to 0 hit points or dies. Refer to the rules of the [[Polymorph]] spell for valid transformation targets and gameplay effects.                                                                                                                                                                                   | 0.1 |
+|  18  |                                                                                                                                                                                          **Transportation.** This mushroom may be brought into contact with one inanimate plant of size Large or larger, creating a magical link that is imprinted upon the mushroom. Upon consumption, the consumer is transported to this plant at any distance, as long as they are on the same plane of existence.                                                                                                                                                                                           | 0.1 |
+|  20  |                                                                                                                                                              **Regeneration.** The consumer has their natural healing ability stimulated. They regain 4d8 + 15 hit points, and regain 1 hit point at the start of each of their turns for 10 minutes. The target’s severed appendages, if any, are restored after 2 minutes. If you have the severed part and hold it to the stump, the limb instead instantly knits to the stump.                                                                                                                                                               | 0.1 |
+|  22  |                                                         **Time.** The consumer briefly stops the flow of time for everyone but itself. No time passes for other creatures, while the consumer takes 1d4 + 1 turns in a row, during which they can use actions and move as normal. This effect ends if one of the actions the consumer uses during this period, or any effects they create during this period, affects a creature other than you or an object being worn or carried by someone other than you. In addition, the spell ends if you move to a place more than 1,000 feet from the location where they consumed the mushroom                                                         |     |
+|  24  |                                                                                                                                                                                                                                                                                                                **Miracle.** The consumer gains the effect of the [[Wish]] spell.                                                                                                                                                                                                                                                                                                                 | 0.1 |

@@ -1,0 +1,65 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-monster
+tags:
+- 5e/compendium/src/5e/wdh
+- 5e/monster/cr/9
+- 5e/monster/size/medium
+- 5e/monster/type/humanoid/human
+aliases:
+- Durnan
+---
+# Durnan
+*Source: Waterdeep: Dragon Heist p. 203*  
+
+*Human proprietor*
+
+> [!quote]  
+> 
+> I'll give you a free flagon of ale if you don't talk to me about the weather.
+
+Durnan is the owner and proprietor of the Yawning Portal. Although he looks like a middle-aged man whose best days are behind him, Durnan has a sharp mind and can still swing a sword when he must. He doesn't like talking about his past, and he won't reveal anything about his time as an adventurer.
+
+If Durnan has any living family members, he doesn't speak of them. He rarely says two words when one will do. He has a dark sense of humor and spares no pity on those who take the risk of entering Undermountain.
+
+He keeps Grimvault, his magic greatsword, within reach under the bar, and can chop tables in half with it if he so desires. He also can pull out a double crossbow (a heavy crossbow with reduced range that fires two bolts at the same target). Still, if he gets involved in a brawl, he prefers fighting with fists or a well-flung tankard.
+
+Durnan doesn't often venture far from the Yawning Portal, using his employees to run errands for him as needed. If he's feeling charitable, he might gently discourage likable "nobodies" from venturing into Undermountain, if he thinks they wouldn't survive. He can also direct adventurers toward tavern regulars who might be able to help them or offer useful information.
+
+```ad-statblock
+title: Durnan
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/WDH/Durnan.webp#token)
+*Medium humanoid (human), Neutral*
+
+- **Armor Class** 16 ([elven chain](compendium/5e/items/elven-chain.md))
+- **Hit Points** 144 (`17d8 + 68`)
+- **Speed** 30 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|18 (+4)|15 (+2)|18 (+4)|13 (+1)|12 (+1)|10 (+0)|
+
+- **Proficiency Bonus** +4
+- **Saving Throws** Strength +8, Constitution +8
+- **Skills** [Athletics](rules/5e/skills.md#Athletics) +8, [Perception](rules/5e/skills.md#Perception) +5
+- **Senses** passive Perception 15
+- **Languages** Common, Dwarvish
+- **Challenge** 9
+
+## Traits
+
+***Special Equipment.*** Durnan wields a [sword of sharpness (greatsword)](compendium/5e/items/sword-of-sharpness-dmg.md) called Grimvault. He wears [boots of striding and springing](compendium/5e/items/boots-of-striding-and-springing.md), [elven chain](compendium/5e/items/elven-chain.md), and a [ring of spell turning](compendium/5e/items/ring-of-spell-turning.md).
+
+***Indomitable (Recharges after a Long Rest).*** Durnan can reroll a saving throw that he fails. He must use the new roll.
+
+***Spell Turning.*** While wearing his ring of spell turning, Durnan has advantage on saving throws against any spell that targets only him (not in an area of effect). If Durnan rolls a 20 for the save and the spell is 7th level or lower, the spell has no effect on him and instead targets the caster, using the slot level, spell save DC, attack bonus, and spellcasting ability of the caster.
+
+## Actions
+
+***Multiattack.*** Durnan makes four melee weapon attacks.
+
+***Grimvault.*** *Melee Weapon Attack:* `dice:1d20+8|noform|noparens|text(+8)` to hit, reach 5 ft., one target. *Hit:* `dice:2d6+4|noform|noparens|avg|text(11)` (`2d6 + 4`) slashing damage. If the target is an object, the hit instead deals 16 slashing damage. If the target is a creature and Durnan rolls a 20 on the `dice:d20|noform|noparens|avg` (`d20`) for the attack roll, the target takes an extra 14 slashing damage, and Durnan rolls another `dice:d20|noform|noparens|avg` (`d20`). On a roll of 20, he lops off one of the target's limbs, or some other part of its body if it is limbless.
+
+***Double Crossbow.*** *Ranged Weapon Attack:* `dice:1d20+6|noform|noparens|text(+6)` to hit, range 60/240 ft., one target. *Hit:* `dice:2d10+2|noform|noparens|avg|text(13)` (`2d10 + 2`) piercing damage.
+```
+^statblock

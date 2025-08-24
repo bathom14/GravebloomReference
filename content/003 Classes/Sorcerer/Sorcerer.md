@@ -110,6 +110,7 @@ Choose a sorcerous origin, which describes the source of your innate magical pow
 | ---------------------- |
 | [[Aberrant Mind]]      |
 | [[Clockwork Soul]]     |
+| [[Defiled Essence]]    |
 | [[Draconic Bloodline]] |
 | [[Divine Soul]]        |
 | [[Lunar Sorcery]]      |

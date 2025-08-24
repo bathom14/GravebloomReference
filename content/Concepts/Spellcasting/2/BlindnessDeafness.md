@@ -1,9 +1,9 @@
 ---
-title: Blindness/Deafness
+title: Blindness / Deafness
 note_type: spell
 level: 2
 school: Transmutation
-classes: []
+classes: 
 casting_time: 1 action
 range: 120 feet
 components: V

@@ -1,12 +1,12 @@
 ---
-title: "Fade Away"
+title: Fade Away
 note_type: feat
 feat_category: "[[Racial Feat]]"
-feat_race_req: "[[Gnome]]"
+feat_race_req: "[[002 Races/Gnome]]"
 feat_level_req: ""
 feat_feat_req: ""
 ---
-**Prerequisites:** [[Gnome]]
+**Prerequisites:** [[002 Races/Gnome]]
 
 Your people are clever, with a knack for illusion magic. You have learned a magical trick for fading away when you suffer harm. You gain the following benefits:
 

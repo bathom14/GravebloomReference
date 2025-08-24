@@ -1,0 +1,63 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-monster
+tags:
+- 5e/compendium/src/5e/mpp
+- 5e/monster/cr/3
+- 5e/monster/size/medium
+- 5e/monster/type/aberration/gith
+aliases:
+- Githzerai Traveler
+---
+# Githzerai Traveler
+*Source: Morte's Planar Parade p. 31, Sigil and the Outlands*  
+
+Githzerai travelers wander the multiverse to train and pursue cosmic enlightenment. These githzerai learn to manipulate planar energies to create wondrous effects.
+
+Githzerai descend from an ancient people who were also the progenitors of the githyanki—all of whom were destroyed or transformed by mind flayers. Many githzerai dwell in Limbo, honing their psionic powers by shaping their homes on that chaotic plane. The githzerai described here oftentimes traverse the planes, crossing between them via the portals in Sigil and the Outlands. To learn more about other githzerai, see the *Monster Manual*.
+
+```ad-statblock
+title: Githzerai Traveler
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/MPP/Githzerai%20Traveler.webp#token)
+*Medium aberration (gith), Any alignment*
+
+- **Armor Class** 15 (psychic defense)
+- **Hit Points** 44 (`8d8 + 8`)
+- **Speed** 30 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|12 (+1)|15 (+2)|12 (+1)|14 (+2)|16 (+3)|10 (+0)|
+
+- **Proficiency Bonus** +2
+- **Saving Throws** Strength +3, Dexterity +4, Intelligence +4, Wisdom +5
+- **Skills** [Perception](rules/5e/skills.md#Perception) +5, [Survival](rules/5e/skills.md#Survival) +5
+- **Senses** passive Perception 15
+- **Languages** Common, Gith
+- **Challenge** 3
+
+## Traits
+
+***Psychic Defense.*** While the githzerai is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.
+
+## Actions
+
+***Multiattack.*** The githzerai makes three Unarmed Strike attacks.
+
+***Unarmed Strike.*** *Melee Weapon Attack:* `dice:1d20+4|noform|noparens|text(+4)` to hit, reach 5 ft., one target. *Hit:* `dice:1d8+2|noform|noparens|avg|text(6)` (`1d8 + 2`) bludgeoning damage plus `dice:1d8|noform|noparens|avg|text(4)` (`d8`) psychic damage.
+
+***Spellcasting (Psionics).*** The githzerai casts one of the following spells, requiring no spell components and using Wisdom as the spellcasting ability (spell save DC 13):
+
+**At will:** [mage hand](compendium/5e/spells/mage-hand.md) (the hand is invisible)
+
+**1/day each:** [jump](compendium/5e/spells/jump.md), [plane shift](compendium/5e/spells/plane-shift.md) (self only), [see invisibility](compendium/5e/spells/see-invisibility.md)
+
+## Bonus Actions
+
+***Matter Manipulation (Recharge 4-6).*** The githzerai manipulates the energy of the plane of existence it's on to produce one of the following effects (choose one or roll a `dice:d6|noform|noparens|avg` (`d6`)):
+
+- **1-2 Astral Step.** The githzerai can teleport, along with any equipment it is wearing or carrying, up to 40 feet to an unoccupied space it can see. In addition, its walking speed increases to 40 feet until the start of its next turn.  
+- **3-4 Growth.** Flowers and vines grow around the githzerai until the start of its next turn, then vanish; the ground within 15 feet of the githzerai is difficult terrain for other creatures while the flowers and vines are present.  
+- **5-6 Retaliating Light.** Multicolored lights surround the githzerai until the start of its next turn. For the effect's duration, whenever a creature within 5 feet of the githzerai hits it with a melee attack roll, that creature takes `dice:1d6|noform|noparens|avg|text(3)` (`d6`) force damage, as magic lashes out in retribution.  
+```
+^statblock

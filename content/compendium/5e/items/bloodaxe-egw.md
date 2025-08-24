@@ -1,0 +1,24 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-item
+tags:
+- 5e/compendium/src/5e/egw
+- 5e/item/attunement/required
+- 5e/item/rarity/very-rare
+- 5e/item/weapon/martial
+- 5e/item/weapon/melee
+aliases: 
+- "Bloodaxe"
+---
+# Bloodaxe
+*Weapon ([greataxe](compendium/5e/items/greataxe-phb.md)), very rare (requires attunement)*  
+
+- **Damage**: 1d12 slashing
+- **Properties**: [Heavy](rules/5e/item-properties.md#Heavy), [Two-Handed](rules/5e/item-properties.md#Two-Handed)
+- **Weight**: 7.0 lbs.
+
+You gain a +2 bonus to attack and damage rolls made with this magic axe. The axe deals an extra `dice:1d6|noform|noparens|avg` (`d6`) necrotic damage to creatures that aren't constructs or undead. If you reduce such a creature to 0 hit points with an attack using this axe, you gain 10 temporary hit points.
+
+This axe is forged from a dark, rust-colored metal and once belonged to the goliath barbarian Grog Strongjaw of Vox Machina.
+
+*Source: Explorer's Guide to Wildemount p. 266*

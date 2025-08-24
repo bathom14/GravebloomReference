@@ -1,0 +1,51 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-monster
+tags:
+- 5e/compendium/src/5e/wbtw
+- 5e/monster/cr/1-2
+- 5e/monster/size/medium
+- 5e/monster/type/fey
+aliases:
+- Detached Shadow
+---
+# Detached Shadow
+*Source: The Wild Beyond the Witchlight p. 213*  
+
+```ad-statblock
+title: Detached Shadow
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/WBtW/Detached%20Shadow.webp#token)
+*Medium fey, Chaotic Evil*
+
+- **Armor Class** 12
+- **Hit Points** 16 (`3d8 + 3`)
+- **Speed** 40 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 6 (-2)|14 (+2)|13 (+1)| 6 (-2)|10 (+0)| 8 (-1)|
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** [Stealth](rules/5e/skills.md#Stealth) +4
+- **Senses** darkvision 60 ft., passive Perception 10
+- **Damage Vulnerabilities** radiant
+- **Damage Resistances** acid; cold; fire; lightning; thunder; bludgeoning, piercing, slashing from nonmagical attacks
+- **Damage Immunities** necrotic, poison
+- **Condition Immunities** [exhaustion](rules/5e/conditions.md#Exhaustion), [frightened](rules/5e/conditions.md#Frightened), [grappled](rules/5e/conditions.md#Grappled), [paralyzed](rules/5e/conditions.md#Paralyzed), [petrified](rules/5e/conditions.md#Petrified), [poisoned](rules/5e/conditions.md#Poisoned), [prone](rules/5e/conditions.md#Prone), [restrained](rules/5e/conditions.md#Restrained)
+- **Languages** —
+- **Challenge** 1/2
+
+## Traits
+
+***Amorphous.*** The shadow can move through a space as narrow as 1 inch wide without squeezing.
+
+***Shadow Stealth.*** While in dim light or darkness, the shadow can take the Hide action as a bonus action. Its stealth bonus is also improved to +6.
+
+***Sunlight Weakness.*** While in sunlight, the shadow has disadvantage on attack rolls, ability checks, and saving throws.
+
+## Actions
+
+***Strength Drain.*** *Melee Weapon Attack:* `dice:1d20+4|noform|noparens|text(+4)` to hit, reach 5 ft., one creature. *Hit:* `dice:2d6+2|noform|noparens|avg|text(9)` (`2d6 + 2`) necrotic damage, and the target's Strength score is reduced by `dice:1d4|noform|noparens|avg` (`d4`). The target falls [unconscious](rules/5e/conditions.md#Unconscious) if this reduces its Strength to 0. The creature regains consciousness and the reduction to its Strength score disappears after it finishes a short or long rest.
+```
+^statblock

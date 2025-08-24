@@ -1,6 +1,6 @@
 # Half-Orc
 
-**Ability Score Increase.** Your Strength score increases by 2, and your Dexterity score increases by 1.
+**Ability Score Increase.** Your Strength score increases by 2, and your Charisma score increases by 1.
 
 **Age.**  Half-orcs mature a little faster than humans, reaching adulthood around age 14. They age noticeably faster and rarely live longer than 75 years.
 

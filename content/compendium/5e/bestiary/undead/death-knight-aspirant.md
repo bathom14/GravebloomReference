@@ -1,0 +1,79 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-monster
+tags:
+- 5e/compendium/src/5e/xmm
+- 5e/monster/cr/11
+- 5e/monster/environment/any
+- 5e/monster/size/small-or-medium
+- 5e/monster/type/undead
+aliases:
+- Death Knight Aspirant
+---
+# Death Knight Aspirant
+*Source: Monster Manual (2024) p. 93*  
+
+When the leader of a villainous order rises as a death knight, their wicked devotees might join them in their cursed existence as death knight aspirants. These followers bear a measure of their leader's power and serve as they did in life, obediently following the death knight's decrees and heralding its terrible will.
+
+## Death Knights
+
+*Haunted Commanders of Unliving Legions*
+
+- **Habitat.** Any  
+- **Treasure.** Armaments  
+
+Champions of evil, death knights are armor-clad, skeletal warlords. Combining devastating martial prowess and blasphemous magic, these undying tyrants lead unholy legions against the living or brood in cursed citadels. Every death knight is haunted by a legacy of tragedy and dishonor that drives it to commit greater evils.
+
+## Statblock
+
+```ad-statblock
+title: Death Knight Aspirant
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Death%20Knight%20Aspirant.webp#token)
+*Small or Medium undead, Chaotic Evil*
+
+- **Armor Class** 20
+- **Hit Points** 178 (`21d8 + 84`)
+- **Speed** 30 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|20 (+5)|10 (+0)|18 (+4)|10 (+0)|12 (+1)|16 (+3)|
+
+- **Proficiency Bonus** +4
+- **Saving Throws** Dexterity +4, Wisdom +5
+- **Skills** ⏤
+- **Senses** darkvision 120 ft., passive Perception 11
+- **Damage Immunities** necrotic, poison
+- **Condition Immunities** [exhaustion](rules/5e/conditions.md#Exhaustion), [frightened](rules/5e/conditions.md#Frightened), [poisoned](rules/5e/conditions.md#Poisoned)
+- **Languages** Abyssal, Common
+- **Challenge** 11
+
+## Traits
+
+***Magic Resistance.*** The aspirant has [Advantage](rules/5e/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects.
+
+***Marshal Undead.*** Undead creatures of the aspirant's choice (excluding itself) in a 60-foot [Emanation](rules/5e/variant-rules/emanation-area-of-effect-xphb.md) originating from it have [Advantage](rules/5e/variant-rules/advantage-xphb.md) on attack rolls and saving throws. It can't use this trait if it has the [Incapacitated](rules/5e/conditions.md#Incapacitated) condition.
+
+## Actions
+
+***Multiattack.*** The aspirant makes three Dread Blade attacks.
+
+***Dread Blade.*** *Melee Attack Roll:* `dice:1d20+9|noform|noparens|text(+9)`, reach 5 ft. *Hit:* `dice:2d8+5|noform|noparens|avg|text(14)` (`2d8 + 5`) Slashing damage plus `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) Necrotic damage.
+
+***Hellfire Orb (Recharge 5-6).*** *Dexterity Saving Throw:* DC 15, each creature in a 20-foot-radius [Sphere](rules/5e/variant-rules/sphere-area-of-effect-xphb.md) centered on a point the aspirant can see within 120 feet of itself. *Failure:* `dice:6d6|noform|noparens|avg|text(21)` (`6d6`) Fire damage plus `dice:6d6|noform|noparens|avg|text(21)` (`6d6`) Necrotic damage. *Success:* Half damage.
+
+***Spellcasting.*** The aspirant casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 15):
+
+**At will:** [Phantom Steed](compendium/5e/spells/phantom-steed.md)
+
+**1/day each:** [Destructive Wave](compendium/5e/spells/destructive-wave.md) (Necrotic), [Dispel Magic](compendium/5e/spells/dispel-magic.md)
+
+## Reactions
+
+***Parry.*** Trigger: The aspirant is hit by a melee attack roll while holding a weapon. _Response:_ The aspirant adds 4 to its AC against that attack, possibly causing it to miss.
+```
+^statblock
+
+## Environment
+
+any

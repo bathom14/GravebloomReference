@@ -1,0 +1,51 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-monster
+tags:
+- 5e/compendium/src/5e/lmop
+- 5e/monster/cr/1
+- 5e/monster/size/medium
+- 5e/monster/type/humanoid/human
+aliases:
+- Evil Mage
+---
+# Evil Mage
+*Source: Lost Mine of Phandelver p. 57, The Lost Dungeon of Rickedness: Big Rick Energy*  
+
+Evil mages (such as Iarno Albrek and Hamun Kost) hunger for arcane power and dwell in isolated places, where they can perform terrible magical experiments without interference.
+
+```ad-statblock
+title: Evil Mage
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/LMoP/Evil%20Mage.webp#token)
+*Medium humanoid (human), Lawful Evil*
+
+- **Armor Class** 12
+- **Hit Points** 22 (`5d8`)
+- **Speed** 30 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 9 (-1)|14 (+2)|11 (+0)|17 (+3)|12 (+1)|11 (+0)|
+
+- **Proficiency Bonus** +2
+- **Saving Throws** Intelligence +5, Wisdom +3
+- **Skills** [Arcana](rules/5e/skills.md#Arcana) +5, [History](rules/5e/skills.md#History) +5
+- **Senses** passive Perception 11
+- **Languages** Common, Draconic, Dwarvish, Elvish
+- **Challenge** 1
+
+## Traits
+
+***Spellcasting.*** The mage is a 4th-level spellcaster that uses Intelligence as its spellcasting ability (spell save DC 13; `dice:1d20+5|noform|noparens|text(+5)` to hit with spell attacks). The mage knows the following spells from the wizard's spell list:
+
+**Cantrips (at will):** [light](compendium/5e/spells/light.md), [mage hand](compendium/5e/spells/mage-hand.md), [shocking grasp](compendium/5e/spells/shocking-grasp.md)
+
+**1st level (4 slots):** [charm person](compendium/5e/spells/charm-person.md), [magic missile](compendium/5e/spells/magic-missile.md)
+
+**2nd level (3 slots):** [hold person](compendium/5e/spells/hold-person.md), [misty step](compendium/5e/spells/misty-step.md)
+
+## Actions
+
+***Quarterstaff.*** *Melee Weapon Attack:* `dice:1d20+1|noform|noparens|text(+1)` to hit, reach 5 ft., one target. *Hit:* `dice:1d8-1|noform|noparens|avg|text(3)` (`1d8 - 1`) bludgeoning damage.
+```
+^statblock

@@ -20,4 +20,6 @@ Humanity is a varied and multifaceted race, with many distinct cultures in diffe
 
 - **Storied.** Increase one ability score of your choice by 1. You gain one [[/004-Feats/Origin-Feats/|Origin Feat]] of your choice.
 
-- **Prodigy.** You gain one [[/004-Feats/General-Feats/|General Feat]] of your choice.
+- **Prodigious.** You gain one [[/004-Feats/General-Feats/|General Feat]] of your choice.
+
+- **Reliable.** Increase each ability score by 1 that you did not increase with your initial Ability Score Increase.

@@ -1,0 +1,30 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-spell
+tags:
+- 5e/compendium/src/5e/xge
+- 5e/spell/class/artificer
+- 5e/spell/class/bard
+- 5e/spell/class/sorcerer
+- 5e/spell/class/wizard
+- 5e/spell/level/5th-level
+- 5e/spell/school/transmutation
+aliases:
+- Skill Empowerment
+---
+# Skill Empowerment
+%%-- Embedded content starts on the next line. --%%
+*5th-level, Transmutation*  
+
+- **Casting time:** 1 Action
+- **Range:** Touch
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 hour
+
+Your magic deepens a creature's understanding of its own talent. You touch one willing creature and give it expertise in one skill of your choice; until the spell ends, the creature doubles its proficiency bonus for ability checks it makes that use the chosen skill.
+
+You must choose a skill in which the target is proficient and that isn't already benefiting from an effect, such as Expertise, that doubles its proficiency bonus.
+
+**Classes**: [Bard](compendium/5e/lists/list-spells-classes-bard.md); [Sorcerer](compendium/5e/lists/list-spells-classes-sorcerer.md); [Wizard](compendium/5e/lists/list-spells-classes-wizard.md); [Artificer](compendium/5e/lists/list-spells-classes-artificer.md)
+
+*Source: Xanathar's Guide to Everything p. 165*
