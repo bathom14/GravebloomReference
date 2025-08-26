@@ -14,8 +14,7 @@ title: Character Creation
 	- **Roll for Stats.** Roll 4d6 and drop the lowest score, and add the remaining die to produce one ability score value. Repeat this six times, and then apply the six values produced to the ability scores of your choice. You may not have more than one result of 18; if you roll this value more than once, you must reroll one of the dice until the total value is less than 18.
 		- This must be done either with physical dice while I observe the rolls (in person or in discord), via a digital dice rolling system I can link you to, or I can roll for you and tell you the results.
 3) Select a **Background**
-	- Select one of the [Backgrounds](/001-Backgrounds/)
-	- [[/001-Backgrounds/|Backgrounds]] 
+	- Select one of the available [[/001-Backgrounds/|Backgrounds]] 
 4) **Select a Race**.
 	- Select one of the playable [[/002-Races/|Races]] for your character. 
 	- Each race has effects on your Ability Scores, and has a number of innate features.
