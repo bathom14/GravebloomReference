@@ -6,20 +6,28 @@ title: Character Creation
 	- I'll keep a personal copy of everyone's Character Sheet in Markdown format.
 		- In the process of figuring out more concrete details here.
 	- You can also keep a personal character sheet, I'll compile some options here soon.
-2) **Determine Ability Scores**.
+2) **Determine Ability Score Array**.
 	- Depending on your method, you may want to do this prior to building your character
 	- **Point Buy.** You may use the standard Point Buy system, which you can calculate using the calculator **[here.](https://chicken-dinner.com/5e/5e-point-buy.html)**
 	- **Standard Array.** You have ability scores of (15, 14, 13, 12, 10, 8) to distribute to abilities of your choice.
 	- **Roll for Stats.** Roll 4d6 and drop the lowest score, and add the remaining die to produce one ability score value. Repeat this six times, and then apply the six values produced to the ability scores of your choice. You may not have more than one result of 18; if you roll this value more than once, you must reroll one of the dice until the total value is less than 18.
 		- This must be done either with physical dice while I observe the rolls (in person or in discord), via a digital dice rolling system I can link you to, or I can roll for you and tell you the results.
-- Select a **Background**
-	- Select one of the [Backgrounds](/Backgrounds/)
-- **Select a Race**.
-	- Select one of the playable [Races](/Races/) for your character. 
+3) Select a **Background**
+	- Select one of the [Backgrounds](/001-Backgrounds/)
+4) **Select a Race**.
+	- Select one of the playable [Races](/002-Races/) for your character. 
 	- Each race has effects on your Ability Scores, and has a number of innate features.
 		- Additionally, each race has Feats which are only available to members of that race.
-- **Select a Class**
-	- Select one of the playable [Classes](/Classes/).
+5) **Select a Class**
+	- Select one of the playable [Classes](/003-Classes/).
 	- The classes have been rebalanced (especially Martial characters), so browsing the classes as listed here is recommended even if you have prior familiarity with D&D 5e.
-- **Select a Feat**
-	- Select one of the [Feats](/Feats/) available for selection at Level 1
+6) **Select a Feat**
+	- Select one of the [Feats](/004-Feats/) available for selection at Level 1
+7) **Cap Final Ability Scores**
+	- There is a hard cap of 19 on any Ability Score at level 1.
+	- If your total for any Ability Score is above 19 after applying all modifiers, it is reduced to 19.
+		- There are three factors that affect Ability Scores at level 1
+			- Ability Score Array (Step 2)
+			- Race (Step 4)
+			- Starting Feat (Step 6)
+				- Only some Feats have an impact on Ability Score

@@ -29,7 +29,7 @@ You can resume a Short Rest immediately after an interruption. If you do so, the
 
 ### Long Rests
 
-A Long Rest is a full 24-hour period of low exertion.
+A Long Rest is a full 72-hour period of low exertion.
 
 It must be spent in a safe places such as a city, well-fortified town, or hidden dungeon.
 

@@ -18,7 +18,7 @@
 | ***Martial Weapons*** | **Damage**       | **Core Properties**                                    | **Mastery Properties**                          |
 | Arming dagger         | 1d4 piercing     | Finesse, light, thrown (range 20/60)                   | Flurry, Guard, Pinpoint, Vex                    |
 | Battleaxe             | 1d8 slashing     | Versatile (1d10)                                       | Cleave, Lacerate, Maim,  Topple (2H), Slow (1H) |
-| Fighting Knife        | 1d4 slashing     | Finesse, light, thrown (range 20/60)                   | Graze, Flurry, Lacerate, Vex                    |
+| Kukri                 | 1d4 slashing     | Finesse, light, thrown (range 20/60)                   | Graze, Flurry, Lacerate, Vex                    |
 | Glaive                | 1d10 slashing    | Heavy, reach, two-handed                               | Graze, Topple, Push, Rush                       |
 | Greataxe              | 1d12 slashing    | Heavy, two-handed                                      | Cleave, Lacerate, Maim, Topple                  |
 | Greatsword            | 2d6 slashing     | Heavy, two-handed                                      | Cleave, Graze, Lacerate, Vex                    |
