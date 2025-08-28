@@ -1,3 +1,7 @@
+---
+title: Gnome
+---
+
 # Gnome
 
 **Ability Score Increase.** Your Constitution score increases by 1.
@@ -20,7 +24,7 @@
 
 **Subrace.** Gnomes tend to live on one of a few islands, with their variety determined by their homeland. There exist both Rock and Forest gnomes. choose a subrace.
 
-### Rock Gnome
+### [[Rock Gnome]]
 
 **Ability Score Increase.** Your Intelligence score increases by 2.
 
@@ -49,7 +53,8 @@
 * **Lifter.** This device can be used as a block and tackle, allowing its user to hoist five times the weight the user can normally lift.
 * At your DM's discretion, you may make other objects with effects similar in power to these. The Prestidigitation cantrip is a good baseline for such effects.
 
-### Forest Gnome
+### [[Forest Gnome]]
+
 **Ability Score Increase.** Your Wisdom score increases by 2.
 
 **Mischievous Nature.** You know the [Minor Illusion](http://dnd5e.wikidot.com/spell:minor-illusion) and [Mold Earth](http://dnd5e.wikidot.com/spell:mold-earth) cantrips. When you reach third level, you can cast the [Enlarge/Reduce](http://dnd5e.wikidot.com/spell:enlarge-reduce) spell once per long rest. When you reach fifth level, you can cast [Speak with Plants](http://dnd5e.wikidot.com/spell:speak-with-plants) once per long rest. Wisdom is your spellcasting modifier for these spells.
