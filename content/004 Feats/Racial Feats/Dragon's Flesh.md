@@ -1,12 +1,11 @@
 ---
-title: Dragon Hide
+title: Dragon's Flesh
 note_type: feat
 feat_category: "[[Racial Feat]]"
 feat_race_req:
   - "[[Dragonborn]]"
-  - "[[002 Races/Kobold]]"
 feat_level_req: 
-feat_feat_req: 
+feat_feat_req:
 ---
 *Prerequisite: Dragonborn*
 

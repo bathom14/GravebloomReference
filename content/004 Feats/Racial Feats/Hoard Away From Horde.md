@@ -8,6 +8,8 @@ feat_race_req:
 feat_level_req: 
 feat_feat_req: 
 ---
+Prerequisite: Dragonborn, Kobold
+
 Pumping through your veins is an insatiable lust for one thing: gold. You don't quite know what is is about being surrounded by piles of gold, but it fills you with an unshakeable vigor. You gain the following benefits:
 
 - Whenever you take a long rest with a certain amount of gold pieces in your possession, you gain a number of temporary hit points equal to a roll of the corresponding Hitpoint Die + your level, as shown on the table below.

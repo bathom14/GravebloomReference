@@ -32,7 +32,7 @@
 
 **Taunt.** You have an extraordinary ability to fluster creatures. As a bonus action, you can unleash a string of provoking words at a creature within 60 feet of yourself that can hear and understand you. The target must succeed on a Wisdom saving throw or it has disadvantage on attack rolls against targets other than you until the start of your next turn. The DC equals 8 + your proficiency bonus + your Charisma modifier. You can use this bonus action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
-**Streetwise.** You have proficiency in Insight and Sleight of Hand, 
+**Streetwise.** You have proficiency in Insight and Sleight of Hand,
 
 ### Sea Halfling
 
