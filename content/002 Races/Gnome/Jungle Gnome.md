@@ -1,5 +1,5 @@
 ---
-draft: "True"
+draft: "true"
 ---
 
 **Ability Score Increase.** Your Charisma score increases by 2, and your Constitution score increases by 1.

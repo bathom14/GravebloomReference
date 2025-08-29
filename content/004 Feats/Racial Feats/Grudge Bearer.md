@@ -2,11 +2,11 @@
 title: Grudge Bearer
 note_type: feat
 feat_category: "[[Racial Feat]]"
-feat_race_req: "[[002 Races/Dwarf/index]]"
+feat_race_req: "[[Dwarf]]"
 feat_level_req: ""
 feat_feat_req: ""
 ---
-**Prerequisites:** [[002 Races/Dwarf/index]]
+**Prerequisites:** [[Dwarf]]
 
 You have a deep hatred for a particular kind of creature. Choose your foes, a type of creature to bear the burden of your wrath: aberrations, beasts, celestials, constructs, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants, or undead. Alternatively, you can choose two races of humanoid (such as gnolls and orcs). You gain the following benefits:
 

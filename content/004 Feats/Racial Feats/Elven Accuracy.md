@@ -6,7 +6,7 @@ feat_race_req: "[[Half Elf]], [[Elf]]"
 feat_level_req: "4"
 feat_feat_req: ""
 ---
-**Prerequisites:** 4th level, [[Half Elf]], [[002 Races/Elf/index]]
+**Prerequisites:** 4th level, [[Half Elf]], [[Elf]]
 
 The accuracy of elves is legendary, especially that of elf archers and spellcasters. You have uncanny aim with attacks that rely on precision rather than brute force. You gain the following benefits:
 

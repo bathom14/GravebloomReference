@@ -2,11 +2,11 @@
 title: Stoneborn Gunsmith
 note_type: feat
 feat_category: "[[Racial Feat]]"
-feat_race_req: "[[002 Races/Dwarf/index]]"
+feat_race_req: "[[Dwarf]]"
 feat_level_req: ""
 feat_feat_req: ""
 ---
-**Prerequisites:** [[002 Races/Dwarf/index]]
+**Prerequisites:** [[Dwarf]]
 
 You are gifted in the dwarven tradition of gunsmithing. You gain the following benefits.
 

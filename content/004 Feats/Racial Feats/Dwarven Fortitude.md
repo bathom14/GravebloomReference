@@ -2,11 +2,11 @@
 title: Dwarven Fortitude
 note_type: feat
 feat_category: "[[Racial Feat]]"
-feat_race_req: "[[002 Races/Dwarf/index]]"
+feat_race_req: "[[Dwarf]]"
 feat_level_req: ""
 feat_feat_req: ""
 ---
-**Prerequisites:** [[002 Races/Dwarf/index]]
+**Prerequisites:** [[Dwarf]]
 
 You have the blood of dwarf heroes flowing through your veins. You gain the following benefits:
 
