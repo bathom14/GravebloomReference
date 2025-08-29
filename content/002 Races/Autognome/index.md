@@ -1,1 +1,4 @@
+---
+title: Autognome
+---
 ![[Autognome]]

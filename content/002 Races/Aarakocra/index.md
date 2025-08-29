@@ -1,1 +1,4 @@
+---
+title: Aarakocra
+---
 ![[Aarakocra]]
