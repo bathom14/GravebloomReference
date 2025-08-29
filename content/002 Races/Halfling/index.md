@@ -1,3 +1,6 @@
+---
+title: Halfling
+---
 # Halfling
 
 **Ability Score Increase.** Your Dexterity score increases by 2.

@@ -1,0 +1,4 @@
+---
+title: Hobgoblin
+---
+![[Hobgoblin]]

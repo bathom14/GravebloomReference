@@ -1,3 +1,6 @@
+---
+title: Kobold
+---
 # Kobold
 
 **Ability Score Increase.** Your Dexterity score increases by 2, and your Strength score decreases by 1.
