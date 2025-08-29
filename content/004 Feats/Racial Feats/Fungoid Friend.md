@@ -2,11 +2,11 @@
 title: Fungoid Friend
 note_type: feat
 feat_category: "[[Racial Feat]]"
-feat_race_req: "[[002 Races/Gnome]]"
+feat_race_req: "[[Gnome]]"
 feat_level_req: ""
 feat_feat_req: ""
 ---
-**Prerequisites:** [[002 Races/Gnome]]
+**Prerequisites:** [[Gnome]]
 
 You become the spore mate of a common fungoid.
 

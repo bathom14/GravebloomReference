@@ -1,16 +1,16 @@
-# Halfling
-
-**Ability Score Increase.** Your Dexterity score increases by 2.
+**Ability Score Increase.** Your Dexterity score increases by 2, and your Constitution score increases by 1.
 
 **Age.** A halfling reaches adulthood at the age of 20 and generally lives into the middle of his or her second century.
 
 **Alignment.** Most halflings are Good.
 
-**Creature Type.** You are a humanoid
+**Creature Type.** You are a Humanoid
 
 **Size.** Halflings average about 3 feet tall and weigh about 40 pounds. Your size is small.
 
 **Speed.** Your base walking speed is 25 feet.
+
+**Languages.** You can speak, read, and write Common and Halfling.
 
 **Lucky.** When you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die. You must use the new result, even if it is a 1.
 
@@ -20,27 +20,11 @@
 
 **Naturally Stealthy.** You can attempt to hide even when you are only obscured by a creature that is at least one size larger than you.
 
-**Languages.** You can speak, read, and write Common and Halfling.
-
-**Subrace.** Halflings traverse wise across both land and sea. Choose a subrace.
-
-### Roaming Halfling
-
-**Ability Score Increase.** Your Charisma score increases by 1.
-
-**Distracting Performance.** As an action on your turn, you can perform a maneuver to distract nearby enemies. Until the end of your next turn, your allies gain advantage on attack rolls against enemies within 10 feet of you that can see you. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a short or long rest
-
-**Seize the Moment.** You may choose to have advantage on an attack roll against a creature if at least one of your allies is within 5 feet of the creature and the ally isn’t incapacitated. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a short or long rest.
-
-### Sea Halfling
-
-**Ability Score Increase.** Your Constitution score increases by 1.
-
-**Sea Legs** Your swim speed is 30 feet. You can hold your breath for 15 minutes.
+**Sea Legs.** Your swim speed is 30 feet. You can hold your breath for 15 minutes.
 
 **Nothing Wasted.** As part of a short rest, you can harvest bone and hide from a slain beast, construct, dragon, monstrosity, or plant creature of size Small or larger to create one of the following items: a shield, a spear, a trident, a javelin, a blowgun, or 1d4 darts, needles, or arrows. To use this trait, you need a blade, such as a dagger, or appropriate artisan's tools, such as leatherworker's tools. At your DM's discretion, you may craft additional items.
 
-* If you have 50 feet of rope, you may use it to craft a barbed net. It has all the normal properites of a net, but it also deals 1d4 piercing damage when it hits a creature,  when a restrained creature is moved, or an action is attempted that involves disturbing the net, such as removing the net or attacking a creature from the restraint of the net.
+* If you have 50 feet of rope, you may use it to craft a barbed net. It has all the normal properties of a net, but it also deals 1d4 piercing damage when it hits a creature, when a restrained creature is moved, or an action is attempted that involves disturbing the net, such as removing the net or attacking a creature from the restraint of the net.
 
 **Net Hunter.** You have proficiency with nets. In addition, attacking while within 5 feet of a hostile creature or at long range with a net doesn't impose disadvantage on your attack roll.
 

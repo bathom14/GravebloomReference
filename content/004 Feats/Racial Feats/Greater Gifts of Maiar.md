@@ -1,8 +1,8 @@
 ---
-title: "Greater Gifts of Mai'ar"
+title: Greater Gifts of Mai'ar
 note_type: feat
 feat_category: "[[Racial Feat]]"
-feat_race_req: "[[Elf]]"
+feat_race_req: "[[002 Races/Elf/index]]"
 feat_level_req: "4"
 feat_feat_req: ""
 ---

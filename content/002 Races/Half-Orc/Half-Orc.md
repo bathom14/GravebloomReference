@@ -14,10 +14,12 @@
 
 **Darkvision.** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray.
 
-**Menacing.** You gain proficiency in the Intimidation skill.
+**Ominous Shadow.** You gain proficiency in the Intimidation and Stealth skills. You can add your Charisma modifier to your Stealth checks.
 
-**Relentless Endurance.** When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. Once you use this trait, you can’t do so again until you finish a long rest.
+**Impeccable Reflexes.** You can add your proficiency bonus to your initiative rolls.
 
 **Surprise Attack.** If you hit a creature with an attack roll, the creature takes an extra 2d6 damage if it hasn’t taken a turn yet in the current combat.
+
+**Relentless Endurance.** When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. Once you use this trait, you can’t do so again until you finish a long rest.
 
 **Languages.** Your character can speak, read, and write Orcish and one other language that you and your DM agree is appropriate for the character.

@@ -63,7 +63,7 @@
 * If any effect would modify the result of the forage roll, the final value may not exceed 24.
 
 #### Mushroom Table
-Roll a number of d4 equal to your proficiency bonus. Then, select a mushrom with a roll value equal to or less than than your roll. If your roll exceeds the roll value of the mushroom you selected, you recieve a number of additional mushrooms of the same type equal to the difference between your rolled total and the roll value of the mushroom you selected.
+Roll a number of d4 equal to your proficiency bonus. Then, select a mushrom with a roll value equal to or less than than your roll. If your roll exceeds the roll value of the mushroom you selected, you receive a number of additional mushrooms of the same type equal to the difference between your rolled total and the roll value of the mushroom you selected.
 
 | Roll | Mushroom | Wt.|
 |:----:| :-------:|:--:|

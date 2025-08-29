@@ -1,8 +1,4 @@
-# Dwarf
-
-The Empire of the Three Kings stands Strong. Since the three great kingdoms united, large territorial expansion have been made in multiple directions. Utilizing their invention of gunpower, they were able to arm even the least trained dwarf with firepower that could rival some casters.
-
-**Ability Score Increase.** Your Constitution score increases by 2.
+**Ability Score Increase.** Your Constitution score increases by 2, and your Intelligence score increases by 1.
 
 **Age.** Dwarves mature at the same rate as humans, but they're considered young until they reach the age of 50. On average, they live about 200 years.
 
@@ -24,29 +20,12 @@ The Empire of the Three Kings stands Strong. Since the three great kingdoms unit
 
 **Stonecunning.** Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.
 
+**Tremorsense.** As a Bonus Action, you gain Tremorsense with a range of 60 feet for 10 minutes. You must be on a stone surface or touching a stone surface to use this Tremorsense. The stone can be natural or worked. You can use this Bonus Action a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
+
 **Languages.** You can speak, read, and write Common and Dwarvish. Dwarvish is full of hard consonants and guttural sounds, and those characteristics spill over into whatever other language a dwarf might speak.
 
-**Subrace.** There exist three varieties of dwarf: Hill, Desert, and Mountain. Choose one of these subraces.
-
-### Hill Dwarf
 **Ability Score Increase.** Your Wisdom score increases by 1.
 
 **Dwarven Toughness.** Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.
 
 **Wisdom of the Ages.** You have advantage on Wisdom (Insight) checks.
-
-### Desert Dwarf
-
-**Ability Score Increase.** Your Intelligence score increases by 1.
-
-**Wasteland Cunning.** You have advantage on Intelligence (Investigation) checks.
-
-**Dune Strider.** Base walking speed increases to 30 feet, and you can move across difficult terrain made of sand or earth without expending extra movement.
-
-**Desert Resillience.** You have proficiency in the Survival skill, and you can go twice as long without consuming food or water. You are naturally acclimated to high temperatures, granting you an automatic success on saving throws related to extreme heat.
-
-### Mountain Dwarf
-
-**Ability Score Increase.** Your Strength score increases by 2.
-
-**Dwarven Armor Training.** You have proficiency with light armor, medium armor, and shields.

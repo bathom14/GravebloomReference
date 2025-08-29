@@ -24,7 +24,7 @@
 
 **Subrace.** Halflings traverse wise across both land and sea. Choose a subrace.
 
-### Roaming Halfling
+### [[Roaming Halfling]]
 
 **Ability Score Increase.** Your Charisma score increases by 1.
 
@@ -32,13 +32,13 @@
 
 **Taunt.** You have an extraordinary ability to fluster creatures. As a bonus action, you can unleash a string of provoking words at a creature within 60 feet of yourself that can hear and understand you. The target must succeed on a Wisdom saving throw or it has disadvantage on attack rolls against targets other than you until the start of your next turn. The DC equals 8 + your proficiency bonus + your Charisma modifier. You can use this bonus action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
-**Streetwise.** You have proficiency in Insight and Sleight of Hand,
+**Streetwise.** You have proficiency in Insight and Sleight of Hand.
 
-### Sea Halfling
+### [[Sea Halfling]]
 
 **Ability Score Increase.** Your Constitution score increases by 1.
 
-**Sea Legs** Your swim speed is 30 feet. You can hold your breath for 15 minutes.
+**Sea Legs.** Your swim speed is 30 feet. You can hold your breath for 15 minutes.
 
 **Nothing Wasted.** As part of a short rest, you can harvest bone and hide from a slain beast, construct, dragon, monstrosity, or plant creature of size Small or larger to create one of the following items: a shield, a spear, a trident, a javelin, a blowgun, or 1d4 darts, needles, or arrows. To use this trait, you need a blade, such as a dagger, or appropriate artisan's tools, such as leatherworker's tools. At your DM's discretion, you may craft additional items.
 

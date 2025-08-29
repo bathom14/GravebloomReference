@@ -6,7 +6,7 @@ feat_race_req: "[[Small]], [[Dwarf]]"
 feat_level_req: ""
 feat_feat_req: ""
 ---
-**Prerequisites:** [[Small]], [[Dwarf]]
+**Prerequisites:** [[Small]], [[002 Races/Dwarf/index]]
 
 You are uncommonly nimble for your race. You gain the following benefits:
 

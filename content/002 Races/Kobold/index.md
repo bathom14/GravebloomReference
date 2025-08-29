@@ -22,7 +22,7 @@
 
 **Subrace.** Much like the Dragonborn were created by the Dragons to act as their pawns and servants, the Kobold were created by the Dragonborn to serve as theirs. Three distinct phenotypes of Kobold exist, though they all often live intermixed together, each serving their own role.
 
-### Tunneling Kobold
+### [[Tunneling Kobold]]
 
 **Ability Score Increase.** Your Constitution score increases by 1.
 
@@ -32,9 +32,9 @@
 
 **Tough Scales.** You have tough, scaly skin. When you aren’t wearing armor, your base AC is 13 + your Dexterity modifier. You can use your natural armor to determine your AC if the armor you wear would leave you with a lower AC. A shield’s benefits apply as normal while you use your natural armor.
 
-**Digging Claws** You have mattock-like claws that you can use to make unarmed strikes. When you hit with it, the strike deals 1d6 + your Constitution modifier slashing damage, instead of the bludgeoning damage normal for an unarmed strike.
+**Digging Claws** You have mattock-like claws that you can use to make unarmed strikes. You use your Constitution modifier, instead of your Strength modifier, for your attack and damage rolls when you attack with these claws. The claws deal 1d6 slashing damage on a hit.
 
-### Tinkering Kobold
+### [[Tinkering Kobold]]
 
 **Ability Score Increase.** Your Intelligence score increases by 1.
 
@@ -46,9 +46,12 @@
 
 * **Repurposed Gear.** You put some odds and ends together to craft a simple version of a single piece of adventuring gear. The typical model of this piece of gear cannot cost more than 3gp. This item will break after 3 days, and may have some defects at your DM's discretion.
 
-* **Ramshackle Trap.** You concoct a nefarious trap for some unsuspecting soul. Once created, it requires 1 minute to carefully set-up. Once placed, it can be successfully detected or disarmed with a Wisdom (Perception) or Dexterity (Sleight of Hand) check, respectively, against a DC 10 + your proficiency bonus. This simple trap can take the form of your choice and may deal acid, bludgeoning, fire, piercing, poison, or slashing damage, The properties are determined by the components used in construction.
+* **Ramshackle Trap.** You concoct a nefarious trap for some unsuspecting soul. Once created, it requires 1 minute to carefully set-up. Once placed, it can be successfully detected or disarmed with a Wisdom (Perception) or Dexterity (Sleight of Hand) check, respectively, against a DC = 10 + your proficiency bonus + your Intelligence modifier. This simple trap can take the form of your choice and may deal acid, bludgeoning, fire, piercing, poison, or slashing damage, The properties are determined by the components used in construction. 
+	* The trap occupies a 5-ft square, and lasts 8 hours or until triggered. A creature that comes into contact with the trap triggers it, and must make a Dexterity save against the trap's DC.
+	* On a failure, the triggering creature is knocked prone and takes 2d6 damage of the type specified during it's creation. This damage increases by 2d6 when you reach 5th level (4d6), 11th level (6d6), and 17th level (8d6).
+	* You can only maintain a number of traps equal to your proficiency bonus. If you create an additional trap while already at your maximum number of traps, your oldest created trap is immediately rendered dysfunctional.
 
-### Rallying Kobold
+### [[Rousing Kobold]]
 
 **Ability Score Increase.** Your Charisma score increases by 1.
 
